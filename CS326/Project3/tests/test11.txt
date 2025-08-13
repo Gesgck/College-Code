@@ -1,0 +1,30 @@
+Jython 1.0.0 -- Oct 20th, 2024.
+Type '#help' for more information.
+
+def f(n int) int {
+if n == 0 { return 1 }
+else { return n * f(n - 1) }
+}
+INFO: Binding variable f in scope.
+INFO: Binding variable n in scope.
+INFO: Removing variable n from stack.
+INFO: Binding variable f in scope.
+
+>>> print f(5)
+INFO: Binding variable n in scope.
+INFO: Binding variable n in scope.
+INFO: Binding variable n in scope.
+INFO: Binding variable n in scope.
+INFO: Binding variable n in scope.
+INFO: Binding variable n in scope.
+INFO: Removing variable n from stack.
+INFO: Removing variable n from stack.
+INFO: Removing variable n from stack.
+INFO: Removing variable n from stack.
+INFO: Removing variable n from stack.
+INFO: Removing variable n from stack.
+120
+
+>>> #quit
+INFO: Removing variable f from stack.
+INFO: Removing variable f from stack.

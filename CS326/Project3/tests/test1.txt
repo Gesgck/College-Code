@@ -1,0 +1,28 @@
+Jython 1.0.0 -- Oct 20th, 2024.
+Type '#help' for more information.
+
+>>> def foo(x int, y int) int {
+...   var c int = x + y
+...   return c
+... }
+INFO: Binding variable foo in scope.
+INFO: Binding variable x in scope.
+INFO: Binding variable y in scope.
+INFO: Binding variable c in scope.
+INFO: Removing variable c from stack.
+INFO: Removing variable x from stack.
+INFO: Removing variable y from stack.
+INFO: Binding variable foo in scope.
+
+>>> print foo(10, 3)
+INFO: Binding variable x in scope.
+INFO: Binding variable y in scope.
+INFO: Binding variable c in scope.
+INFO: Removing variable c from stack.
+INFO: Removing variable x from stack.
+INFO: Removing variable y from stack.
+13
+
+>>> #quit
+INFO: Removing variable foo from stack.
+INFO: Removing variable foo from stack.

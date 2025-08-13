@@ -1,0 +1,7 @@
+Jython 1.0.0 -- Oct 20th, 2024.
+Type '#help' for more information.
+
+>>> print "hello world!"
+hello world!
+
+>>> #quit

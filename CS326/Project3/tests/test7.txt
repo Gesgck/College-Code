@@ -1,0 +1,18 @@
+Jython 1.0.0 -- Oct 20th, 2024.
+Type '#help' for more information.
+
+>>> var x int = 8
+INFO: Binding variable x in scope.
+INFO: Binding variable x in scope.
+
+>>> var y int = x * "hello"
+INFO: Binding variable y in scope.
+ERROR: Expected numerical operands for * operator. Found int and string.
+
+>>> print y
+ERROR: Unknown semantic error during name resolution.
+
+>>> #quit
+INFO: Removing variable x from stack.
+INFO: Removing variable y from stack.
+INFO: Removing variable x from stack.

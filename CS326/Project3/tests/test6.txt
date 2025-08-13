@@ -1,0 +1,15 @@
+Jython 1.0.0 -- Oct 20th, 2024.
+Type '#help' for more information.
+
+>>> var x int = [89, 0]
+INFO: Binding variable x in scope.
+ERROR: Operand types must match for the = operator. Found int and [2]int.
+
+>>> x = 3.5
+ERROR: Operand types must match for the = operator. Found real and int.
+
+>>> x = 19
+ERROR: Unknown semantic error during name resolution.
+
+>>> #quit
+INFO: Removing variable x from stack.

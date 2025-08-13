@@ -1,0 +1,105 @@
+Jython 1.0.0 -- Oct 20th, 2024.
+Type '#help' for more information.
+
+>>> def sqrt(x real) real {
+...   def x(y real) real {
+...     return 0.5 * (y + x/y)
+...   }
+...   var y real = x
+...   var i real = 30.0
+...   while i > 0.0 {
+...     y = x(y)
+...     i = i - 1.0
+...   }
+...   return y
+... }
+INFO: Binding variable sqrt in scope.
+INFO: Binding variable x in scope.
+INFO: Binding variable x in scope.
+INFO: Binding variable y in scope.
+INFO: Removing variable y from stack.
+INFO: Binding variable y in scope.
+INFO: Binding variable i in scope.
+INFO: Removing variable x from stack.
+INFO: Removing variable y from stack.
+INFO: Removing variable i from stack.
+INFO: Binding variable sqrt in scope.
+
+>>> print sqrt(2)
+ERROR: Expected argument type to be real, but found int.
+
+>>> print sqrt(2.0)
+INFO: Binding variable x in scope.
+INFO: Binding variable x in scope.
+INFO: Binding variable y in scope.
+INFO: Binding variable i in scope.
+INFO: Binding variable y in scope.
+INFO: Removing variable y from stack.
+INFO: Binding variable y in scope.
+INFO: Removing variable y from stack.
+INFO: Binding variable y in scope.
+INFO: Removing variable y from stack.
+INFO: Binding variable y in scope.
+INFO: Removing variable y from stack.
+INFO: Binding variable y in scope.
+INFO: Removing variable y from stack.
+INFO: Binding variable y in scope.
+INFO: Removing variable y from stack.
+INFO: Binding variable y in scope.
+INFO: Removing variable y from stack.
+INFO: Binding variable y in scope.
+INFO: Removing variable y from stack.
+INFO: Binding variable y in scope.
+INFO: Removing variable y from stack.
+INFO: Binding variable y in scope.
+INFO: Removing variable y from stack.
+INFO: Binding variable y in scope.
+INFO: Removing variable y from stack.
+INFO: Binding variable y in scope.
+INFO: Removing variable y from stack.
+INFO: Binding variable y in scope.
+INFO: Removing variable y from stack.
+INFO: Binding variable y in scope.
+INFO: Removing variable y from stack.
+INFO: Binding variable y in scope.
+INFO: Removing variable y from stack.
+INFO: Binding variable y in scope.
+INFO: Removing variable y from stack.
+INFO: Binding variable y in scope.
+INFO: Removing variable y from stack.
+INFO: Binding variable y in scope.
+INFO: Removing variable y from stack.
+INFO: Binding variable y in scope.
+INFO: Removing variable y from stack.
+INFO: Binding variable y in scope.
+INFO: Removing variable y from stack.
+INFO: Binding variable y in scope.
+INFO: Removing variable y from stack.
+INFO: Binding variable y in scope.
+INFO: Removing variable y from stack.
+INFO: Binding variable y in scope.
+INFO: Removing variable y from stack.
+INFO: Binding variable y in scope.
+INFO: Removing variable y from stack.
+INFO: Binding variable y in scope.
+INFO: Removing variable y from stack.
+INFO: Binding variable y in scope.
+INFO: Removing variable y from stack.
+INFO: Binding variable y in scope.
+INFO: Removing variable y from stack.
+INFO: Binding variable y in scope.
+INFO: Removing variable y from stack.
+INFO: Binding variable y in scope.
+INFO: Removing variable y from stack.
+INFO: Binding variable y in scope.
+INFO: Removing variable y from stack.
+INFO: Removing variable x from stack.
+INFO: Removing variable y from stack.
+INFO: Removing variable i from stack.
+1.0000000009313226
+
+>>> #quit
+INFO: Removing variable sqrt from stack.
+INFO: Removing variable x from stack.
+INFO: Removing variable sqrt from stack.
+INFO: Removing variable x from stack.

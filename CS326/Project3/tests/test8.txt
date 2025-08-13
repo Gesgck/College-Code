@@ -1,0 +1,16 @@
+Jython 1.0.0 -- Oct 20th, 2024.
+Type '#help' for more information.
+
+>>> print 5 ** 2
+25
+
+>>> print 5 ** "a"
+ERROR: Expected numerical operands for ** operator. Found int and string.
+
+>>> print 5 * [1,2,3,4]
+ERROR: Expected numerical operands for * operator. Found int and [4]int.
+
+>>> print ["34",4,true]
+ERROR: Expected types of array literal to be of the same type, but found string and int.
+
+>>> #quit

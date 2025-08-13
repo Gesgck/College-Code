@@ -1,0 +1,34 @@
+Jython 1.0.0 -- Oct 20th, 2024.
+Type '#help' for more information.
+
+>>> def f(x [4]int) void {
+...   for i int in x {
+...    print i
+...   }
+... }
+INFO: Binding variable f in scope.
+INFO: Binding variable x in scope.
+INFO: Binding variable i in scope.
+INFO: Removing variable x from stack.
+INFO: Removing variable i from stack.
+INFO: Binding variable f in scope.
+
+>>> var a[4]int = [10,9,23,8]
+INFO: Binding variable a in scope.
+INFO: Binding variable a in scope.
+
+>>> f(a)
+INFO: Binding variable x in scope.
+INFO: Binding variable i in scope.
+10
+9
+23
+8
+INFO: Removing variable x from stack.
+INFO: Removing variable i from stack.
+
+>>> #quit
+INFO: Removing variable a from stack.
+INFO: Removing variable f from stack.
+INFO: Removing variable a from stack.
+INFO: Removing variable f from stack.

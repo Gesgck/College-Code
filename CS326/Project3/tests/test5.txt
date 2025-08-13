@@ -1,0 +1,37 @@
+Jython 1.0.0 -- Oct 20th, 2024.
+Type '#help' for more information.
+
+>>> def f(x [4]int) void {
+...   for i int in x {
+...    print i
+...   }
+... }
+INFO: Binding variable f in scope.
+INFO: Binding variable x in scope.
+INFO: Binding variable i in scope.
+INFO: Removing variable x from stack.
+INFO: Removing variable i from stack.
+INFO: Binding variable f in scope.
+
+>>> f([1,35,7,0])
+INFO: Binding variable x in scope.
+INFO: Binding variable i in scope.
+1
+35
+7
+0
+INFO: Removing variable x from stack.
+INFO: Removing variable i from stack.
+
+>>> f("hello")
+ERROR: Expected argument type to be [4]int, but found string.
+
+>>> f(["1", "35", "7", "0"])
+ERROR: Types must match for arrays. Found array of type string and one with type int.
+
+>>> f(true)
+ERROR: Expected argument type to be [4]int, but found bool.
+
+>>> #quit
+INFO: Removing variable f from stack.
+INFO: Removing variable f from stack.

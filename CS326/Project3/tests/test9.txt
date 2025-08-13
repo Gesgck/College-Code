@@ -1,0 +1,13 @@
+Jython 1.0.0 -- Oct 20th, 2024.
+Type '#help' for more information.
+
+>>> true + false
+ERROR: Invalid operand for + operator. Expected numerical or string.
+
+>>> "hello" / 5
+ERROR: Expected numerical operands for / operator. Found string and int.
+
+>>> 5 / "hello"
+ERROR: Expected numerical operands for / operator. Found int and string.
+
+>>> #quit

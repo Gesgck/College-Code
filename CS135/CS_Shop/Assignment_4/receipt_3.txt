@@ -1,0 +1,25 @@
+
+/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\
+|                                      |
+|             UNLV CS Shop             |
+|         4505 S Maryland Pkwy         |
+|          Las Vegas,NV 89154          |
+|            (702) 895-3011            |
+|                                      |
+| chips                       1.49 x 2 |
+| chips                       1.49 x 2 |
+| chips                       1.49 x 2 |
+| chips                       1.49 x 2 |
+| chips                       1.49 x 2 |
+| chips                       1.49 x 2 |
+| chips                       1.49 x 2 |
+|                                      |
+| Subtotal                       20.86 |
+| Tax Rate                       8.25% |
+| Tax                             1.73 |
+| Total                          22.59 |
+|                                      |
+| Tendered                      200.00 |
+| Change                        177.41 |
+|                                      |
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/

@@ -1,0 +1,5521 @@
+Queries:
+Query:
+Country of Operator/Owner	Current Official Name of Satellite	
+Multinational	Eutelsat 113 West A	
+Multinational	Eutelsat 117 West A	
+Multinational	Eutelsat 117 West B	
+Mexico	Mexsat-3	
+Mexico	Mexsat-3	
+Mexico	Painani-1	
+Total Rows: 6
+Query:
+Current Official Name of Satellite	Class of Orbit	Launch Mass (kg.)	
+1HOPSAT-TD	LEO	22	
+Aalto-1	LEO	5	
+AAUSat-4	LEO	1	
+ABS-2	GEO	"6,330"	
+ABS-2A	GEO	"1,800"	
+ABS-3A	GEO	"2,000"	
+ABS-4	GEO	"4,143"	
+ABS-6	GEO	"2,894"	
+Adelis-Sampson 1	LEO	9	
+Adelis-Sampson 2	LEO	9	
+Adelis-Sampson 3	LEO	9	
+USA 311	GEO	"5,400"	
+USA 139	GEO	"5,200"	
+USA 171	GEO	"5,200"	
+USA 202	GEO	"5,400"	
+USA 223	GEO	"5,000"	
+USA 237	GEO	"5,000"	
+USA 268	GEO	"5,000"	
+USA 235	GEO	"6,169"	
+USA 246	GEO	"6,169"	
+USA 288	GEO	"6,169"	
+USA 292	GEO	"6,169"	
+USA 298	GEO	"6,169"	
+Aeneas	LEO	3	
+Aeolus	LEO	"1,367"	
+Aerocube 10A	LEO	2	
+Aerocube 10B	LEO	2	
+Aerocube 11A	LEO	4	
+Aerocube 11B	LEO	4	
+Aerocube 12A	LEO	4	
+Aerocube 12B	LEO	4	
+Aerocube 14A	LEO		
+Aerocube 14B	LEO		
+Aerocube 15A	LEO		
+Aerocube 5C	LEO	2	
+Aerocube 6A	LEO	5	
+Aerocube 6B	LEO	5	
+Aerocube 7A	LEO	2	
+Aerocube 7B	LEO	2	
+Aerocube 7C	LEO	2	
+Aerocube 8C	LEO	5	
+Aerocube 8D	LEO	2	
+Eutelsat 48D	GEO	"3,460"	
+AII-Bravo	LEO	9	
+AII-Charlie	LEO	9	
+AIM	LEO	215	
+AISSat-1	LEO	6	
+AISSat-2	LEO	6	
+AISTechSat-2	LEO	3	
+AISTechSat-3	LEO	2	
+Al Yah-3	GEO	"3,795"	
+Alcomsat	GEO	"5,225"	
+ALE-2	LEO	75	
+Alfa Crux	LEO	1	
+Al-Farabi-2	LEO	4	
+ALiCE	LEO	5	
+Alsat-1B	LEO	103	
+AlSat-1N	LEO	10	
+Alsat-2A	LEO	130	
+Alsat-2B	LEO	117	
+Amazonas-2	GEO	"5,465"	
+Amazonas-3	GEO	"6,265"	
+Amazonas-4A	GEO	"2,938"	
+Amazonas-5	GEO	"5,900"	
+Amazonia-1	LEO	637	
+AMC-1	GEO	"2,783"	
+AMC-11	GEO	"2,340"	
+AMC-15	GEO	"4,200"	
+AMC-18	GEO	"2,081"	
+AMC-21	GEO	"2,500"	
+AMC-4	GEO	"3,909"	
+AMC-6	GEO	"3,901"	
+AMC-8	GEO	"2,015"	
+AmGU-1	LEO	4	
+Amos 17	GEO	"6,500"	
+Amos 3	GEO		
+Amos 4	GEO		
+Amsat-Oscar 7	LEO	29	
+ANASIS-II	GEO		
+ANDESITE Mule	LEO	9	
+ANGELS	LEO	18	
+Anik F1	GEO	"4,710"	
+Anik F1R	GEO	"4,500"	
+Anik F2	GEO	"5,910"	
+Anik F3	GEO	"4,715"	
+Anik G1	GEO	"4,905"	
+AprizeSat 1	LEO	12	
+AprizeSat 10	LEO	12	
+AprizeSat 2	LEO	12	
+AprizeSat 3	LEO	12	
+AprizeSat 4	LEO	12	
+AprizeSat 5	LEO	12	
+AprizeSat 7	LEO	12	
+AprizeSat 8	LEO	12	
+AprizeSat 9	LEO	12	
+Apstar 6C	GEO		
+Apstar 6D	GEO	"5,550"	
+Apstar 7	GEO	"5,054"	
+Apstar 9	GEO	"5,200"	
+Arabsat 5C	GEO	"4,630"	
+Arabsat 6A	GEO	"6,465"	
+ARCE 1A	LEO	1	
+ARCE 1B	LEO	1	
+ARCE 1C	LEO	1	
+ARCSAT	LEO	10	
+ARICA	LEO	1	
+Arktika-M1	Elliptical	"2,200"	
+Arkyd-6A	LEO	10	
+ARMADILLO	Elliptical	4	
+ArSat 1	GEO	"3,000"	
+ArSat 2	GEO	"2,977"	
+Arthur	LEO	20	
+ASELSAT	LEO	5	
+AsiaSat-5	GEO	"3,760"	
+AsiaSat-6	GEO	"3,700"	
+AsiaSat-7	GEO	"3,813"	
+AsiaSat-8	GEO	"4,500"	
+AsiaSat-9	GEO	"6,140"	
+AsiaStar	GEO	"2,775"	
+ASNARO-1	LEO	500	
+ASNARO-2	LEO	570	
+ASTERISC	LEO	4	
+Astra 1G	GEO	"3,379"	
+Astra 1KR	GEO	"4,332"	
+Astra 1L	GEO	"4,500"	
+Astra 1M	GEO	"5,345"	
+Astra 1N	GEO	"5,350"	
+Astra 2A	GEO	"3,635"	
+Astra 2C	GEO	"3,643"	
+Astra 2D	GEO	"1,420"	
+Astra 2E	GEO	"6,052"	
+Astra 2F	GEO	"6,000"	
+Astra 2G	GEO	"6,000"	
+Astra 3A	GEO	"1,500"	
+Astra 3B	GEO	"5,471"	
+Astra 5B	GEO	"5,724"	
+Astranis Demosat-2	LEO		
+Astrocast-0101 	LEO	4	
+Astrocast-0102 	LEO	4	
+Astrocast-0103 	LEO	4	
+Astrocast-0104 	LEO	4	
+Astrocast-0105 	LEO	4	
+Astrocast-0201 	LEO	4	
+Astrocast-0202   	LEO	4	
+Astrocast-0203	LEO	4	
+Astrocast-0204 	LEO	4	
+Astrocast-0205 	LEO	4	
+Astrosat	LEO	230	
+AT&T T16	GEO	"6,350"	
+Athena	LEO	138	
+Athena-Fidus	GEO	"3,080"	
+Athenoxat-1	LEO	6	
+Azerspace 1/Africasat-1a	GEO	"3,250"	
+Azerspace 2/Intelsat-38	GEO	"3,500"	
+Badr 4	GEO	"3,304"	
+Badr 5	GEO	"5,420"	
+Badr 5A	GEO	"4,940"	
+Badr 6	GEO	"3,400"	
+Badr 7	GEO	"5,500"	
+Bangabandhu 1	GEO	"3,500"	
+Baoyun	LEO	20	
+Cosmos 2503	LEO	"4,000"	
+Cosmos 2515	LEO	"4,000"	
+BDSAGR-1	LEO	40	
+BDSAT	LEO	1	
+Beesat-5	LEO	1	
+Beesat-6	LEO	1	
+Beesat-7	LEO	1	
+Beesat-8	LEO	1	
+Beesat-9	LEO	1	
+Beidou 2-12	MEO	"2,200"	
+Beidou 2-13	MEO	"2,200"	
+Beidou 2-15	MEO	"3,800"	
+Beidou 2-16	GEO	"3,800"	
+Beidou 2-17	GEO	"4,200"	
+Beidou 2-18	GEO	"3,800"	
+Beidou 3I-1S	GEO	"4,200"	
+Beidou 3I-2S	GEO	"4,200"	
+Beidou 3-M1	MEO	800	
+Beidou 3-23	MEO	800	
+Beidou 3-24	MEO	800	
+Beidou 3-25	MEO	800	
+Beidou 3M-1S	MEO	800	
+Beidou 3M-2S	MEO	800	
+Beidou DW 26	MEO	800	
+Beidou DW 27	MEO	800	
+Beidou DW 28	MEO	800	
+Beidou DW 29	MEO	800	
+Beidou DW 30	MEO	800	
+Beidou DW 31	MEO	800	
+Beidou DW 32	GEO	800	
+Beidou DW 33	MEO	800	
+Beidou DW 34	MEO	800	
+Beidou DW 35	MEO	800	
+Beidou DW 36	MEO	800	
+Beidou DW 37	MEO	800	
+Beidou DW 38	MEO	800	
+Beidou DW 39	MEO	800	
+Beidou DW 40	MEO	800	
+Beidou DW 41	GEO	800	
+Beidou DW 42	MEO	800	
+Beidou DW 43	MEO	800	
+Beidou DW 44	GEO	800	
+Beidou DW 45	GEO	800	
+Beidou DW 46	GEO	800	
+Beidou 3 IGSO-3	GEO	"4,200"	
+Beidou DW 50	MEO	800	
+Beidou DW 51	MEO	800	
+Beidou DW 52	MEO	800	
+Beidou DW 53	MEO	800	
+Beidou DW 55	GEO	800	
+Beidou G3	GEO	"2,200"	
+Beidou G4	GEO	"6,000"	
+Beidou G5	GEO	"2,300"	
+Beidou IGSO-1	GEO	"4,200"	
+Beidou IGSO-2	GEO	"4,200"	
+Beidou IGSO-3	GEO	"4,200"	
+Beidou IGSO-4	GEO	"4,200"	
+Beidou IGSO-5	GEO	"4,200"	
+Beijing-3	LEO		
+BeijinGalaxy-1	LEO	166	
+Belintersat-1	GEO	"5,223"	
+Bispectral InfraRed Detector 2 (Bird 2)	LEO	92	
+BIROS	LEO	130	
+BisonSat	LEO	1	
+BKA 2	LEO	400	
+BlackSky Global 1	LEO	56	
+BlackSky Global 14	LEO	55	
+BlackSky Global 15	LEO	55	
+BlackSky Global 16	LEO	55	
+BlackSky Global 17	LEO	55	
+BlackSky Global 18	LEO	55	
+BlackSky Global 2	LEO	55	
+BlackSky Global 20	LEO	55	
+BlackSky Global 3	LEO	56	
+BlackSky Global 4	LEO	56	
+BlackSky Global 7	LEO	56	
+BlackSky Global 8	LEO	56	
+BlackSky Global 9	LEO	56	
+BlackSky Pathfinder 1	LEO	44	
+Cosmos 2520	GEO	"3,000"	
+Cosmos 2526	GEO	"3,000"	
+Cosmos 2533	GEO	"3,000"	
+Cosmos 2539	GEO	"3,000"	
+Bluewalker 1	LEO	10	
+Brazilsat B-4	GEO	"2,495"	
+Brik-II	LEO	10	
+BRIO	LEO	4	
+BRISat	GEO	"3,540"	
+BRITE-CA-1	LEO	10	
+BRITE-PL-2	LEO	10	
+BRO-1	LEO	8	
+BRO-4	LEO	8	
+BRO-7	LEO	10	
+BSAT-3A	GEO	"1,980"	
+BSAT-3B	GEO	"2,060"	
+BSAT-3C/JCSat 110-R	GEO	"2,910"	
+BSAT-4A	GEO	"3,520"	
+BSAT-4B	GEO	"3,520"	
+Buccaneer RMM	LEO	4	
+Bufeng-1A	LEO		
+Bufeng-1B	LEO		
+Bugsat-1	LEO	25	
+BulgariaSat-1	GEO	"3,669"	
+CACTUS-1	LEO	4	
+Calipso	LEO	587	
+CanX-2	LEO	7	
+CanX-4	LEO	15	
+CanX-5	LEO	15	
+CanX-7	LEO	15	
+CAPE-3	LEO	1	
+Capella-1	LEO	37	
+Capella-2	LEO	107	
+Capella-3	LEO	107	
+Capella-4	LEO	107	
+Capella-5	LEO	107	
+Capella-6	LEO	100	
+Capella-7	LEO	112	
+Capella-8	LEO	112	
+CartoSat 1	LEO	"1,560"	
+CartoSat 2	LEO	680	
+CartoSat 2A	LEO	680	
+CartoSat 2B	LEO	694	
+CartoSat 2C	LEO	727	
+CartoSat 2D	LEO	714	
+CartoSat 2E	LEO	712	
+CartoSat 2F	LEO	712	
+CartoSat 3	LEO	"1,625"	
+CAS500-1	LEO	500	
+Cassiope	LEO	490	
+USA 283	GEO		
+CBERS 4	LEO	"1,980"	
+CBERS 4A	LEO	"1,980"	
+CBNT-1	LEO	91	
+CBNT-2	LEO		
+CELTEE-1	LEO	3	
+Centauri-1	LEO	4	
+Centauri-2	LEO	4	
+Centispace-1-S1	LEO	100	
+CeReS	LEO	4	
+CERES	LEO	400	
+CERES	LEO	400	
+CERES	LEO	400	
+CE-SAT-1	LEO	3	
+CE-SAT-2B	LEO	36	
+Cesium Satellite 1	LEO	10	
+Cesium Satellite 2	LEO	10	
+CFESat	LEO	159	
+CFOSat	LEO	700	
+Challenge One	LEO	3	
+Chandra X-Ray Observatory (CXO)	Elliptical	"4,742"	
+Changshagaoxin 	LEO	8	
+Chao Fenbianlu	LEO	50	
+Chaohu-1	LEO	325	
+CHASE	LEO	500	
+Chefsat-2	LEO		
+CHEOPS	LEO	273	
+CHOMPTT	LEO	4	
+Chuangxin 1-1	LEO	100	
+Chuangxin 1-2	LEO	101	
+Chuangxin 1-3	LEO	100	
+Chuangxin 1-4	LEO	100	
+Chuangxin-3	LEO	200	
+Cicero-10	LEO	10	
+Cicero-2	LEO	10	
+Cicero-3	LEO	10	
+Cicero-6	LEO	10	
+Cicero-7	LEO	10	
+Cicero-8	LEO	10	
+Ciel-2	GEO	"5,585"	
+CINEMA-1	LEO	3	
+CiRiS	LEO	9	
+USA 257	GEO		
+Cloudsat	LEO	848	
+CMS-1	GEO	"1,500"	
+CNCE-1	LEO	5	
+CNCE-3	LEO	5	
+Compass-2	LEO	5	
+COMS-1	GEO	"2,460"	
+COMSATBw-1	GEO	"2,440"	
+COMSATBw-2	GEO	"2,440"	
+Condor E2	LEO		
+Coriolis	LEO	817	
+CORVUS BC1	LEO	10	
+CORVUS BC2	LEO	10	
+CORVUS BC3	LEO	10	
+CORVUS BC4	LEO	10	
+CORVUS BC5	LEO	10	
+COSMIC 2-1	LEO	280	
+COSMIC 2-2	LEO	280	
+COSMIC 2-3	LEO	280	
+COSMIC 2-4	LEO	280	
+COSMIC 2-5	LEO	280	
+COSMIC 2-6	LEO	280	
+COSMIC-A	LEO	70	
+COSMIC-B	LEO	70	
+COSMIC-D	LEO	70	
+COSMIC-E	LEO	70	
+COSMIC-F	LEO	70	
+Cosmos 2504	LEO		
+Cosmos 2535	LEO		
+Cosmos 2536	LEO		
+Cosmos 2542	LEO		
+Cosmos 2543	LEO		
+Cosmos 2537	LEO		
+Cosmos 2538	LEO		
+COSMO-Skymed 1	LEO	"1,700"	
+COSMO-Skymed 2	LEO	"1,700"	
+COSMO-Skymed 3	LEO	"1,700"	
+COSMO-Skymed 4	LEO	"1,700"	
+COSMO-Skymed FM2	LEO	"1,800"	
+CP-10	LEO	4	
+Cryosat-2	LEO	720	
+CSG-1	LEO	"2,205"	
+CSIM-FD	LEO	6	
+CSO-1	LEO	"3,565"	
+CSO-2	LEO	"3,565"	
+Cubebug 2	LEO	2	
+Cubesail USAT	LEO	3	
+Cubesat XI-IV 	LEO		
+CuPID	LEO	10	
+CUTE	LEO	10	
+CYGNSS-A	LEO	29	
+CYGNSS-B	LEO	29	
+CYGNSS-C	LEO	29	
+CYNGSS-D	LEO	29	
+CYGNSS-E	LEO	29	
+CYGNSS-F	LEO	29	
+CYGNSS-G	LEO	29	
+CYGNSS-H	LEO	29	
+D2/AtlaCom-1 	LEO	9	
+Daichi-2	LEO	"2,120"	
+DAMPE	LEO	"1,850"	
+DaVinci	LEO	4	
+Dayun	LEO	20	
+DCBB	LEO	3	
+Deimos 1	LEO	90	
+Deimos 2	LEO	310	
+Dekart	LEO	5	
+Delfi-C3	LEO	7	
+DeMi	LEO	9	
+DhabiSat-1	LEO	4	
+DHFR	LEO	8	
+Diamond Blue	LEO	6	
+Diamond Green	LEO	6	
+Diamond Red	LEO	6	
+Dido-2	LEO	10	
+Dido-3	LEO	6	
+DirecTV-10	GEO	"5,900"	
+DirecTV-11	GEO	"5,900"	
+DirecTV-12	GEO	"5,900"	
+DirecTV-14	GEO	"5,900"	
+DirecTV-15	GEO	"5,500"	
+DirecTV-5	GEO	"4,300"	
+DirecTV-8	GEO	"3,800"	
+DirecTV-9S	GEO	"5,500"	
+Diwata-2B	LEO	56	
+DLR Tubsat	LEO	45	
+DMC 3-1	LEO	447	
+DMC 3-2	LEO	447	
+DMC 3-3	LEO	447	
+DMSat-1	LEO	15	
+USA 131	LEO	"1,134"	
+USA 147	LEO	"1,152"	
+USA 172	LEO	"1,154"	
+USA 173	LEO	"1,154"	
+USA 210	LEO	"1,155"	
+Dodona	LEO	5	
+DoT-1	LEO	18	
+Dove 2k-10	LEO	3	
+Dove 2k-12	LEO	3	
+Dove 2k-15	LEO	3	
+Dove 2k-18	LEO	3	
+Dove 2k-19	LEO	3	
+Dove  2k-29	LEO	3	
+Dove 2k-30	LEO	3	
+Dove 2k-32	LEO	3	
+Dove 2k-35	LEO	3	
+Dove 2k-39	LEO	3	
+Dove 2k-40	LEO	3	
+Dove 2k-7	LEO	3	
+Dove 2p-3	LEO	3	
+Dove 2p-8	LEO	3	
+Dove 2p-9	LEO	3	
+Dove 3k-10	LEO	4	
+Dove 3k-4	LEO	4	
+Dove 3k-5	LEO	4	
+Dove 3k-7	LEO	4	
+Dove 3k-9	LEO	4	
+Dove 3m-4	LEO	4	
+Dove 3p-11	LEO	4	
+Dove  3p-12	LEO	4	
+Dove 3p-2	LEO	4	
+Dove 3p'-2	LEO	4	
+Dove  3p-23	LEO	4	
+Dove  3p-24	LEO	4	
+Dove 3p-37	LEO	4	
+Dove 3p'-3	LEO	4	
+Dove 3p-32	LEO	4	
+Dove 3p-33	LEO	4	
+Dove 3p-34	LEO	4	
+Dove 3p-4	LEO	4	
+Dove 3p'-4	LEO	4	
+Dove 3p-46	LEO	4	
+Dove 3p-49	LEO	4	
+Dove 3p-50	LEO	4	
+Dove 3p-54	LEO	4	
+Dove 3p-55	LEO	4	
+Dove 3p-57	LEO	4	
+Dove 3p-58	LEO	4	
+Dove 3p-61	LEO	4	
+Dove 3p-64	LEO	4	
+Dove 3p-65	LEO	4	
+Dove 3p-66	LEO	4	
+Dove 3p-74	LEO	4	
+Dove 3p-76	LEO	4	
+Dove 3p-80	LEO	4	
+Dove 3r-1	LEO	4	
+Dove 3r-11	LEO	4	
+Dove 3r-12	LEO	4	
+Dove 3r-4	LEO	4	
+Dove 3r-7	LEO	4	
+Dove 3r-7	LEO	4	
+Dove 3r-9	LEO	4	
+Dove 3s-1	LEO	4	
+Dove 4a-11	LEO	4	
+Dove 4a-17	LEO	4	
+Dove 4a-19	LEO	4	
+Dove 4a-2	LEO	4	
+Dove 4a-5	LEO	4	
+Dove 4a-6	LEO	4	
+Dove 4a-9	LEO	4	
+Dove 4e'-1	LEO	4	
+Dove 4e’-2	LEO	4	
+Dove 4e’-3 	LEO	4	
+Dove 4e’-4 	LEO	4	
+Dove 4e’-5 	LEO	4	
+Dove 4e’-6 	LEO	4	
+Dove 4e'-8	LEO	4	
+Dove 4e’-8	LEO	4	
+Dove 4e’-9 	LEO	4	
+Dove 4p-1	LEO	4	
+Dove 4p-10	LEO	4	
+Dove 4p-11	LEO	4	
+Dove 4p-3	LEO	4	
+Dove 4p-4	LEO	4	
+Dove 4p-5	LEO	4	
+Dove 4p-7	LEO	4	
+Dove 4s-1 	LEO	4	
+Dove 4s-10 	LEO	4	
+Dove 4s-11 	LEO	4	
+Dove 4s-12 	LEO	4	
+Dove 4s-13 	LEO	4	
+Dove 4s-14 	LEO	4	
+Dove 4s-15 	LEO	4	
+Dove 4s-16 	LEO	4	
+Dove 4s-17 	LEO	4	
+Dove 4s-18 	LEO	4	
+Dove 4s-19 	LEO	4	
+Dove 4s-2 	LEO	4	
+Dove 4s-20 	LEO	4	
+Dove 4s-21 	LEO	4	
+Dove 4s-22 	LEO	4	
+Dove 4s-23 	LEO	4	
+Dove 4s-24 	LEO	4	
+Dove 4s-25 	LEO	4	
+Dove 4s-26 	LEO	4	
+Dove 4s-27 	LEO	4	
+Dove 4s-28 	LEO	4	
+Dove 4s-29 	LEO	4	
+Dove 4s-3 	LEO	4	
+Dove 4s-30 	LEO	4	
+Dove 4s-31 	LEO	4	
+Dove 4s-32 	LEO	4	
+Dove 4s-33 	LEO	4	
+Dove 4s-34 	LEO	4	
+Dove 4s-35 	LEO	4	
+Dove 4s-36 	LEO	4	
+Dove 4s-37 	LEO	4	
+Dove 4s-39 	LEO	4	
+Dove 4s-4 	LEO	4	
+Dove 4s-40 	LEO	4	
+Dove 4s-41 	LEO	4	
+Dove 4s-42 	LEO	4	
+Dove 4s-43 	LEO	4	
+Dove 4s-44 	LEO	4	
+Dove 4s-45 	LEO	4	
+Dove 4s-46 	LEO	4	
+Dove 4s-47 	LEO	4	
+Dove 4s-48 	LEO	4	
+Dove 4s-5 	LEO	4	
+Dove 4s-6 	LEO	4	
+Dove 4s-7 	LEO	4	
+Dove 4s-8 	LEO	4	
+Dove 4s-9 	LEO	4	
+Dove 4v-1	LEO	4	
+Dove 4v-10	LEO	4	
+Dove 4v-11	LEO	4	
+Dove 4v-12	LEO	4	
+Dove 4v-13	LEO	4	
+Dove 4v-14	LEO	4	
+Dove 4v-15	LEO	4	
+Dove 4v-16	LEO	4	
+Dove 4v-17	LEO	4	
+Dove 4v-18	LEO	4	
+Dove 4v-19	LEO	4	
+Dove 4v-2	LEO	4	
+Dove 4v-20	LEO	4	
+Dove 4v-22	LEO	4	
+Dove 4v-23	LEO	4	
+Dove 4v-24	LEO	4	
+Dove 4v-25	LEO	4	
+Dove 4v-26	LEO	4	
+Dove 4v-4	LEO	4	
+Dove 4v-5	LEO	4	
+Dove 4v-6	LEO	4	
+Dove 4v-7	LEO	4	
+Dove 4v-8	LEO	4	
+Dove 4v-9	LEO	4	
+Dove 4x-1	LEO	6	
+Dove 4x-10	LEO	6	
+Dove 4x-11	LEO	6	
+Dove 4x-12	LEO	6	
+Dove 4x-13	LEO	6	
+Dove 4x-14	LEO	6	
+Dove 4x-15	LEO	6	
+Dove 4x-16	LEO	6	
+Dove 4x-17	LEO	6	
+Dove 4x-18	LEO	6	
+Dove 4x-19	LEO	6	
+Dove 4x-2	LEO	6	
+Dove 4x-20	LEO	6	
+Dove 4x-21	LEO	6	
+Dove 4x-22	LEO	6	
+Dove 4x-23	LEO	6	
+Dove 4x-24	LEO	6	
+Dove 4x-25	LEO	6	
+Dove 4x-26	LEO	6	
+Dove 4x-27	LEO	6	
+Dove 4x-28	LEO	6	
+Dove 4x-29	LEO	6	
+Dove 4x-3	LEO	6	
+Dove 4x-30	LEO	6	
+Dove 4x-31	LEO	6	
+Dove 4x-32	LEO	6	
+Dove 4x-33	LEO	6	
+Dove 4x-34	LEO	6	
+Dove 4x-35	LEO	6	
+Dove 4x-36	LEO	6	
+Dove 4x-37	LEO	6	
+Dove 4x-38	LEO	6	
+Dove 4x-39	LEO	6	
+Dove 4x-4	LEO	6	
+Dove 4x-40	LEO	6	
+Dove 4x-41	LEO	6	
+Dove 4x-42	LEO	6	
+Dove 4x-43	LEO	6	
+Dove 4x-44	LEO	6	
+Dove 4x-5	LEO	6	
+Dove 4x-6	LEO	6	
+Dove 4x-7	LEO	6	
+Dove 4x-8 	LEO	6	
+Dove 4x-9	LEO	6	
+DQ-1	LEO	"2,600"	
+DRUMS	LEO	62	
+USA 167	GEO	"1,156"	
+USA 170	GEO	"1,156"	
+USA 135	GEO	"1,156"	
+USA 148	GEO	"1,156"	
+USA 153	GEO	"1,156"	
+USA 113	GEO	"1,156"	
+USA 149	GEO	"2,380"	
+USA 159	GEO	"2,380"	
+USA 176	GEO	"2,380"	
+D-Star ONE Sparrow	LEO	4	
+DSX	MEO	600	
+DubaiSat-2	LEO	300	
+Duogongneng Shiyan Weixing 	LEO		
+Eagle-1	GEO	"2,845"	
+Eaglet-1	LEO	4	
+Echostar 10	GEO	"4,333"	
+Echostar 11	GEO	"5,500"	
+Echostar 14	GEO	"6,384"	
+Echostar 15	GEO	"5,521"	
+Echostar 16	GEO	"6,658"	
+Echostar 17	GEO	"6,100"	
+Echostar 18	GEO	"6,300"	
+Echostar 19	GEO	"6,764"	
+Echostar 21	GEO	"6,900"	
+Echostar 23	GEO	"5,600"	
+Echostar 7 	GEO	"4,027"	
+Echostar 9/Galaxy 23	GEO	"4,000"	
+Echostar G1	GEO	"6,600"	
+Ecuador-UTE	LEO	4	
+EDRS-C	GEO	"3,186"	
+EgyptSat-A	LEO	"2,200"	
+Cosmos 2510	Elliptical		
+Cosmos 2518	Elliptical		
+Cosmos 2541	Elliptical		
+Cosmos 2546	Elliptical		
+Cosmos 2552	Elliptical	"2,000"	
+El Camino Real	LEO	20	
+Electro-L1	GEO	"1,766"	
+Electro-L2	GEO	"1,800"	
+Electro-L3	GEO	"2,094"	
+ELFIN-A	LEO	4	
+ELFIN-Star	LEO	4	
+ELISA-E12	LEO	120	
+ELISA-E24	LEO	120	
+ELISA-W11	LEO	120	
+ELISA-W23	LEO	120	
+ELSA-d	LEO	175	
+EMISat	LEO	436	
+Cosmos 2555	LEO	520	
+EnMAP	LEO	980	
+EOS-1	LEO	630	
+EOS-1	LEO	"1,710"	
+Terra	LEO	"4,854"	
+Aura	LEO	"2,967"	
+Aqua	LEO	"2,934"	
+Cosmos 2548	LEO	3	
+ERG	Elliptical	350	
+EROS B-1	LEO	350	
+ESAIL	LEO	112	
+ESEO	LEO	45	
+Es'hail-1	GEO		
+Es'hail-2	GEO	"5,300"	
+USA 286	GEO		
+ETRSS-1	LEO	70	
+ET-SMART-RSS	LEO	9	
+Eu:CROPIS	LEO	230	
+Eutelsat 10A	GEO	"5,900"	
+Eutelsat 113 West A	GEO	"5,456"	
+Eutensat 115 West B	GEO		
+Eutelsat 117 West A	GEO	"5,474"	
+Eutelsat 117 West B	GEO	"5,500"	
+Eutelsat 133 West A	GEO	"2,950"	
+Eutelsat 7A	GEO	"4,300"	
+Eutelsat 16A	GEO	"5,400"	
+Eutelsat 172B	GEO	"3,600"	
+Eutelsat 174A	GEO	"5,000"	
+Eutelsat 21B	GEO	"5,102"	
+Eutelsat 33E	GEO	"4,892"	
+Eutelsat 36A	GEO	"3,190"	
+Eutelsat 36B	GEO	"5,600"	
+Eutelsat 3B	GEO	"5,967"	
+Eutelsat 5 West A	GEO	"4,050"	
+Eutelsat 5 West B	GEO	"2,864"	
+Eutelsat 65 West A	GEO	"6,654"	
+Eutelsat 7 West A	GEO	"4,600"	
+Eutelsat 70B	GEO	"5,250"	
+Eutelsat 7B	GEO	"5,404"	
+Eutelsat 7C	GEO	"3,400"	
+Eutelsat 8 West B	GEO	"5,800"	
+Eutelsat 9B	GEO	"5,200"	
+Eutelsat Hot Bird 13B	GEO	"4,900"	
+Eutelsat Hot Bird 13C	GEO	"4,880"	
+Eutelsat Hot Bird 13E	GEO	"4,100"	
+Eutelsat KA-SAT 9A	GEO	"6,150"	
+Eutelsat Konnect	GEO	"3,618"	
+Eutelsat Quantum	GEO	"3,461"	
+exactView 6	LEO	12	
+exactView 9	LEO	6	
+eXCITE	LEO	155	
+ExoCube-2	LEO	4	
+Express-103	GEO	"2,150"	
+Express-80	GEO	"2,150"	
+Express-AM3	GEO	"2,600"	
+Express-AM33	GEO	"2,600"	
+Express-AM44	GEO	"2,532"	
+Express-AM5	GEO	"3,400"	
+Express-AM6	GEO	"3,358"	
+Express-AM7	GEO	"5,720"	
+Express-AM8	GEO	"2,100"	
+Express-AMU1	GEO	"2,700"	
+Express-AMU3	GEO	"2,150"	
+Express-AMU7	GEO	"1,980"	
+Express-AT1	GEO	"1,726"	
+Express-AT2	GEO	"1,427"	
+ExSeedSat-1	LEO	4	
+Eyesat	LEO	5	
+FACSAT-1	LEO	5	
+FalconEye-2	LEO	"1,180"	
+Falconsat-3	LEO	46	
+Falconsat-6	LEO	181	
+Falconsat-7	Elliptical	5	
+USA 300	LEO	136	
+Faraday Phoenix	LEO	10	
+USA 222	LEO	55	
+Fengmaniu-1	LEO	3	
+Fengniao 1A	LEO	160	
+Fengyun 2F	GEO	"1,390"	
+Fengyun 2G	GEO	"1,390"	
+Fengyun 4H	GEO	"1,380"	
+Fengyun 3B	LEO	"2,300"	
+Fengyun 3C	LEO	"2,300"	
+Fengyun 3D	LEO	"2,300"	
+Fengyun 3E	LEO	"2,450"	
+Fengyun 4A	GEO	"5,300"	
+Fengyun 4B	GEO	"5,300"	
+Fermi Gamma-Ray Space Telescope	LEO	"4,303"	
+USA 215	LEO		
+USA 234	LEO		
+USA 247	LEO		
+USA 267	LEO		
+USA 281	LEO		
+Firebird-C	LEO	2	
+Firebird-D	LEO	2	
+FLP	LEO	120	
+USA 46	GEO	"2,310"	
+FormoSat-5	LEO	525	
+FORTÉ 	LEO	215	
+Foshan 1	LEO	70	
+FossaSat-2E2	LEO	1	
+FossaSat-2E1	LEO	1	
+FossaSat-2E3	LEO	1	
+FossaSat-2E4	LEO	1	
+FossaSat-2E5	LEO	1	
+FossaSat-2E6	LEO	1	
+Fox-1Cliff	LEO	2	
+FSSCAT-A	LEO	10	
+FSSCAT-B	LEO	10	
+FUNCube-1 (AO-73)	LEO	1	
+Galaxy-11	GEO	"4,488"	
+Galaxy-12	GEO	"1,760"	
+Galaxy-13	GEO	"4,060"	
+Galaxy-14	GEO	"2,086"	
+Galaxy-15	GEO	"2,033"	
+Galaxy-16	GEO	"4,640"	
+Galaxy-17	GEO	"4,100"	
+Galaxy-18	GEO	"4,642"	
+Galaxy-19	GEO	"4,690"	
+Galaxy-25	GEO	"3,515"	
+Galaxy-28	GEO	"5,493"	
+Galaxy-30	GEO	"3,298"	
+Galaxy-3C	GEO	"4,860"	
+Galileo FOC FM1	Elliptical	733	
+Galileo FOC FM10	MEO	723	
+Galileo FOC FM11	MEO	723	
+Galileo FOC FM12	MEO	723	
+Galileo FOC FM13	MEO	723	
+Galileo FOC FM14	MEO	723	
+Galileo FOC FM15	MEO	715	
+Galileo FOC FM16	MEO	715	
+Galileo FOC FM17	MEO	715	
+Galileo FOC FM18	MEO	715	
+Galileo FOC FM19	MEO	715	
+Galileo FOC FM2	Elliptical	733	
+Galileo FOC FM20	MEO	715	
+Galileo FOC FM21	MEO	715	
+Galileo FOC FM22	MEO	715	
+Galileo FOC FM23	MEO	733	
+Galileo FOC FM24	MEO	733	
+Galileo FOC FM3	MEO	723	
+Galileo FOC FM4	MEO	723	
+Galileo FOC FM5	MEO	723	
+Galileo FOC FM6	MEO	723	
+Galileo FOC FM7	MEO	723	
+Galileo FOC FM8	MEO	723	
+Galileo FOC FM9	MEO	723	
+Galileo IOV-1 FM2	MEO	700	
+Galileo IOV-1 PFM	MEO	700	
+Galileo IOV-2 FM3	MEO	700	
+Galileo IOV-2 FM4	MEO	700	
+Gaofen 1	LEO	"1,000"	
+Gaofen 10	LEO	"1,000"	
+Gaofen 1-02	LEO	805	
+Gaofen 1-03	LEO	805	
+Gaofen 1-04	LEO	805	
+Gaofen 1-05	LEO	805	
+Gaofen 1-06	LEO	"1,064"	
+Gaofen 11	Elliptical	"1,000"	
+Gaofen 11-02	Elliptical	"1,000"	
+Gaofen 11-03	Elliptical	"3,000"	
+Gaofen 12	LEO	"1,000"	
+Gaofen 12-02	LEO	"3,000"	
+Gaofen 13	GEO	"1,000"	
+Gaofen 14	LEO	"1,000"	
+Gaofen 2	LEO	"1,000"	
+Gaofen 3	LEO	"1,000"	
+Gaofen 3-02	LEO	"2,500"	
+Gaofen 3-03	LEO	"2,500"	
+Gaofen 4	GEO	"4,600"	
+Gaofen 5-02	LEO	"4,200"	
+Gaofen 7	LEO	9	
+Gaofen 8	LEO	"1,000"	
+Gaofen 9	LEO	"1,000"	
+Gaofen 9-02	LEO	"1,000"	
+Gaofen 9-03	LEO	"1,000"	
+Gaofen 9-04	LEO	"1,000"	
+Gaofen 9-05	LEO	"1,000"	
+Gaofen Multi-Mode 1	LEO		
+Cosmos 2513	GEO	"5,000"	
+GATOSS	LEO	5	
+GCOM-C	LEO	"2,200"	
+GEARRS-3	LEO	4	
+GEARRSAT-2	LEO	10	
+GECAM-A	LEO	150	
+GECAM-B	LEO	150	
+Genesis-1	LEO	"1,360"	
+Genesis-2	LEO	"1,360"	
+Cosmos 2517	LEO	900	
+Cosmos 2540	LEO	900	
+GeoEye-1	LEO	"1,955"	
+GEO-Kompsat-2A	GEO	"3,507"	
+GEO-Kompsat-2B	GEO	"3,379"	
+Geomagnetic Tail Laboratory (Geotail)	Elliptical	980	
+Ghalib	LEO	3	
+GHGSat-C1	LEO	15	
+GHGSat-C2	LEO	15	
+GHGSat-D	LEO	15	
+GCOM-1	LEO	"1,900"	
+Globalstar FM37	LEO	450	
+Globalstar M065	LEO	450	
+Globalstar M066	LEO	450	
+Globalstar M067	LEO	450	
+Globalstar M069	LEO	450	
+Globalstar M070	LEO	450	
+Globalstar M071	LEO	450	
+Globalstar M072	LEO	450	
+Globalstar M073	LEO	700	
+Globalstar M074	LEO	700	
+Globalstar M075	LEO	700	
+Globalstar M076	LEO	700	
+Globalstar M077	LEO	700	
+Globalstar M078	LEO	700	
+Globalstar M079	LEO	700	
+Globalstar M080	LEO	700	
+Globalstar M081	LEO	700	
+Globalstar M082	LEO	700	
+Globalstar M083	LEO	700	
+Globalstar M084	LEO	700	
+Globalstar M085	LEO	700	
+Globalstar M086	LEO	700	
+Globalstar M088	LEO	700	
+Globalstar M089	LEO	700	
+Globalstar M090	LEO	700	
+Globalstar M091	LEO	700	
+Globalstar M092	LEO	700	
+Globalstar M093	LEO	700	
+Globalstar M094	LEO	700	
+Globalstar M095	LEO	700	
+Globalstar M096	LEO	700	
+Globalstar M097	LEO	700	
+Cosmos 2471	MEO	935	
+Cosmos 2501	MEO	935	
+Cosmos 2547	MEO	"1,415"	
+Cosmos 2425	MEO	"1,480"	
+Cosmos 2426	MEO	"1,480"	
+Cosmos 2432	MEO	"1,480"	
+Cosmos 2433	MEO	"1,480"	
+Cosmos 2434	MEO	"1,480"	
+Cosmos 2436	MEO	"1,480"	
+Cosmos 2456	MEO	"1,415"	
+Cosmos 2459	MEO	"1,415"	
+Cosmos 2460	MEO	"1,415"	
+Cosmos 2457	MEO	"1,415"	
+Cosmos 2461	MEO	"1,415"	
+Cosmos 2464	MEO	"1,415"	
+Cosmos 2476	MEO	"1,415"	
+Cosmos 2477	MEO	"1,415"	
+Cosmos 2475	MEO	"1,415"	
+Cosmos 2485	MEO	"1,415"	
+Cosmos 2514	MEO	"1,415"	
+Cosmos 2522	MEO	"1,415"	
+Cosmos 2516	MEO	"1,415"	
+Cosmos 2500	MEO	"1,415"	
+Cosmos 2527	MEO	"1,415"	
+Cosmos 2529	MEO	"1,415"	
+Cosmos 2534	MEO	"1,415"	
+Cosmos 2544	MEO	"1,415"	
+Cosmos 2545	MEO	"1,415"	
+GMS-T	LEO	50	
+GNOMES-1	LEO	30	
+GNOMES-2	LEO	30	
+GNOMES-3	LEO	30	
+GOES-13	GEO	"3,200"	
+GOES-14	GEO	"3,200"	
+GOES-15	GEO	"3,175"	
+GOES-R	GEO	"5,192"	
+GOES-S	GEO	"5,211"	
+GOES-T	GEO	"5,209"	
+Göktürk 1	LEO	"1,060"	
+Göktürk 2	LEO	409	
+Golden Bauhinia 1-03	LEO	10	
+Golden Bauhinia 5	LEO	10	
+GomX-4A	LEO	8	
+GomX-4B	LEO	8	
+Gonets M-11	LEO	280	
+Gonets M-12	LEO	280	
+Gonets M-13	LEO	280	
+Gonets M-14	LEO	270	
+Gonets M-16	LEO	270	
+Gonets M-17	LEO	270	
+Gonets M-18	LEO	280	
+Gonets M-19	LEO	280	
+Gonets M-20	LEO	280	
+Gonets-M-24	LEO	280	
+Gonets M-25	LEO	280	
+Gonets M-26	LEO	280	
+Gonets M-27	LEO	280	
+Gonets M-28	LEO	280	
+Gonets M-29	LEO	280	
+Gonets M-30	LEO	280	
+Gonets M-31	LEO	280	
+Gonets M-32	LEO	280	
+GOSAT-2	LEO	"1,800"	
+Gossamer Piccolomini	LEO	1	
+GovSat-1	GEO	"4,230"	
+GPM Core Observatory	LEO	"3,850"	
+Grace Follow-on-1	LEO	600	
+Grace Follow-on-2	LEO	600	
+Ibuki	LEO	"1,750"	
+GRUS-1A	LEO	100	
+GRUS-1B	LEO	100	
+GRUS-1C	LEO	100	
+GRUS-1D	LEO	100	
+GRUS-1E	LEO	100	
+GSAT-10	GEO	"3,400"	
+GSAT-11	GEO	"5,854"	
+GSAT-12	GEO	"1,410"	
+GSAT-14	GEO	"1,982"	
+GSAT-15	GEO	"3,164"	
+GSAT-16	GEO	"3,181"	
+GSAT-17	GEO	"3,477"	
+GSAT-18	GEO	"3,404"	
+GSAT-19E	GEO	"3,136"	
+GSAT-29	GEO	"3,400"	
+GSAT-30	GEO	"3,357"	
+GSAT-31	GEO	"2,536"	
+GSAT-6	GEO	"2,110"	
+GSAT-7	GEO	"2,650"	
+GSAT-7A	GEO	"2,250"	
+GSAT-8	GEO	"3,093"	
+USA 254	GEO	500	
+USA 270	GEO	500	
+USA 271	GEO	500	
+USA 324	GEO	500	
+USA 325	GEO	500	
+GuarantiSat-1	LEO	1	
+Gunsmoke-J1     	LEO	5	
+Gunsmoke-J2	LEO	5	
+Gunsmoke-J4	LEO	4	
+Hainan-1-01	LEO	55	
+Hainan-1-02	LEO	65	
+Haisi-2	LEO		
+Haiyang 1C	LEO	442	
+Haiyang 1D	LEO	442	
+Haiyang 2A	LEO	"1,500"	
+Haiyang 2B	LEO	"1,500"	
+Haiyang 2C	LEO	"1,500"	
+Haiyang 2D	LEO	"1,500"	
+Halo-NET Free Flyer	LEO	4	
+Hangsheng 1	LEO	37	
+Harbinger	LEO	150	
+Hawk-2A	LEO	15	
+Hawk-2B	LEO	15	
+Hawk-2C	LEO	15	
+Hawk-3A	LEO	15	
+Hawk-3B	LEO	15	
+Hawk-3C	LEO	15	
+Hawk-4A	LEO	15	
+Hawk-4B	LEO	15	
+Hawk-4C	LEO	15	
+Hawk-A	LEO	15	
+Hawk-B	LEO	15	
+Hawk-C	LEO	15	
+HEAD-1	LEO	45	
+HEAD-2A	LEO	45	
+HEAD-2B	LEO	45	
+HEAD-2E	LEO	45	
+HEAD-2F	LEO	45	
+HEAD-4	LEO	45	
+HEAD-5	LEO	45	
+Helios 2A	LEO	"4,200"	
+Helios 2B	LEO	"4,200"	
+HellasSat-2	GEO	"3,300"	
+HellasSat-3	GEO	"5,780"	
+Hellas-Sat 4	GEO	"6,495"	
+RHESSI	LEO	293	
+Hibari	LEO	55	
+Hiber-1	LEO	4	
+Hiber-2	LEO	7	
+Hiber-3	LEO	4	
+Hiber-4	LEO	3	
+Himawari 8	GEO	"3,500"	
+Himawari 9	GEO	"3,500"	
+Hinode	LEO	700	
+Hisaki	Elliptical	348	
+Hisea-1	LEO	180	
+Hispasat 1D	GEO	"3,288"	
+Hispasat 1E	GEO	"5,320"	
+Hispasat 30W-6	GEO	"6,100"	
+Hispasat 36W-1	GEO	"3,220"	
+HJ-1A	LEO	470	
+HJ-1B	LEO	470	
+HJ-1C	LEO	890	
+HJ-2A	LEO		
+HJ-2B	LEO		
+Hodoyoshi-3	LEO	60	
+Hodoyoshi-4	LEO	60	
+Hongyan-1	LEO		
+Hongyun-1	LEO		
+Horizons 2	GEO	"2,300"	
+Horizons 3e	GEO	"6,500"	
+Horyu-2	LEO	7	
+HSAT-1	LEO	4	
+Huangpu-1	LEO	50	
+Hubble Space Telescope	LEO	"11,110"	
+Huia'an	LEO	3	
+HXMT	LEO	"2,500"	
+HYLAS 1	GEO	"2,242"	
+HYLAS 2	GEO	"3,311"	
+HYLAS 4	GEO	"4,050"	
+HySIS	LEO	380	
+Icesat-2	LEO	"1,515"	
+ICEYE-X1	LEO	80	
+ICEYE-X10 	LEO	80	
+ICEYE-X11	LEO	80	
+ICEYE-X12	LEO	80	
+ICEYE-X13	LEO	80	
+ICEYE-X14	LEO	80	
+ICEYE-X15	LEO	80	
+ICEYE-X16	LEO	80	
+ICEYE-X2	LEO	80	
+ICEYE-X4	LEO	80	
+ICEYE-X5	LEO	80	
+ICEYE-X6	LEO	80	
+ICEYE-X7	LEO	80	
+ICEYE-X8	LEO	80	
+ICEYE-X9	LEO	80	
+ICON	LEO	288	
+IGS Optical 5	LEO	"1,600"	
+IGS Optical 6	LEO	"1,600"	
+IGS Optical 7	LEO	"1,600"	
+IGS Radar 5	LEO	"1,600"	
+IGS Radar 6	LEO	"1,600"	
+IGS-5A	LEO	"1,600"	
+IGS-6A	LEO	"1,600"	
+IGS-7A	LEO	"1,600"	
+IGS-8A	LEO	"1,600"	
+IGS-8B	LEO	"1,600"	
+IGS-9A	LEO	"1,600"	
+USA 184	Elliptical	"4,000"	
+USA 200	Elliptical	"4,200"	
+USA 259	Elliptical	"4,200"	
+USA 278	Elliptical	"8,000"	
+INMARSAT 3 F3	GEO	"2,074"	
+INMARSAT 3 F5	GEO	"2,000"	
+INMARSAT 4 F1	GEO	"5,959"	
+INMARSAT 4 F2	GEO	"5,458"	
+INMARSAT 4 F3	GEO	"5,960"	
+INMARSAT 4-A F4	GEO	"6,650"	
+INMARSAT 5 F1	GEO	"6,070"	
+INMARSAT 5 F2	GEO	"6,105"	
+INMARSAT 5 F3	GEO	"6,100"	
+INMARSAT 5 F4	GEO	"6,086"	
+INMARSAT 5 F5	GEO	"4,007"	
+INMARSAT 6 F1	GEO	"5,470"	
+INNOSat-2	LEO	4	
+INS-1A	LEO	8	
+INS-1B	LEO	8	
+INS-1C	LEO	5	
+INS-2TD	LEO	18	
+INSAT 3D	GEO	"2,090"	
+INSAT 3DR	GEO	"2,200"	
+Inspire-Sat-1	LEO	8	
+INTEGRAL	Elliptical	"4,000"	
+Intelsat 10	GEO	"3,739"	
+Intelsat 10-02	GEO	"5,576"	
+Intelsat 11	GEO	"2,491"	
+Intelsat 12	GEO	"4,167"	
+Intelsat 14	GEO	"5,613"	
+Intelsat 15	GEO	"2,550"	
+Intelsat 16	GEO	"2,450"	
+Intelsat 17	GEO	"5,540"	
+Intelsat 18	GEO	"3,200"	
+Intelsat 19	GEO	"5,600"	
+Intelsat 1R	GEO	"4,793"	
+Intelsat 20	GEO	"6,094"	
+Intelsat 21	GEO	"5,984"	
+Intelsat 22	GEO	"6,199"	
+Intelsat 23	GEO	"3,200"	
+Intelsat 25	GEO	"4,100"	
+Intelsat 30/DLA 1	GEO	"6,220"	
+Intelsat 31/DLA 2	GEO	"6,450"	
+Intelsat 33	GEO	"6,600"	
+Intelsat 34	GEO	"3,300"	
+Intelsat 35E	GEO	"6,761"	
+Intelsat 36	GEO	"3,250"	
+Intelsat 37E	GEO	"6,438"	
+Intelsat 39	GEO	"6,600"	
+Intelsat 5	GEO	"2,730"	
+Intelsat 9	GEO	"3,659"	
+Intelsat 901	GEO	"4,723"	
+Intelsat 902	GEO	"4,723"	
+Intelsat 904	GEO	"4,680"	
+Intelsat 905	GEO	"4,723"	
+Intelsat 906	GEO	"4,723"	
+Intelsat New Dawn	GEO	"3,000"	
+International Space Station	LEO		
+Interstellar Boundary Explorer	Elliptical	462	
+ION SVC Lucas	LEO	150	
+Iridium Next 102	LEO	860	
+Iridium Next 103	LEO	860	
+Iridium Next 104	LEO	860	
+Iridium Next 105	LEO	860	
+Iridium Next 106	LEO	860	
+Iridium Next 107	LEO	860	
+Iridium Next 108	LEO	860	
+Iridium Next 109	LEO	860	
+Iridium Next 110	LEO	860	
+Iridium Next 111	LEO	860	
+Iridium Next 112	LEO	860	
+Iridium Next 113	LEO	860	
+Iridium Next 114	LEO	860	
+Iridium Next 115	LEO	860	
+Iridium Next 116	LEO	860	
+Iridium Next 117	LEO	860	
+Iridium Next 118	LEO	860	
+Iridium Next 119	LEO	860	
+Iridium Next 120	LEO	860	
+Iridium Next 121	LEO	860	
+Iridium Next 122	LEO	860	
+Iridium Next 123	LEO	860	
+Iridium Next 124	LEO	860	
+Iridium Next 125	LEO	860	
+Iridium Next 126	LEO	860	
+Iridium Next 127	LEO	860	
+Iridium Next 128	LEO	860	
+Iridium Next 129	LEO	860	
+Iridium Next 130	LEO	860	
+Iridium Next 131	LEO	860	
+Iridium Next 132	LEO	860	
+Iridium Next 133	LEO	860	
+Iridium Next 134	LEO	860	
+Iridium Next 135	LEO	860	
+Iridium Next 136	LEO	860	
+Iridium Next 137	LEO	860	
+Iridium Next 138	LEO	860	
+Iridium Next 139	LEO	860	
+Iridium Next 140	LEO	860	
+Iridium Next 141	LEO	860	
+Iridium  Next 142	LEO	860	
+Iridium Next 143	LEO	860	
+Iridium Next 144	LEO	860	
+Iridium Next 145	LEO	860	
+Iridium Next 146	LEO	860	
+Iridium Next 147	LEO	860	
+Iriidium Next 148	LEO	860	
+Iridium Next 149	LEO	860	
+Iridium Next 150	LEO	860	
+Iridium Next 151	LEO	860	
+Iridium Next 152	LEO	860	
+Iridium Next 153	LEO	860	
+Iridium Next 154	LEO	860	
+Iridium Next 155	LEO	860	
+Iridium Next 156	LEO	860	
+Iridium Next 157	LEO	860	
+Iridium Next 158	LEO	860	
+Iridum Next 159	LEO	860	
+Iridium Next 160	LEO	860	
+Iridium Next 161	LEO	860	
+Iridium Next 162	LEO	860	
+Iridium Next 163	LEO	860	
+Iridium Next 164	LEO	860	
+Iridium Next 165	LEO	860	
+Iridium Next 166	LEO	860	
+Iridium Next 167	LEO	860	
+Iridium Next 168	LEO	860	
+Iridium Next 169	LEO	860	
+Iridium Next 170	LEO	860	
+Iridium Next 171	LEO	860	
+Iridium Next 172	LEO	860	
+Iridium Next 173	LEO	860	
+Iridium Next 175	LEO	860	
+Iridium Next 176	LEO	860	
+Iridium Next 180	LEO	860	
+IRIS	LEO	236	
+IRNSS-1A	GEO	"1,425"	
+IRNSS-1B	GEO	"1,432"	
+IRNSS-1C	GEO	"1,425"	
+IRNSS-1D	GEO	"1,425"	
+IRNSS-1E	GEO	"1,425"	
+IRNSS-1F	GEO	"1,425"	
+IRNSS-1G	GEO	"1,425"	
+IRNSS-1I	GEO	"1,425"	
+IRS-P6	LEO	"1,360"	
+ISARA	LEO	5	
+iSat	LEO	4	
+ISX	LEO	4	
+ITU-pSAT1	LEO	1	
+IXPE	LEO	330	
+JAISAT-1	LEO	1	
+Jason 3	LEO	553	
+JCSat 10	GEO	"4,400"	
+JCSat 13	GEO	"4,500"	
+JCSat 14	GEO	"4,500"	
+JCSat 15	GEO	"3,400"	
+JCSat 16	GEO	"4,500"	
+JCSat 17	GEO	"5,857"	
+JCSat18/Kacific 1	GEO	"6,956"	
+JCSat 2A	GEO	"2,500"	
+JCSat 9	GEO	"4,400"	
+JCSat RA	GEO	"4,000"	
+Jiading-1	LEO	45	
+Jilin-1	LEO	42	
+Jilin-1	LEO	95	
+Jilin-1	LEO	95	
+Jilin-1 Gaofen 02A	LEO	95	
+Jilin-1 Gaofen 02B	LEO	95	
+Jilin-1 Gaofen 02D 	LEO	230	
+Jilin 1 Gaofen 02F	LEO	230	
+Jilin-1 Gaofen 03B-01 	LEO	40	
+Jilin-1 Gaofen 03B-02 	LEO	40	
+Jilin-1 Gaofen 03B-03 	LEO	40	
+Jilin-1 Gaofen 03B-04 	LEO	40	
+Jilin-1 Gaofen 03B-05 	LEO	40	
+Jilin-1 Gaofen 03B-06 	LEO	40	
+Jilin-1 Gaofen 03C-01 	LEO	40	
+Jilin-1 Gaofen 03C-02 	LEO	40	
+Jilin-1 Gaofen 03C-03 	LEO	40	
+Jilin-1 GaoFen 03D 10	LEO	43	
+Jilin-1 GaoFen 03D 11	LEO	43	
+Jilin-1 GaoFen 03D 12	LEO	43	
+Jilin-1 GaoFen 03D 13	LEO	43	
+Jilin-1 GaoFen 03D 14	LEO	43	
+Jilin-1 GaoFen 03D 15	LEO	43	
+Jilin-1 GaoFen 03D 16 	LEO	43	
+Jilin-1 GaoFen 03D 17	LEO	43	
+Jilin-1 GaoFen 03D 18	LEO	43	
+Jilin-1 Gaofen 03D-01	LEO	40	
+Jilin-1 Gaofen 03D-02	LEO	40	
+Jilin-1 Gaofen 03D-03	LEO	40	
+Jilin-1 GaoFen 03D-04	LEO	43	
+Jilin-1 GaoFen 03D-05	LEO	43	
+Jilin-1 GaoFen 03D-06	LEO	43	
+Jilin-1 GaoFen 03D-07	LEO	43	
+Jilin-1 GaoFen 04A	LEO	43	
+Jilin 1 Kuanfu 01B	LEO	95	
+Jilin-1 Kuanfu-1	LEO	95	
+Jilin-1 Mofang 02A01	LEO	32	
+Jilin-1	LEO	400	
+Jilin-1-10	LEO	95	
+Jilin-1	LEO	400	
+Jilin-1-4	LEO	95	
+Jilin-1-5	LEO	95	
+Jilin-1-6	LEO	95	
+Jilin-1-7	LEO	95	
+Jilin-1-8	LEO	95	
+Jilin-1-9	LEO	95	
+Jin Zijing 1-01	LEO	40	
+Jin Zijing 1-02	LEO	40	
+Jin Zijing 2	LEO	10	
+Jingshi-1	LEO	16	
+JYISat	LEO	2	
+Kaituo-1A	LEO	130	
+Kanopus-B	LEO	400	
+Kanopus-V-IK-2	LEO	500	
+Kanopus-V-IK-3	LEO	500	
+Kanopus-V-IK-4	LEO	500	
+Kanopus-V-IK-5	LEO	500	
+Kanopus-V-IK-6	LEO	500	
+KazEOSat-1	LEO	830	
+KazEOSat-2	LEO	185	
+KazSat-2	GEO	"1,300"	
+KazSat-3	GEO		
+KazSTSAT	LEO	100	
+Kent Ridge 1	LEO	78	
+Kepler-10 BABY YODA	LEO	9	
+Kepler-11 DANEEL	LEO	9	
+Kepler-12 BOBA	LEO	9	
+Kepler-13 LUCKY	LEO	9	
+Kepler-14 STELLA	LEO	9	
+Kepler-15 SUDORMRF	LEO	9	
+Kepler-16 ASTRAEUS	LEO	9	
+Kepler-17 KARINA	LEO	9	
+Kepler-18 BLIP-A	LEO	9	
+Kepler-19	LEO	9	
+Kepler-2 CASE	LEO	4	
+Kepler-3 TARS	LEO	9	
+Kepler-4 ANTILLES	LEO	9	
+Kepler-5 AMIDALA	LEO	9	
+Kepler-6 ROCINANTE	LEO	9	
+Kepler-7 C3PO	LEO	9	
+Kepler-8 AMAROK	LEO	9	
+Kepler-9 ARTEMIS	LEO	9	
+KestrelEye IIM	LEO	50	
+USA 186	LEO	"18,000"	
+USA 224	LEO	"18,000"	
+USA 245	LEO	"18,000"	
+USA 290	LEO	"18,000"	
+USA 314	LEO	"20,000"	
+KhalifaSat	LEO	330	
+KIPP-1	LEO	10	
+Kirameki 2	GEO		
+KJSY-1	LEO	1	
+KKS-1	LEO	3	
+KL-Alpha-A 	LEO		
+KL-Alpha-B	LEO		
+KL-Beta-A	LEO	100	
+KL-Beta-B	LEO	100	
+KMSL (Korea Microgravity Science Laboratory)	LEO	4	
+Kompsat-2	LEO	800	
+Kompsat-3	LEO	980	
+Kompsat-3A	LEO	980	
+Kompsat-5	LEO	"1,400"	
+Cosmos 2487	LEO	"1,150"	
+Koreasat 5	GEO	"4,450"	
+Koreasat 5A	GEO	"3,700"	
+Koreasat 6	GEO	"2,850"	
+Koreasat 7	GEO	"3,680"	
+KOSEN-1	LEO	3	
+KSF1-A	LEO	10	
+KSF1-B	LEO	10	
+KSF2-A	LEO	10	
+KSF2-B	LEO	10	
+KSF2-C	LEO	10	
+KSF2-D	LEO	10	
+KSFI-C	LEO	10	
+KSFI-D	LEO	10	
+KSM-1A	LEO		
+KSM-1B	LEO		
+KSM-1C	LEO		
+KSM-1D	LEO		
+KSU Cubesat	LEO	2	
+KX-09	LEO		
+USA 152	LEO	"14,500"	
+USA 182	LEO	"14,500"	
+LacunaSat-2B	LEO	4	
+LacunaSat-3	LEO	5	
+Ladybird 1	LEO	100	
+Ladybird 2	LEO	8	
+Ladybird 3	LEO	8	
+Ladybird 4	LEO	8	
+Ladybird 5	LEO	4	
+Ladybird 6	LEO	4	
+Ladybird 7	LEO	4	
+Landmapper BC3.v2	LEO	11	
+Landmapper BC4	LEO	11	
+Landsat 7	LEO	"2,744"	
+Landsat 8	LEO	"2,780"	
+Landsat 9	LEO	"2,710"	
+LaoSat-1	GEO	"3,800"	
+LAPAN A2	LEO	68	
+LAPAN A3	LEO	115	
+LAPAN-Tubsat	LEO	60	
+LatinSat A	LEO		
+LatinSat B	LEO		
+LDPE-1	GEO	500	
+LEDSat	LEO	10	
+Lemur 1	LEO	10	
+Lemur 2 AC-Cubed 	LEO	10	
+Lemur 2F80	LEO	10	
+Lemur 2FM106	LEO	10	
+Lemur 2FM162	LEO	10	
+Lemur 2F47	LEO	10	
+Lemur 2F31	LEO	10	
+Lemur-2 AnnaBanana	LEO	10	
+Lemur 2F16	LEO	10	
+Lemur 2F43	LEO	10	
+Lemur 2FM98	LEO	10	
+Lemur 2F52	LEO	10	
+Lemur 2F71	LEO	10	
+Lemur-2 CarlSantaMari 	LEO	10	
+Lemur 2F130	LEO	10	
+Lemur 2F83	LEO	10	
+Lemur 2F4	LEO	10	
+Lemur 2F90	LEO	10	
+Lemur 2F95	LEO	10	
+Lemur 2F69	LEO	10	
+Lemur FM123	LEO	10	
+Lemur 2F49	LEO	10	
+Lemur	LEO	10	
+Lemur-2 Djirang	LEO	10	
+Lemur FM116	LEO	10	
+Lemur 2F87	LEO	10	
+Lemur 2F57	LEO	10	
+Lemur 2FM105	LEO	10	
+Lemur2FM104	LEO	10	
+Lemur 2FM99	LEO	10	
+Lemur FM114	LEO	10	
+Lemur 2F45	LEO	10	
+Lemur 2F42	LEO	10	
+Lemur 2FM108	LEO	10	
+Lemur 2F89	LEO	10	
+Lemur 2FM109	LEO	10	
+Lemur 2 Jackson	LEO	10	
+Lemur 2F131	LEO	10	
+Lemur 2F30	LEO	10	
+Lemur 2F129	LEO	10	
+Lemur 2F3	LEO	10	
+Lemur 2F127	LEO	10	
+Lemur 2F76	LEO	10	
+Lemur 2F22	LEO	10	
+Lemur 2F1	LEO	10	
+Lemur 2FM97	LEO	10	
+Lemur 2 John-Treires 	LEO	10	
+Lemur 2FM110	LEO	10	
+Lemur 2F74	LEO	10	
+Lemur-2 King-Julien	LEO	10	
+Lemur 2F86	LEO	10	
+Lemur 2F37	LEO	10	
+Lemur 2FM107	LEO	10	
+Lemur 2F40	LEO	10	
+Lemur 2F55	LEO	10	
+Lemur 2F36	LEO	10	
+Lemur 2F41	LEO	10	
+Lemur 2F137	LEO	10	
+Lemur 2F73	LEO	10	
+Lemur 2F70	LEO	10	
+Lemur 2F56	LEO	10	
+Lemur 2F38	LEO	10	
+Lemur 2 Merima 	LEO	10	
+Lemur 2F27	LEO	10	
+Lemur-2 Miriwari	LEO	10	
+Lemur 2F44	LEO	10	
+Lemur 2FM101	LEO	10	
+Lemur 2F132	LEO	10	
+Lemur 2F94	LEO	10	
+Lemur 2F133	LEO	10	
+Lemur FM122	LEO	10	
+Lemur 2F28	LEO	10	
+Lemur 2F134	LEO	10	
+Lemur 2F84	LEO	10	
+Lemur FM118	LEO	10	
+Lemur 2 Ozarak	LEO	10	
+Lemur 2FM108	LEO	10	
+Lemur 2F2	LEO	10	
+Lemur 2F48	LEO	10	
+Lemur 2F68	LEO	10	
+Lemur-2 Ramonamae	LEO	10	
+Lemur 2F25	LEO	10	
+Lemur 2F88	LEO	10	
+Lemur 2F33	LEO	10	
+Lemur 2F54	LEO	10	
+Lemur-2 Rohovithsa	LEO	10	
+Lemur 2F53	LEO	10	
+Lemur 2F135	LEO	10	
+Lemur 2F39	LEO	10	
+Lemur 2F136	LEO	10	
+Lemur 2F93	LEO	10	
+Lemur 2F24	LEO	10	
+Lemur 2FM115	LEO	10	
+Lemur 2F34	LEO	10	
+Lemur 2FM121	LEO	10	
+Lemur 2F26	LEO	10	
+Lemur 2F14	LEO	10	
+Lemur 2F161	LEO	10	
+Lemur 2F23	LEO	10	
+Lemur 2F32	LEO	10	
+Lemur 2FM117	LEO	10	
+Lemur 2FM120	LEO	10	
+Lemur 2F29	LEO	10	
+Lemur 2F72	LEO	10	
+Lemur 2F75	LEO	10	
+Lemur 2FM111	LEO	10	
+Lemur 2F92	LEO	10	
+Lemur 2F78	LEO	10	
+Lemur 2F77	LEO	10	
+Lemur FM119	LEO	10	
+Lemur 2FM100	LEO	10	
+Lemur 2F85	LEO	10	
+Lemur 2F81	LEO	10	
+Lemur 2F128	LEO	10	
+Lemur 2FM102	LEO	10	
+Lemur 2F17	LEO	10	
+Lemur 2F15	LEO	10	
+Lemur 2F35	LEO	10	
+Lemur 2FM103	LEO	10	
+Lemur 2F50	LEO	10	
+Lemur 2F79	LEO	10	
+Lemur 2F46	LEO	10	
+Lemur 2F91	LEO	10	
+Lemur 2F82	LEO	10	
+LEO CP9	Elliptical	6	
+LEO Vantage 1	LEO	100	
+Lightsail-2	LEO	1	
+LilacSat-2	LEO	11	
+LINCS-1	LEO	16	
+LINCS-2	LEO	16	
+Ling Qiao	LEO	100	
+Lingque 1A	LEO	3	
+Lize 1	LEO	20	
+LKW-1	LEO		
+LKW-2	LEO		
+LKW-3	LEO		
+LKW-4	LEO		
+Long Xi Yan	LEO	50	
+Cosmos 2455	LEO	"5,000"	
+Cosmos 2524	LEO	"5,000"	
+Cosmos 2528	LEO	"5,000"	
+Cosmos 2549	LEO	"5,000"	
+Cosmos 2554	LEO	"5,000"	
+Cosmos 2502	LEO	"5,000"	
+LQSat	LEO	55	
+LUCAS	GEO		
+Luch 5A	GEO	950	
+Luch 5B	GEO	"1,282"	
+Luch 5V	GEO	"1,148"	
+Luch/Olympus	GEO		
+Lucky-7	LEO	1	
+Ludi Tance 1-01A	LEO	"3,200"	
+Ludi Tance 1-01B	LEO	"3,200"	
+Lume-1	LEO	2	
+Luojia 1	LEO	5	
+Lynk-4	LEO	8	
+Lynk-5	LEO	80	
+Lynk-6	LEO	30	
+M3MSat	LEO	85	
+MakerSat-1	LEO	2	
+Mandrake 2A	LEO	23	
+Mandrake 2B	LEO	23	
+Maroc Tubsat	LEO	47	
+Max Valier	LEO	16	
+M-Cubed/E1P-U2	LEO	2	
+MDASat-1A	LEO	1	
+MDASat-1B	LEO	1	
+MDASat-1C	LEO	1	
+Measat 3A	GEO	"2,417"	
+Measat 3B	GEO	"5,800"	
+Megha-Tropiques	LEO	"1,000"	
+Merah Putih	GEO	"5,800"	
+USA 105	GEO	"8,000"	
+USA 118	GEO	"8,000"	
+USA 250	GEO	"3,900"	
+Meridian-10	Elliptical	"2,000"	
+Meridian-3	Elliptical	"2,500"	
+Meridian-4	Elliptical	"2,500"	
+Meridian-6	Elliptical	"2,500"	
+Meridian-7	Elliptical	"2,500"	
+Meridian-8	Elliptical	"2,500"	
+Meridian-9	Elliptical	"2,500"	
+Meshbed	LEO	5	
+Meteor-M 2.2	LEO	"2,900"	
+Meteor-M N-2	LEO	"2,778"	
+Meteosat 10	GEO	"2,000"	
+Meteosat 11	GEO	"2,000"	
+Meteosat 8	GEO	"2,000"	
+Meteosat 9	GEO	"2,000"	
+MetOp-A	LEO	"4,193"	
+MetOp-B	LEO	"4,085"	
+MetOp-C	LEO	"4,084"	
+MEV-1	GEO	"2,875"	
+MEV-2	GEO	"2,875"	
+Mexsat-3	GEO	"2,900"	
+Mexsat-3	GEO	"5,325"	
+MeznSat	LEO	5	
+MicroDragon	LEO	51	
+MicroMAS-2A 	LEO	4	
+MVL-300	LEO	645	
+USA 99	GEO	"4,536"	
+USA 157	GEO	"4,536"	
+USA 164	GEO	"4,536"	
+USA 169	GEO	"4,536"	
+MMS-1	Elliptical	"1,360"	
+MMS-2	Elliptical	"1,360"	
+MMS-3	Elliptical	"1,360"	
+MMS-4	Elliptical	"1,360"	
+Mohammed VI-A	LEO	"1,110"	
+Mohammed VI-B	LEO	"1,110"	
+Monolith	LEO	20	
+Microvariability & Oscillations of Stars (MOST)	LEO	53	
+MOVE II	LEO	2	
+MOVE Iib	LEO	1	
+Mozhayets 4	LEO	64	
+MP6	LEO	7	
+MSAT 2	GEO	"2,850"	
+Multispectral Thermal Imager (MTI)	LEO	587	
+MUOS-1	GEO	"6,804"	
+MUOS-2	GEO	"6,804"	
+MUOS-3	GEO	"6,804"	
+MUOS-4	GEO	"6,804"	
+MUOS-5	GEO	"6,804"	
+NanoACE	LEO	6	
+NanoDragon	LEO	4	
+Nanosat-1	LEO	20	
+Nanosat-1B	LEO	20	
+NANOSATC-BR2	LEO	3	
+NAPA-1	LEO	10	
+NAPA-2	LEO	10	
+NARSSCUBE-2	LEO	1	
+USA 213	MEO	"1,630"	
+USA 262	MEO	"1,630"	
+USA 265	MEO	"1,630"	
+USA 266	MEO	"1,630"	
+USA 232	MEO	"1,630"	
+USA 239	MEO	"1,630"	
+USA 242	MEO	"1,630"	
+USA 248	MEO	"1,630"	
+USA 251	MEO	"1,630"	
+USA 256	MEO	"1,630"	
+USA 258	MEO	"1,630"	
+USA 260	MEO	"1,630"	
+USA 289	MEO	"2,300"	
+USA 293	MEO	"2,300"	
+USA 304	MEO	"2,300"	
+USA 309	MEO	"2,300"	
+USA 319	MEO	"2,300"	
+USA 177	MEO	"2,217"	
+USA 180	MEO	"2,217"	
+USA 132	MEO	"2,217"	
+USA 145	MEO	"2,217"	
+USA 150	MEO	"2,217"	
+USA 151	MEO	"2,217"	
+USA 154	MEO	"2,217"	
+USA 156	MEO	"2,217"	
+USA 166	MEO	"2,217"	
+USA 168	MEO	"2,217"	
+USA 183	MEO	"2,217"	
+USA 190	MEO	"2,060"	
+USA 192	MEO	"2,060"	
+USA 196	MEO	"2,217"	
+USA 199	MEO	"2,060"	
+USA 201	MEO	"2,217"	
+USA 206	MEO	"2,059"	
+Naxing 2	LEO	20	
+Nayif-1	LEO	2	
+Cosmos 2553)	MEO	"2,000"	
+NEMO-HD	LEO	65	
+NEO-1	LEO	40	
+NEOSSat	LEO	74	
+Neptuno	LEO	4	
+Netsat-1	LEO	4	
+Netsat-2	LEO	4	
+Netsat-3	LEO	4	
+Netsat-4	LEO	4	
+NextSat-1	LEO	100	
+Nexus	LEO	4	
+NigComSat-1R	GEO	"5,150"	
+NigeriaSat-2	LEO	300	
+Nigeriasat-X	LEO	100	
+Nilesat 201	GEO	"3,200"	
+Nimiq 4	GEO	"4,850"	
+Nimiq 5	GEO	"4,745"	
+Nimiq 6	GEO	"4,745"	
+Ningxia-1 01	LEO	100	
+Ningxia-1 02	LEO	100	
+Ningxia-1 03	LEO	100	
+Ningxia-1 04	LEO	100	
+Ningxia-1 05	LEO	100	
+Ningxia-2 01	LEO	100	
+Ningxia-2 02	LEO	100	
+Ningxia-2 03	LEO	100	
+Ningxia-2 04	LEO	100	
+Ningxia-2 05	LEO	100	
+NIUSat	LEO	15	
+NOAA-15	LEO	"2,223"	
+NOAA-18	LEO	"2,223"	
+NOAA-19	LEO	"1,420"	
+NOAA-20	LEO	"2,294"	
+Noor-2	LEO	15	
+Norbi	LEO	9	
+NorSat-1	LEO	30	
+NorSat-2	LEO	16	
+NorSat-3	LEO	15	
+NovaSAR-1	LEO	430	
+NPP	LEO	"2,128"	
+NPSat-1	LEO	85	
+USA 301	LEO		
+USA 302	LEO		
+USA 303	LEO		
+USA 305	LEO		
+USA 306	LEO		
+USA 307	LEO		
+USA 308	LEO		
+USA 294	LEO		
+USA 276	LEO		
+USA 327	LEO	"1,000"	
+USA 326	LEO	"20,000"	
+NSLSat-1	LEO	8	
+NSS-10	GEO	"5,396"	
+NSS-11	GEO	"3,582"	
+NSS-12	GEO		
+NSS-6	GEO	"4,575"	
+NSS-7	GEO	"4,500"	
+NSS-9	GEO	"2,238"	
+Nusantara Satu (PSN-6)	GEO	"4,100"	
+ÑuSat-10	LEO	45	
+ÑuSat-11	LEO	45	
+ÑuSat-12	LEO	45	
+ÑuSat-13	LEO	45	
+ÑuSat-14	LEO	45	
+ÑuSat-15	LEO	45	
+ÑuSat-16	LEO	45	
+ÑuSat-17	LEO	45	
+ÑuSat-18	LEO	45	
+ÑuSat-19	LEO	37	
+ÑuSat-20	LEO	37	
+ÑuSat-21	LEO	37	
+ÑuSat-22	LEO	37	
+ÑuSat-23	LEO	42	
+ÑuSat-24	LEO	42	
+ÑuSat-25	LEO	42	
+ÑuSat-26	LEO	42	
+ÑuSat-27	LEO	42	
+ÑuSat-3 	LEO	35	
+ÑuSat-4	LEO	35	
+ÑuSat-5	LEO	35	
+ÑuSat-6 	LEO	35	
+ÑuSat 7	LEO	45	
+ÑuSat 8	LEO	45	
+ÑuSat-9	LEO	45	
+NuSTAR	LEO	360	
+USA 219	LEO	6	
+O3b FM02	MEO	700	
+O3b FM03	MEO	650	
+O3b FM04	MEO	700	
+O3b FM05	MEO	700	
+O3b FM06	MEO	650	
+O3b FM07	MEO	650	
+O3b FM08	MEO	650	
+O3b FM09	MEO	650	
+O3b FM10	MEO	650	
+O3b FM11	MEO	650	
+O3b FM12	MEO	650	
+O3b FM13	MEO	650	
+O3b FM14	MEO	650	
+O3b FM15	MEO	650	
+O3b FM16	MEO	650	
+O3b FM17	MEO	700	
+O3b FM18	MEO	700	
+O3b FM19	MEO	700	
+O3b FM20	MEO	700	
+O3b PFM	MEO	700	
+OCO 2	LEO	454	
+Oculus ASR	Elliptical	70	
+Odin	LEO	250	
+Odyssey	LEO		
+Ofeq 10	LEO	300	
+Ofeq 11	LEO	300	
+Ofeq 16	LEO	300	
+Ofeq 5	LEO	300	
+Ofeq 7	LEO	300	
+Ofeq 9	LEO	300	
+OneWeb-0006	LEO	148	
+OneWeb-0007	LEO	148	
+OneWeb-0008	LEO	148	
+OneWeb-0010	LEO	148	
+OneWeb-0011	LEO	148	
+OneWeb-0012	LEO	148	
+OneWeb-0013	LEO	148	
+OneWeb-0017	LEO	148	
+OneWeb-0018	LEO	148	
+OneWeb-0019	LEO	148	
+OneWeb-0020	LEO	148	
+OneWeb-0021	LEO	148	
+OneWeb-0022	LEO	148	
+OneWeb-0023	LEO	148	
+OneWeb-0024	LEO	148	
+OneWeb-0025	LEO	148	
+OneWeb-0026	LEO	148	
+OneWeb-0027	LEO	148	
+OneWeb-0028	LEO	148	
+OneWeb-0029	LEO	148	
+OneWeb-0031	LEO	148	
+OneWeb-0032	LEO	148	
+OneWeb-0033	LEO	148	
+OneWeb-0034	LEO	148	
+OneWeb-0035	LEO	148	
+OneWeb-0036	LEO	148	
+OneWeb-0037	LEO	148	
+OneWeb-0038	LEO	148	
+OneWeb-0039	LEO	148	
+OneWeb-0040	LEO	148	
+OneWeb-0041	LEO	148	
+OneWeb-0042	LEO	148	
+OneWeb-0043	LEO	148	
+OneWeb-0044	LEO	148	
+OneWeb-0045	LEO	148	
+OneWeb-0046	LEO	148	
+OneWeb-0047	LEO	148	
+OneWeb-0048	LEO	148	
+OneWeb-0049	LEO	148	
+OneWeb-0050	LEO	148	
+OneWeb-0051	LEO	148	
+OneWeb-0052	LEO	148	
+OneWeb-0053	LEO	148	
+OneWeb-0054	LEO	148	
+OneWeb-0055	LEO	148	
+OneWeb-0056	LEO	148	
+OneWeb-0057	LEO	148	
+OneWeb-0058	LEO	148	
+OneWeb-0059	LEO	148	
+OneWeb-0060	LEO	148	
+OneWeb-0061	LEO	148	
+OneWeb-0062	LEO	148	
+OneWeb-0063	LEO	148	
+OneWeb-0064	LEO	148	
+OneWeb-0065	LEO	148	
+OneWeb-0066	LEO	148	
+OneWeb-0067	LEO	148	
+OneWeb-0068	LEO	148	
+OneWeb-0069	LEO	148	
+OneWeb-0080	LEO	148	
+OneWeb-0081	LEO	148	
+OneWeb-0082	LEO	148	
+OneWeb-0083	LEO	148	
+OneWeb-0085	LEO	148	
+OneWeb-0086	LEO	148	
+OneWeb-0087	LEO	148	
+OneWeb-0088	LEO	148	
+OneWeb-0090	LEO	148	
+OneWeb-0092	LEO	148	
+OneWeb-0093	LEO	148	
+OneWeb-0094	LEO	148	
+OneWeb-0095	LEO	148	
+OneWeb-0096	LEO	148	
+OneWeb-0098	LEO	148	
+OneWeb-0101 	LEO	148	
+OneWeb-0102	LEO	148	
+OneWeb-0107 	LEO	148	
+OneWeb-0108 	LEO	148	
+OneWeb-0109 	LEO	148	
+OneWeb-0110 	LEO	148	
+OneWeb-0111 	LEO	148	
+OneWeb-0112 	LEO	148	
+OneWeb-0113 	LEO	148	
+OneWeb-0114 	LEO	148	
+OneWeb-0115 	LEO	148	
+OneWeb-0116 	LEO	148	
+OneWeb-0117 	LEO	148	
+OneWeb-0118 	LEO	148	
+OneWeb-0119 	LEO	148	
+OneWeb-0120 	LEO	148	
+OneWeb-0121 	LEO	148	
+OneWeb-0122 	LEO	148	
+OneWeb-0123 	LEO	148	
+OneWeb-0124 	LEO	148	
+OneWeb-0125 	LEO	148	
+OneWeb-0126 	LEO	148	
+OneWeb-0127 	LEO	148	
+OneWeb-0128 	LEO	148	
+OneWeb-0129 	LEO	148	
+OneWeb-0130 	LEO	148	
+OneWeb-0131 	LEO	148	
+OneWeb-0132 	LEO	148	
+OneWeb-0133 	LEO	148	
+OneWeb-0134 	LEO	148	
+OneWeb-0135 	LEO	148	
+OneWeb-0136 	LEO	148	
+OneWeb-0137 	LEO	148	
+OneWeb-0138 	LEO	148	
+OneWeb-0139 	LEO	148	
+OneWeb-0140 	LEO	148	
+OneWeb-0141 	LEO	148	
+OneWeb-0142 	LEO	148	
+OneWeb-0143 	LEO	148	
+OneWeb-0144 	LEO	148	
+OneWeb-0145 	LEO	148	
+OneWeb-0146 	LEO	148	
+OneWeb-0147 	LEO	148	
+OneWeb-0148 	LEO	148	
+OneWeb-0149 	LEO	148	
+OneWeb-0150 	LEO	148	
+OneWeb-0151 	LEO	148	
+OneWeb-0152 	LEO	148	
+OneWeb-0153 	LEO	148	
+OneWeb-0154 	LEO	148	
+OneWeb-0155 	LEO	148	
+OneWeb-0156 	LEO	148	
+OneWeb-0157 	LEO	148	
+OneWeb-0158 	LEO	148	
+OneWeb-0159 	LEO	148	
+OneWeb-0160 	LEO	148	
+OneWeb-0161 	LEO	148	
+OneWeb-0162 	LEO	148	
+OneWeb-0163 	LEO	148	
+OneWeb-0164 	LEO	148	
+OneWeb-0165 	LEO	148	
+OneWeb-0166 	LEO	148	
+OneWeb-0167 	LEO	148	
+OneWeb-0168 	LEO	148	
+OneWeb-0169 	LEO	148	
+OneWeb-0170 	LEO	148	
+OneWeb-0171 	LEO	148	
+OneWeb-0172 	LEO	148	
+OneWeb-0173 	LEO	148	
+OneWeb-0174 	LEO	148	
+OneWeb-0175 	LEO	148	
+OneWeb-0176 	LEO	148	
+OneWeb-0177 	LEO	148	
+OneWeb-0178 	LEO	148	
+OneWeb-0179 	LEO	148	
+OneWeb-0180 	LEO	148	
+OneWeb-0181 	LEO	148	
+OneWeb-0182 	LEO	148	
+OneWeb-0183 	LEO	148	
+OneWeb-0184 	LEO	148	
+OneWeb-0185 	LEO	148	
+OneWeb-0186 	LEO	148	
+OneWeb-0187 	LEO	148	
+OneWeb-0188 	LEO	148	
+OneWeb-0189 	LEO	148	
+OneWeb-0190	LEO	148	
+OneWeb-0191 	LEO	148	
+OneWeb-0192 	LEO	148	
+OneWeb-0193 	LEO	148	
+OneWeb-0194 	LEO	148	
+OneWeb-0195 	LEO	148	
+OneWeb-0196 	LEO	148	
+OneWeb-0197 	LEO	148	
+OneWeb-0198 	LEO	148	
+OneWeb-0199 	LEO	148	
+OneWeb-0200 	LEO	148	
+OneWeb-0201 	LEO	148	
+OneWeb-0202 	LEO	148	
+OneWeb-0203 	LEO	148	
+OneWeb-0204 	LEO	148	
+OneWeb-0205 	LEO	148	
+OneWeb-0206 	LEO	148	
+OneWeb-0207 	LEO	148	
+OneWeb-0208 	LEO	148	
+OneWeb-0209 	LEO	148	
+OneWeb-0210	LEO	148	
+OneWeb-0211	LEO	148	
+OneWeb-0212	LEO	148	
+OneWeb-0213	LEO	148	
+OneWeb-0214	LEO	148	
+OneWeb-0215	LEO	148	
+OneWeb-0216	LEO	148	
+OneWeb-0217 	LEO	148	
+OneWeb-0218 	LEO	148	
+OneWeb-0219 	LEO	148	
+OneWeb-0220 	LEO	148	
+OneWeb-0221	LEO	148	
+OneWeb-0222	LEO	148	
+OneWeb-0223	LEO	148	
+OneWeb-0224	LEO	148	
+OneWeb-0225	LEO	148	
+OneWeb-0226	LEO	148	
+OneWeb-0227	LEO	148	
+OneWeb-0228	LEO	148	
+OneWeb-0229	LEO	148	
+OneWeb-0230	LEO	148	
+OneWeb-0231	LEO	148	
+OneWeb-0232	LEO	148	
+OneWeb-0233	LEO	148	
+OneWeb-0234	LEO	148	
+OneWeb-0235	LEO	148	
+OneWeb-0236	LEO	148	
+OneWeb-0237	LEO	148	
+OneWeb-0238	LEO	148	
+OneWeb-0239	LEO	148	
+OneWeb-0240	LEO	148	
+OneWeb-0241	LEO	148	
+OneWeb-0242	LEO	148	
+OneWeb-0243	LEO	148	
+OneWeb-0244	LEO	148	
+OneWeb-0245	LEO	148	
+OneWeb-0246	LEO	148	
+OneWeb-0247	LEO	148	
+OneWeb-0248	LEO	148	
+OneWeb-0249	LEO	148	
+OneWeb-0250	LEO	148	
+OneWeb-0251	LEO	148	
+OneWeb-0252	LEO	148	
+OneWeb-0253	LEO	148	
+OneWeb-0254	LEO	148	
+OneWeb-0255	LEO	148	
+OneWeb-0256	LEO	148	
+OneWeb-0257	LEO	148	
+OneWeb-0258	LEO	148	
+OneWeb-0259	LEO	148	
+OneWeb-0260	LEO	148	
+OneWeb-0261	LEO	148	
+OneWeb-0262	LEO	148	
+OneWeb-0263	LEO	148	
+OneWeb-0264	LEO	148	
+OneWeb-0266	LEO	148	
+OneWeb-0267	LEO	148	
+OneWeb-0268	LEO	148	
+OneWeb-0269	LEO	148	
+OneWeb-0270	LEO	148	
+OneWeb-0271	LEO	148	
+OneWeb-0272	LEO	148	
+OneWeb-0273	LEO	148	
+OneWeb-0274	LEO	148	
+OneWeb-0275	LEO	148	
+OneWeb-0276	LEO	148	
+OneWeb-0277	LEO	148	
+OneWeb-0278	LEO	148	
+OneWeb-0279	LEO	148	
+OneWeb-0280	LEO	148	
+OneWeb-0281	LEO	148	
+OneWeb-0282	LEO	148	
+OneWeb-0283	LEO	148	
+OneWeb-0284	LEO	148	
+OneWeb-0285	LEO	148	
+OneWeb-0286	LEO	148	
+OneWeb-0287	LEO	148	
+OneWeb-0288	LEO	148	
+OneWeb-0289	LEO	148	
+OneWeb-0290	LEO	148	
+OneWeb-0291	LEO	148	
+OneWeb-0292 	LEO	148	
+OneWeb-0293	LEO	148	
+OneWeb-0294	LEO	148	
+OneWeb-0295	LEO	148	
+OneWeb-0296	LEO	148	
+OneWeb-0297	LEO	148	
+OneWeb-0298	LEO	148	
+OneWeb-0299	LEO	148	
+OneWeb-0300	LEO	148	
+OneWeb-0301	LEO	148	
+OneWeb-0302	LEO	148	
+OneWeb-0303 	LEO	148	
+OneWeb-0304	LEO	148	
+OneWeb-0305	LEO	148	
+OneWeb-0306 	LEO	148	
+OneWeb-0307 	LEO	148	
+OneWeb-0308	LEO	148	
+OneWeb-0309	LEO	148	
+OneWeb-0310	LEO	148	
+OneWeb-0311	LEO	148	
+OneWeb-0312	LEO	148	
+OneWeb-0313	LEO	148	
+OneWeb-0314	LEO	148	
+OneWeb-0315	LEO	148	
+OneWeb-0316	LEO	148	
+OneWeb-0317	LEO	148	
+OneWeb-0318	LEO	148	
+OneWeb-0319	LEO	148	
+OneWeb-0320 	LEO	148	
+OneWeb-0321 	LEO	148	
+OneWeb-0322 	LEO	148	
+OneWeb-0323	LEO	148	
+OneWeb-0324 	LEO	148	
+OneWeb-0325 	LEO	148	
+OneWeb-0326 	LEO	148	
+OneWeb-0327 	LEO	148	
+OneWeb-0328 	LEO	148	
+OneWeb-0329	LEO	148	
+OneWeb-0330	LEO	148	
+OneWeb-0331 	LEO	148	
+OneWeb-0332 	LEO	148	
+OneWeb-0333 	LEO	148	
+OneWeb-0334 	LEO	148	
+OneWeb-0335 	LEO	148	
+OneWeb-0336 	LEO	148	
+OneWeb-0337 	LEO	148	
+OneWeb-0338 	LEO	148	
+OneWeb-0339 	LEO	148	
+OneWeb-0340 	LEO	148	
+OneWeb-0341 	LEO	148	
+OneWeb-0342 	LEO	148	
+OneWeb-0343 	LEO	148	
+OneWeb-0344 	LEO	148	
+OneWeb-0345 	LEO	148	
+OneWeb-0346 	LEO	148	
+OneWeb-0347 	LEO	148	
+OneWeb-0348 	LEO	148	
+OneWeb-0349 	LEO	148	
+OneWeb-0350 	LEO	148	
+OneWeb-0351 	LEO	148	
+OneWeb-0352 	LEO	148	
+OneWeb-0353 	LEO	148	
+OneWeb-0354 	LEO	148	
+OneWeb-0355 	LEO	148	
+OneWeb-0356 	LEO	148	
+OneWeb-0357 	LEO	148	
+OneWeb-0358 	LEO	148	
+OneWeb-0359 	LEO	148	
+OneWeb-0360 	LEO	148	
+OneWeb-0361 	LEO	148	
+OneWeb-0362 	LEO	148	
+OneWeb-0363 	LEO	148	
+OneWeb-0364 	LEO	148	
+OneWeb-0365 	LEO	148	
+OneWeb-0366 	LEO	148	
+OneWeb-0367 	LEO	148	
+OneWeb-0368 	LEO	148	
+OneWeb-0369 	LEO	148	
+OneWeb-0370 	LEO	148	
+OneWeb-0371 	LEO	148	
+OneWeb-0372 	LEO	148	
+OneWeb-0373 	LEO	148	
+OneWeb-0374 	LEO	148	
+OneWeb-0375 	LEO	148	
+OneWeb-0376 	LEO	148	
+OneWeb-0377 	LEO	148	
+OneWeb-0378 	LEO	148	
+OneWeb-0379 	LEO	148	
+OneWeb-0380 	LEO	148	
+OneWeb-0381 	LEO	148	
+OneWeb-0382 	LEO	148	
+OneWeb-0383 	LEO	148	
+OneWeb-0384 	LEO	148	
+OneWeb-0385 	LEO	148	
+OneWeb-0386 	LEO	148	
+OneWeb-0387 	LEO	148	
+OneWeb-0388 	LEO	148	
+OneWeb-0389 	LEO	148	
+OneWeb-0390 	LEO	148	
+OneWeb-0391 	LEO	148	
+OneWeb-0392 	LEO	148	
+OneWeb-0393 	LEO	148	
+OneWeb-0394 	LEO	148	
+OneWeb-0395 	LEO	148	
+OneWeb-0396 	LEO	148	
+OneWeb-0397 	LEO	148	
+OneWeb-0398 	LEO	148	
+OneWeb-0399 	LEO	148	
+OneWeb-0400 	LEO	148	
+OneWeb-0401 	LEO	148	
+OneWeb-0402 	LEO	148	
+OneWeb-0403 	LEO	148	
+OneWeb-0404 	LEO	148	
+OneWeb-0405 	LEO	148	
+OneWeb-0406 	LEO	148	
+OneWeb-0407 	LEO	148	
+OneWeb-0409 	LEO	148	
+OneWeb-0410	LEO	148	
+OneWeb-0411	LEO	148	
+OneWeb-0412 	LEO	148	
+OneWeb-0413 	LEO	148	
+OneWeb-0414 	LEO	148	
+OneWeb-0415	LEO	148	
+OneWeb-0416	LEO	148	
+OneWeb-0417 	LEO	148	
+OneWeb-0418 	LEO	148	
+OneWeb-0419 	LEO	148	
+OneWeb-0420 	LEO	148	
+OneWeb-0421 	LEO	148	
+OneWeb-0422	LEO	148	
+OneWeb-0423	LEO	148	
+OneWeb-0424 	LEO	148	
+OneWeb-0425	LEO	148	
+OneWeb-0426 	LEO	148	
+OneWeb-0427 	LEO	148	
+OneWeb-0428	LEO	148	
+OneWeb-0429 	LEO	148	
+OneWeb-0430 	LEO	148	
+OneWeb-0431	LEO	148	
+OneWeb-0432 	LEO	148	
+OneWeb-0434	LEO	148	
+OneWeb-0435	LEO	148	
+OneWeb-0436	LEO	148	
+OneWeb-0438	LEO	148	
+OneWeb-0439	LEO	148	
+OneWeb-0440 	LEO	148	
+OneWeb-0442	LEO	148	
+OneWeb-0443	LEO	148	
+OneWeb-0444	LEO	148	
+OneWeb-0445	LEO	148	
+OneWeb-0446	LEO	148	
+OneWeb-0448	LEO	148	
+OneWeb-0449	LEO	148	
+OneWeb-0450 	LEO	148	
+OneWeb-0451	LEO	148	
+OneWeb-0452	LEO	148	
+OneWeb-0455	LEO	148	
+OneWeb-0456	LEO	148	
+OneWeb-0457	LEO	148	
+OneWeb-0458	LEO	148	
+OneWeb-0461	LEO	148	
+OneWeb-0463	LEO	148	
+OneWeb-0464	LEO	148	
+OneWeb-0468	LEO	148	
+OneWeb-0473	LEO	148	
+OneWeb-0474	LEO	148	
+OneWeb-0475	LEO	148	
+OPTOS	LEO	3	
+Optsat-3000	LEO	368	
+Optus 10	GEO	"3,270"	
+Optus and Defence C1	GEO	"4,800"	
+Optus D1	GEO	"2,300"	
+Optus D2	GEO	"2,400"	
+Optus D3	GEO	"2,501"	
+ORBCOMM FM-10	LEO	45	
+ORBCOMM FM-11	LEO	45	
+ORBCOMM FM-12	LEO	45	
+ORBCOMM FM-13	LEO	45	
+ORBCOMM FM-14	LEO	45	
+ORBCOMM FM-15	LEO	45	
+ORBCOMM FM-18	LEO	45	
+ORBCOMM FM-19	LEO	45	
+ORBCOMM FM-20	LEO	45	
+ORBCOMM FM-21	LEO	45	
+ORBCOMM FM-23	LEO	45	
+ORBCOMM FM-27	LEO	45	
+ORBCOMM FM-30	LEO	45	
+ORBCOMM FM-31	LEO	45	
+ORBCOMM FM-32	LEO	45	
+ORBCOMM FM-35	LEO	45	
+ORBCOMM FM-36	LEO	45	
+ORBCOMM FM-4	LEO	45	
+ORBCOMM FM-5	LEO	45	
+ORBCOMM FM-6	LEO	45	
+ORBCOMM FM-7	LEO	45	
+ORBCOMM FM-8	LEO	45	
+ORBCOMM FM-9	LEO	45	
+ORBCOMM FM-103	LEO	172	
+ORBCOMM FM-107	LEO	172	
+ORBCOMM FM-108	LEO	172	
+ORBCOMM FM-109	LEO	172	
+ORBCOMM FM-110	LEO	172	
+ORBCOMM FM-112	LEO	172	
+ORBCOMM FM-113	LEO	172	
+ORBCOMM FM-114	LEO	172	
+ORBCOMM FM-115	LEO	172	
+ORBCOMM FM-116	LEO	172	
+ORBCOMM FM-117	LEO	172	
+ORBCOMM FM-118	LEO	172	
+Orbital Factory-2	LEO	2	
+Orbweaver-1	LEO		
+Orbweaver-2	LEO		
+ORCA-2	LEO	9	
+ORCA-6	LEO	9	
+ORCA-7	LEO	9	
+OreSat0	LEO	1	
+ORS-5	LEO	140	
+OTB-1	LEO	138	
+PACE-1	LEO	10	
+Painani-1	LEO	4	
+Painani-2	LEO	4	
+Paksat-1R	GEO	"5,120"	
+PakTES-1a	LEO	285	
+Palisade	LEO	20	
+USA 207	GEO		
+PAN-A	LEO	4	
+PAN-B	LEO	4	
+ParkinsonSat-2	Elliptical	6	
+Pathfinder II	LEO	20	
+Paz	LEO	"1,450"	
+Pearl White 1	LEO	8	
+Pearl White 2	LEO	8	
+PEASSS	LEO	10	
+Perseus M1	LEO	6	
+Perseus M2	LEO	6	
+Cosmos 2486	LEO	"7,000"	
+Cosmos 2506	LEO	"7,000"	
+PeruSat-1	LEO	430	
+Photon Pathstone	LEO	20	
+PICASSO	LEO	4	
+PICS-1	LEO	1	
+PICS-2	LEO	1	
+Cosmos 2550	LEO	"6,500"	
+PISAT	LEO	6	
+PIXL-1	LEO	5	
+PlantSat	LEO	4	
+Pléiades HR1A 	LEO	"1,000"	
+Pléiades HR1B 	LEO	970	
+Pleiades Neo 3 	LEO	920	
+Pléiades Neo 4	LEO	920	
+Polar Scout A	LEO	6	
+Polar Scout B	LEO	6	
+PolarCube	LEO	4	
+PolyITAN-1	LEO	1	
+PRISMA	LEO	550	
+Proba 1	LEO	100	
+Proba 2	LEO	130	
+Proba 5	LEO	140	
+Prometheus 2.1	LEO	1	
+Prometheus 2.10	LEO	2	
+Prometheus 2.11 	LEO	2	
+Prometheus 2.3	LEO	1	
+Prometheus 2.6	LEO	1	
+Prometheus 2.7	LEO	1	
+Prometheus 2.9	LEO	1	
+Prometheus 2-8	LEO	2	
+PropCube-1	LEO	1	
+PropCube-2	LEO	1	
+PropCube-3	LEO	1	
+Prox-1	LEO	70	
+Proxima-1	LEO	1	
+Proxima-2	LEO	1	
+PRSS-1	LEO	"1,200"	
+PTD-1	LEO	9	
+Pujiang-1	LEO		
+Pujiang-2	LEO	"2,000"	
+PUMBAA	LEO	3	
+QARMAN	LEO	5	
+Qiancheng-01	LEO	65	
+Qilu 1	LEO	100	
+Qilu 4	LEO	100	
+Qimingxing-1	LEO	19	
+QMR-KWT	LEO	1	
+QPS-SAR 1	LEO	100	
+QPS-SAR 2	LEO	100	
+Qsat-EOS	LEO	49	
+QSS	LEO	700	
+QueztSat-1	GEO	"5,514"	
+QZS-1	GEO	"4,000"	
+QZS-1R	GEO	"4,100"	
+QZS-2	GEO	"4,000"	
+QZS-3	GEO	"4,000"	
+QZS-4	GEO	"4,000"	
+RAAF M2 Pathfinder	LEO	9	
+RAAF MS-A	LEO	9	
+Raavana-1	LEO	1	
+Radarsat-2	LEO	"2,924"	
+RadCube	LEO	4	
+RadFxSat	LEO	4	
+Raduga 1-M2	GEO	"2,500"	
+Raduga 1-M3	GEO	"2,400"	
+RAISE-2	LEO	110	
+RAMSAT	LEO	3	
+RANGE-A	LEO	2	
+RANGE-B	LEO	2	
+USA 225	LEO	350	
+RAPIS-1	LEO	200	
+RASAT	LEO	113	
+Rascom-QAF 1R	GEO	"3,050"	
+RAVAN	LEO	5	
+RCM-1	LEO	"1,430"	
+RCM-2	LEO	"1,430"	
+RCM-3	LEO	"1,430"	
+Reaktor Hello World	LEO	4	
+Red-Eye 1	LEO	100	
+Red-Eye 2	LEO	100	
+Red-Eye 3	LEO	100	
+Reimei	LEO	70	
+Relek	LEO	253	
+Resourcesat 2	LEO	"1,206"	
+Resourcesat 2A	LEO	"1,235"	
+Resurs-P1	LEO	"5,900"	
+Resurs-P2	LEO	"5,900"	
+Resurs-P3	LEO	"5,900"	
+RISat-1	LEO	"1,858"	
+RISat-2	LEO	93	
+RISat-2B	LEO	615	
+RISat-2BR1	LEO	628	
+RISESAT	LEO	59	
+Rising-2	LEO	41	
+Robusta-1B	LEO	5	
+Cosmos 2416	LEO	225	
+Cosmos 2437	LEO	280	
+Cosmos 2438	LEO	280	
+Cosmos 2439	LEO	280	
+Cosmos 2451	LEO	280	
+Cosmos 2453	LEO	280	
+Cosmos 2467	LEO	225	
+Cosmos 2468	LEO	225	
+Cosmos 2481	LEO	280	
+Cosmos 2482	LEO	250	
+Cosmos 2483	LEO	250	
+Cosmos 2484	LEO	250	
+Cosmos 2488	LEO	280	
+Cosmos 2489	LEO	280	
+Cosmos 2490	LEO	280	
+Cosmos 2496	LEO	280	
+Cosmos 2497	LEO	280	
+Cosmos 2498	LEO	280	
+Cosmos 2507	LEO	280	
+Cosmos 2508	LEO	280	
+Cosmos 2509	LEO	280	
+Cosmos 2530	LEO	280	
+Cosmos 2531	LEO	280	
+Cosmos 2532	LEO	280	
+RSP-01	LEO	1	
+RSW-1 01	LEO	300	
+RSW-1 02	LEO	300	
+Rumba	Elliptical	"1,200"	
+SAI NanoConnect 2	LEO	3	
+Salsa	Elliptical	"1,200"	
+SALSAT	LEO	12	
+Samba	Elliptical	"1,200"	
+Sanosat-1	LEO	1	
+SAOCOM-1A	LEO	"1,650"	
+SAOCOM-1B	LEO	"3,050"	
+Sapphire	LEO	148	
+SARAL	LEO	407	
+SAR-Lupe 1	LEO	770	
+SAR-Lupe 2	LEO	770	
+SAR-Lupe 3	LEO	770	
+SAR-Lupe 4	LEO	770	
+SAR-Lupe 5	LEO	770	
+Sateliot Enxaneta	LEO	4	
+SATTLA-2B	LEO	1	
+Saudicomsat-1	LEO	12	
+Saudicomsat-2 	LEO	12	
+Saudicomsat-3	LEO	12	
+Saudicomsat-4	LEO	12	
+Saudicomsat-5	LEO	12	
+Saudicomsat-6	LEO	12	
+Saudicomsat-7	LEO	12	
+Saudisat 1C	LEO	10	
+Saudisat-2 	LEO	35	
+Saudisat-3	LEO	200	
+Saudisat-5A	LEO	425	
+Saudisat-5B	LEO	425	
+USA 230	GEO	"4,500"	
+USA 241	GEO	"4,500"	
+USA 273	GEO	"4,500"	
+USA 282	GEO	"4,500"	
+USA 315	GEO	"4,850"	
+USA 216	LEO	"1,031"	
+USA 181	LEO	"5,000"	
+USA 181	LEO	"5,000"	
+USA 194	LEO	"5,000"	
+USA 194	LEO	"5,000"	
+USA 229	LEO		
+USA 229	LEO	"5,000"	
+USA 238	LEO	"6,500"	
+USA 238	LEO	"6,500"	
+USA 264	LEO	"6,500"	
+USA 264	LEO	"6,500"	
+USA 274	LEO	"6,500"	
+USA 274	LEO	"6,500"	
+ScatSat-1	LEO	371	
+SCD-1	LEO	110	
+SCD-2	LEO	110	
+Scisat-1	LEO	150	
+SDGSAT 1	LEO	500	
+SDO	GEO	"3,100"	
+USA 179	Elliptical		
+USA 198	Elliptical		
+USA 227	GEO		
+USA 236	GEO		
+USA 252	GEO		
+USA 269	GEO		
+USA 279	GEO		
+SDS-4	LEO	50	
+Seahawk-1	LEO	4	
+SEEDS 2	LEO	3	
+SeeMe	LEO	25	
+Sentinel 1A	LEO	"2,300"	
+Sentinel 1B	LEO	"2,300"	
+Sentinel 2A	LEO	"1,130"	
+Sentinel 2B	LEO	"1,130"	
+Sentinel 3A	LEO	"2,300"	
+Sentinel 3B	LEO	"2,300"	
+Sentinel 5P	LEO	820	
+Sentinel 6	LEO	"1,192"	
+SES-1	GEO		
+SES-10	GEO	"5,271"	
+SES-11/EchoStar 105	GEO	"5,200"	
+SES-12	GEO	"5,300"	
+SES-14	GEO	"4,423"	
+SES-15	GEO		
+SES-17	GEO	"6,411"	
+SES-2	GEO	"3,200"	
+SES-3	GEO	"3,112"	
+SES-4	GEO		
+SES-5	GEO	"6,007"	
+SES-6	GEO	"6,140"	
+SES-7	GEO	"4,007"	
+SES-8	GEO	"3,138"	
+SES-9	GEO	"5,271"	
+SGDC	GEO	"5,735"	
+Shaonian Xing	LEO	3	
+SHFT	LEO	5	
+Shields 1	LEO	4	
+Shijian 11-01	LEO		
+Shijian 11-02	LEO		
+Shijian 11-03	LEO		
+Shijian 11-05	LEO		
+Shijian 11-06	LEO		
+Shijian 11-07	LEO		
+Shijian 11-08	LEO		
+Shijian 12	LEO		
+Shijian 13	GEO	"4,600"	
+Shijian 15	LEO		
+Shijian 16-01	LEO		
+Shijian 16-02	LEO		
+Shijian 17	GEO	"3,800"	
+Shijian 20	GEO	"7,600"	
+Shijian 21	GEO	"5,000"	
+Shijian 6-05A	LEO		
+Shijian 6-05B	LEO		
+Shijian 6A	LEO		
+Shijian 6B	LEO		
+Shijian 6C	LEO		
+Shijian 6D	LEO		
+Shijian 6E	LEO		
+Shijian 6F	LEO		
+Shijian 6G	LEO		
+Shijian 6H	LEO		
+Shijian 7	LEO		
+Shijian 9A	LEO		
+Shijian 9B	LEO		
+Shiyan 1	LEO	204	
+Shiyan 11	LEO	200	
+Shiyan 12-01	GEO	"3,000"	
+Shiyan 12-02	GEO	"3,000"	
+Shiyan 13	LEO	500	
+Shiyan 3	LEO	300	
+Shiyan 4	LEO	300	
+Shiyan 5	LEO	204	
+Shiyan 6-01	LEO		
+Shiyan 6-02	LEO		
+Shiyan 6-03	LEO	"1,500"	
+Shiyan 7	LEO		
+Shiyan 9	GEO	"5,000"	
+Sich-2-1	LEO	170	
+Sicral 1A	GEO	"2,596"	
+Sicral 1B	GEO	"3,038"	
+Sicral 2/Syracuse 3C	GEO	"4,400"	
+SIMBA	LEO	6	
+SINOD D-1	LEO	2	
+SINOD D-3	LEO	2	
+Sinosat-6	GEO	"5,000"	
+Sirius-1 (SD Radio 1)	Elliptical	"3,727"	
+Sirius 2 (SD Radio 2)	Elliptical	"3,792"	
+Sirius 3 (SD Radio 3)	Elliptical	"3,727"	
+Sirius 4	GEO	"4,400"	
+Sirius FM-5	GEO	"5,800"	
+Sirius FM-6	GEO	"6,020"	
+Sirius XM-3	GEO	"4,703"	
+Sirius XM-4	GEO	"5,193"	
+Sirius XM-5	GEO	"5,983"	
+Sirius XM-8	GEO	"7,000"	
+Siwei 01	LEO	540	
+Siwei 02	LEO	540	
+Sky Mexico-1	GEO	"3,180"	
+Sky Muster 1	GEO	"6,440"	
+Sky Muster 2	GEO	"6,405"	
+SkyBrasil-1 (Intelsat 32E)	GEO	"6,000"	
+Skynet 4C	GEO	"1,474"	
+Skynet 4E	GEO	"1,510"	
+Skynet 5A	GEO	"4,700"	
+Skynet 5B	GEO	"4,635"	
+Skynet 5C	GEO	"4,600"	
+Skynet 5D	GEO	"4,638"	
+SkySat-1	LEO		
+SkySat-10	LEO	110	
+SkySat-11	LEO	110	
+SkySat-12	LEO	110	
+SkySat-13	LEO	110	
+SkySat-14	LEO	100	
+SkySat-15	LEO	100	
+SkySat-16	LEO	100	
+SkySat-17	LEO	100	
+SkySat-18	LEO	100	
+SkySat-19	LEO	110	
+SkySat-2	LEO	90	
+SkySat-20	LEO	110	
+SkySat-21	LEO	110	
+SkySat-3	LEO	110	
+SkySat-4	LEO	110	
+SkySat-5	LEO	110	
+SkySat-6	LEO	110	
+SkySat-7	LEO	110	
+SkySat-8	LEO	110	
+SkySat-9	LEO	110	
+SkyTerra 1	GEO	"5,360"	
+USA 119	Elliptical		
+SMAP	LEO		
+SMDC-ONE 1.1	LEO	5	
+SMDC-ONE 1.2	LEO	3	
+SMDC-ONE 2.3	LEO	5	
+SMDC-ONE 2.4	LEO	5	
+SMOS	LEO	658	
+SNaP-3 Alice	LEO	5	
+SNaP-3 Eddie	LEO	5	
+SNaP-3 Jimi	LEO	5	
+SNaP-3-1	LEO		
+S-Net-1	LEO	9	
+S-Net-2	LEO	9	
+S-Net-3	LEO	9	
+S-Net-4	LEO	9	
+SOCRATES	LEO	48	
+SOHLA 1	LEO	50	
+SOKRAT	LEO	4	
+SOMP-2b	LEO	3	
+SONATE	LEO	1	
+SOlar Radiation and Climate Experiment (SORCE)	LEO	315	
+SORTIE	LEO	9	
+South Asia Satellite	GEO	"2,230"	
+SpaceBEE-1	LEO	1	
+SpaceBEE-10	LEO	2	
+SpaceBEE-100	LEO	2	
+SpaceBEE-101	LEO	2	
+SpaceBEE-102	LEO	2	
+SpaceBEE-103	LEO	2	
+SpaceBEE-104	LEO	2	
+SpaceBEE-105	LEO	2	
+SpaceBEE-106	LEO	2	
+SpaceBEE-107	LEO	2	
+SpaceBEE-108	LEO	2	
+SpaceBEE-109	LEO	2	
+SpaceBEE-11 	LEO	2	
+SpaceBEE-110	LEO	2	
+SpaceBEE-111	LEO	2	
+SpaceBEE-112 	LEO	2	
+SpaceBEE-113	LEO	2	
+SpaceBEE-114	LEO	2	
+SpaceBEE-115	LEO	2	
+SpaceBEE-116	LEO	2	
+SpaceBEE-117	LEO	2	
+SpaceBEE-118	LEO	2	
+SpaceBEE-119	LEO	2	
+SpaceBEE-12	LEO	2	
+SpaceBEE-120	LEO	2	
+SpaceBEE-121	LEO	2	
+SpaceBEE-122	LEO	2	
+SpaceBEE-123	LEO	2	
+SpaceBEE-124	LEO	2	
+SpaceBEE-125	LEO	2	
+SpaceBEE-126	LEO	2	
+SpaceBEE-127 	LEO	2	
+SpaceBEE-128	LEO	2	
+SpaceBEE-129	LEO	2	
+SpaceBEE-13	LEO	2	
+SpaceBEE-130	LEO	2	
+SpaceBEE-131	LEO	2	
+SpaceBEE-132	LEO	2	
+SpaceBEE-133	LEO	2	
+SpaceBEE-134	LEO	2	
+SpaceBEE-135	LEO	2	
+SpaceBEE-136	LEO	2	
+SpaceBEE-137	LEO	2	
+SpaceBEE-138	LEO	2	
+SpaceBEE-139	LEO	2	
+SpaceBEE-14 	LEO	2	
+SpaceBEE-15	LEO	2	
+SpaceBEE-16	LEO	2	
+SpaceBEE-17	LEO	2	
+SpaceBEE-18	LEO	2	
+SpaceBEE-19	LEO	2	
+SpaceBEE-2	LEO	1	
+SpaceBEE-20 	LEO	2	
+SpaceBEE-21 	LEO	2	
+SpaceBEE-22 	LEO	2	
+SpaceBEE-23 	LEO	2	
+SpaceBEE-24 	LEO	2	
+SpaceBEE-25 	LEO	2	
+SpaceBEE-26 	LEO	2	
+SpaceBEE-27 	LEO	2	
+SpaceBEE-28 	LEO	2	
+SpaceBEE-29 	LEO	2	
+SpaceBEE-3	LEO	1	
+SpaceBEE-30 	LEO	2	
+SpaceBEE-31 	LEO	2	
+SpaceBEE-32 	LEO	2	
+SpaceBEE-33 	LEO	2	
+SpaceBEE-34	LEO	2	
+SpaceBEE-35	LEO	2	
+SpaceBEE-36 	LEO	2	
+SpaceBEE-37 	LEO	2	
+SpaceBEE-38	LEO	2	
+SpaceBEE-39 	LEO	2	
+SpaceBEE-4	LEO	1	
+SpaceBEE-40 	LEO	2	
+SpaceBEE-41 	LEO	2	
+SpaceBEE-42 	LEO	2	
+SpaceBEE-43 	LEO	2	
+SpaceBEE-44 	LEO	2	
+SpaceBEE-45 	LEO	2	
+SpaceBEE-46 	LEO	2	
+SpaceBEE-47 	LEO	2	
+SpaceBEE-48 	LEO	2	
+SpaceBEE-49 	LEO	2	
+SpaceBEE-5	LEO	2	
+SpaceBEE-50 	LEO	2	
+SpaceBEE-51 	LEO	2	
+SpaceBEE-52 	LEO	2	
+SpaceBEE-53 	LEO	2	
+SpaceBEE-54 	LEO	2	
+SpaceBEE-55 	LEO	2	
+SpaceBEE-56 	LEO	2	
+SpaceBEE-57 	LEO	2	
+SpaceBEE-58 	LEO	2	
+SpaceBEE-59 	LEO	2	
+SpaceBEE-6	LEO	2	
+SpaceBEE-60 	LEO	2	
+SpaceBEE-61 	LEO	2	
+SpaceBEE-62 	LEO	2	
+SpaceBEE-63 	LEO	2	
+SpaceBEE-64	LEO	2	
+SpaceBEE-65	LEO	2	
+SpaceBEE-66	LEO	2	
+SpaceBEE-67	LEO	2	
+SpaceBEE-68	LEO	2	
+SpaceBEE-69	LEO	2	
+SpaceBEE-7	LEO	2	
+SpaceBEE-70	LEO	2	
+SpaceBEE-71	LEO	2	
+SpaceBEE-72	LEO	2	
+SpaceBEE-73	LEO	2	
+SpaceBEE-74	LEO	2	
+SpaceBEE-75	LEO	2	
+SpaceBEE-76 	LEO	2	
+SpaceBEE-79 	LEO	2	
+SpaceBEE-77 	LEO	2	
+SpaceBEE-78 	LEO	2	
+SpaceBEE-80	LEO	2	
+SpaceBEE-81	LEO	2	
+SpaceBEE-82 	LEO	2	
+SpaceBEE-83	LEO	2	
+SpaceBEE-84	LEO	2	
+SpaceBEE-85	LEO	2	
+SpaceBEE-86 	LEO	2	
+SpaceBEE-87	LEO	2	
+SpaceBEE-88	LEO	2	
+SpaceBEE-89	LEO	2	
+SpaceBEE-90	LEO	2	
+SpaceBEE-91	LEO	2	
+SpaceBEE-92	LEO	2	
+SpaceBEE-93	LEO	2	
+SpaceBEE-94	LEO	2	
+SpaceBEE-95	LEO	2	
+SpaceBEE-96	LEO	2	
+SpaceBEE-97	LEO	2	
+SpaceBEE-98	LEO	2	
+SpaceBEE-99	LEO	2	
+SpaceBEE-NS14	LEO	2	
+SpaceBEE-NZ1 	LEO	2	
+SpaceBEE-NZ10	LEO	2	
+SpaceBEE-NZ11	LEO	2	
+SpaceBEE-NZ12	LEO	2	
+SpaceBEE-NZ13 	LEO	2	
+SpaceBEE-NZ2 	LEO	2	
+SpaceBEE-NZ3	LEO	2	
+SpaceBEE-NZ4 	LEO	2	
+SpaceBEE-NZ5 	LEO	2	
+SpaceBEE-NZ6 	LEO	2	
+SpaceBEE-NZ7	LEO	2	
+SpaceBEE-NZ8	LEO	2	
+SpaceBEE-NZ9	LEO	2	
+Spaceway 3	GEO	"6,100"	
+Spaceway F2	GEO	"5,993"	
+Spainsat	GEO	"3,680"	
+SPARC-1	LEO	8	
+Spark-1	LEO	50	
+Spark-1	LEO	20	
+Spark-2	LEO	50	
+SPARTAN	LEO	10	
+SPATIUM-I	LEO	3	
+Spektr-R/RadioAstron	Elliptical	"3,660"	
+SPIRALE-A	Elliptical	117	
+SPIRALE-B	Elliptical	117	
+Spot 6	LEO	720	
+Spot 7	LEO	714	
+SPROUT	LEO	7	
+SRMSat	LEO	11	
+SRSS-1	LEO	50	
+SSOT	LEO	117	
+SSS-1	LEO	30	
+SSS-2A	LEO	4	
+SSTL-S1-4	LEO	440	
+ST-2	GEO	"5,090"	
+Star One C1	GEO	"4,100"	
+Star One C2	GEO	"4,100"	
+Star One C3	GEO	"3,225"	
+Star One C4	GEO	"5,634"	
+Star One D1	GEO	"6,433"	
+Star One D2	GEO	"6,190"	
+Starlink-1007	LEO	227	
+Starlink-1008	LEO	227	
+Starlink-1009	LEO	227	
+Starlink-1010	LEO	227	
+Starlink-1011	LEO	227	
+Starlink-1012	LEO	227	
+Starlink-1013	LEO	227	
+Starlink-1014	LEO	227	
+Starlink-1015	LEO	227	
+Starlink-1016	LEO	227	
+Starlink-1017	LEO	227	
+Starlink-1019	LEO	227	
+Starlink-1020	LEO	227	
+Starlink-1021	LEO	227	
+Starlink-1022	LEO	227	
+Starlink-1023	LEO	227	
+Starlink-1024	LEO	227	
+Starlink-1026	LEO	227	
+Starlink-1027	LEO	227	
+Starlink-1028	LEO	227	
+Starlink-1029	LEO	227	
+Starlink-1030	LEO	227	
+Starlink-1031	LEO	227	
+Starlink-1032	LEO	227	
+Starlink-1033	LEO	227	
+Starlink-1034	LEO	227	
+Starlink-1035	LEO	227	
+Starlink-1036	LEO	227	
+Starlink-1037	LEO	227	
+Starlink-1038	LEO	227	
+Starlink-1039	LEO	227	
+Starlink-1041	LEO	227	
+Starlink-1042	LEO	227	
+Starlink-1043	LEO	227	
+Starlink-1044	LEO	227	
+Starlink-1046	LEO	227	
+Starlink-1047	LEO	227	
+Starlink-1048	LEO	227	
+Starlink-1049	LEO	227	
+Starlink-1052	LEO	227	
+Starlink-1053	LEO	227	
+Starlink-1054	LEO	227	
+Starlink-1055	LEO	227	
+Starlink-1056	LEO	227	
+Starlink-1057	LEO	227	
+Starlink-1058	LEO	227	
+Starlink-1059	LEO	227	
+Starlink-1060	LEO	227	
+Starlink-1061	LEO	227	
+Starlink-1062	LEO	227	
+Starlink-1063	LEO	227	
+Starlink-1065	LEO	227	
+Starlink-1066	LEO	227	
+Starlink-1067	LEO	227	
+Starlink-1068	LEO	227	
+Starlink-1069	LEO	227	
+Starlink-1070	LEO	227	
+Starlink-1071	LEO	227	
+Starlink-1073	LEO	227	
+Starlink-1074	LEO	227	
+Starlink-1076	LEO	227	
+Starlink-1077	LEO	227	
+Starlink-1079	LEO	227	
+Starlink-1080	LEO	227	
+Starlink-1081	LEO	227	
+Starlink-1082	LEO	227	
+Starlink-1083	LEO	227	
+Starlink-1084	LEO	227	
+Starlink-1085	LEO	227	
+Starlink-1086	LEO	227	
+Starlink-1088	LEO	227	
+Starlink-1089	LEO	227	
+Starlink-1090	LEO	227	
+Starlink-1091	LEO	227	
+Starlink-1092	LEO	227	
+Starlink-1093	LEO	227	
+Starlink-1094	LEO	227	
+Starlink-1096	LEO	227	
+Starlink-1098	LEO	227	
+Starlink-1099	LEO	227	
+Starlink-1100	LEO	227	
+Starlink-1102	LEO	227	
+Starlink-1103	LEO	227	
+Starlink-1104	LEO	227	
+Starlink-1106	LEO	227	
+Starlink-1107	LEO	227	
+Starlink-1108	LEO	227	
+Starlink-1109	LEO	227	
+Starlink-1110	LEO	227	
+Starlink-1111	LEO	227	
+Starlink-1112	LEO	227	
+Starlink-1113	LEO	227	
+Starlink-1114	LEO	227	
+Starlink-1115	LEO	227	
+Starlink-1116	LEO	227	
+Starlink-1117	LEO	227	
+Starlink-1119	LEO	227	
+Starlink-1120	LEO	227	
+Starlink-1121	LEO	227	
+Starlink-1122	LEO	227	
+Starlink-1123	LEO	227	
+Starlink-1124	LEO	227	
+Starlink-1125	LEO	227	
+Starlink-1126	LEO	227	
+Starlink-1128	LEO	227	
+Starlink-1129	LEO	227	
+Starlink-1130	LEO	227	
+Starlink-1131	LEO	227	
+Starlink-1132	LEO	227	
+Starlink-1133	LEO	227	
+Starlink-1134	LEO	227	
+Starlink-1135	LEO	227	
+Starlink-1136	LEO	227	
+Starlink-1137	LEO	227	
+Starlink-1138	LEO	227	
+Starlink-1139	LEO	227	
+Starlink-1140	LEO	227	
+Starlink-1141	LEO	227	
+Starlink-1142	LEO	227	
+Starlink-1143	LEO	227	
+Starlink-1144	LEO	227	
+Starlink-1145	LEO	227	
+Starlink-1146	LEO	227	
+Starlink-1147	LEO	227	
+Starlink-1148	LEO	227	
+Starlink-1149	LEO	227	
+Starlink-1150	LEO	227	
+Starlink-1151	LEO	227	
+Starlink-1152	LEO	227	
+Starlink-1153	LEO	227	
+Starlink-1154	LEO	227	
+Starlink-1155	LEO	227	
+Starlink-1156	LEO	227	
+Starlink-1157	LEO	227	
+Starlink-1158	LEO	227	
+Starlink-1159	LEO	227	
+Starlink-1160	LEO	227	
+Starlink-1161	LEO	227	
+Starlink-1162	LEO	227	
+Starlink-1165	LEO	227	
+Starlink-1166	LEO	227	
+Starlink-1167	LEO	227	
+Starlink-1168	LEO	227	
+Starlink-1169	LEO	227	
+Starlink-1170	LEO	227	
+Starlink-1171	LEO	227	
+Starlink-1172	LEO	227	
+Starlink-1173	LEO	227	
+Starlink-1174	LEO	227	
+Starlink-1176	LEO	227	
+Starlink-1177	LEO	227	
+Starlink-1179	LEO	227	
+Starlink-1180	LEO	227	
+Starlink-1181	LEO	227	
+Starlink-1183	LEO	227	
+Starlink-1184	LEO	227	
+Starlink-1185	LEO	227	
+Starlink-1186	LEO	227	
+Starlink-1187	LEO	227	
+Starlink-1189	LEO	227	
+Starlink-1190	LEO	227	
+Starlink-1191	LEO	227	
+Starlink-1192	LEO	227	
+Starlink-1193	LEO	227	
+Starlink-1194	LEO	227	
+Starlink-1195	LEO	227	
+Starlink-1196	LEO	227	
+Starlink-1197	LEO	227	
+Starlink-1199	LEO	227	
+Starlink-1200	LEO	227	
+Starlink-1201	LEO	227	
+Starlink-1202	LEO	227	
+Starlink-1203	LEO	227	
+Starlink-1205	LEO	227	
+Starlink-1206	LEO	227	
+Starlink-1207	LEO	227	
+Starlink-1208	LEO	227	
+Starlink-1209	LEO	227	
+Starlink-1210	LEO	227	
+Starlink-1211	LEO	227	
+Starlink-1212	LEO	227	
+Starlink-1213	LEO	227	
+Starlink-1214	LEO	227	
+Starlink-1215	LEO	227	
+Starlink-1216	LEO	227	
+Starlink-1217	LEO	227	
+Starlink-1218	LEO	227	
+Starlink-1219	LEO	227	
+Starlink-1221	LEO	227	
+Starlink-1222	LEO	227	
+Starlink-1224	LEO	227	
+Starlink-1225	LEO	227	
+Starlink-1226	LEO	227	
+Starlink-1227	LEO	227	
+Starlink-1228	LEO	227	
+Starlink-1229	LEO	227	
+Starlink-1230	LEO	227	
+Starlink-1231	LEO	227	
+Starlink-1232	LEO	227	
+Starlink-1233	LEO	227	
+Starlink-1234	LEO	227	
+Starlink-1235	LEO	227	
+Starlink-1236	LEO	227	
+Starlink-1237	LEO	227	
+Starlink-1238	LEO	227	
+Starlink-1239	LEO	227	
+Starlink-1240	LEO	227	
+Starlink-1241	LEO	227	
+Starlink-1243	LEO	227	
+Starlink-1244	LEO	227	
+Starlink-1245	LEO	227	
+Starlink-1246	LEO	227	
+Starlink-1247	LEO	227	
+Starlink-1255	LEO	227	
+Starlink-1256	LEO	227	
+Starlink-1257	LEO	227	
+Starlink-1258	LEO	227	
+Starlink-1259	LEO	227	
+Starlink-1260	LEO	227	
+Starlink-1261	LEO	227	
+Starlink-1262	LEO	227	
+Starlink-1263	LEO	227	
+Starlink-1264	LEO	227	
+Starlink-1265	LEO	227	
+Starlink-1266	LEO	227	
+Starlink-1267	LEO	227	
+Starlink-1269	LEO	227	
+Starlink-1270	LEO	227	
+Starlink-1271	LEO	227	
+Starlink-1272	LEO	227	
+Starlink-1273	LEO	227	
+Starlink-1274	LEO	227	
+Starlink-1275	LEO	227	
+Starlink-1276	LEO	227	
+Starlink-1277	LEO	227	
+Starlink-1278	LEO	227	
+Starlink-1279	LEO	227	
+Starlink-1280	LEO	227	
+Starlink-1281	LEO	227	
+Starlink-1282	LEO	227	
+Starlink-1283	LEO	227	
+Starlink-1284	LEO	227	
+Starlink-1285	LEO	227	
+Starlink-1286	LEO	227	
+Starlink-1287	LEO	227	
+Starlink-1288	LEO	227	
+Starlink-1289	LEO	227	
+Starlink-1290	LEO	227	
+Starlink-1291	LEO	227	
+Starlink-1292	LEO	227	
+Starlink-1293	LEO	227	
+Starlink-1294	LEO	227	
+Starlink-1295	LEO	227	
+Starlink-1296	LEO	227	
+Starlink-1297	LEO	227	
+Starlink-1298	LEO	227	
+Starlink-1299	LEO	227	
+Starlink-1300	LEO	227	
+Starlink-1301	LEO	227	
+Starlink-1302	LEO	227	
+Starlink-1303	LEO	227	
+Starlink-1304	LEO	227	
+Starlink-1305	LEO	227	
+Starlink-1306	LEO	227	
+Starlink-1307	LEO	227	
+Starlink-1308	LEO	227	
+Starlink-1309	LEO	227	
+Starlink-1310	LEO	227	
+Starlink-1312	LEO	227	
+Starlink-1313	LEO	227	
+Starlink-1316	LEO	227	
+Starlink-1317	LEO	227	
+Starlink-1318	LEO	227	
+Starlink-1319	LEO	227	
+Starlink-1320	LEO	227	
+Starlink-1321	LEO	227	
+Starlink-1322	LEO	227	
+Starlink-1323	LEO	227	
+Starlink-1324	LEO	227	
+Starlink-1325	LEO	227	
+Starlink-1326	LEO	227	
+Starlink-1327	LEO	227	
+Starlink-1328	LEO	227	
+Starlink-1329	LEO	227	
+Starlink-1330	LEO	227	
+Starlink-1331	LEO	227	
+Starlink-1332	LEO	227	
+Starlink-1333	LEO	227	
+Starlink-1334	LEO	227	
+Starlink-1335	LEO	227	
+Starlink-1336	LEO	227	
+Starlink-1337	LEO	227	
+Starlink-1338	LEO	227	
+Starlink-1339	LEO	227	
+Starlink-1340	LEO	227	
+Starlink-1341	LEO	227	
+Starlink-1342	LEO	227	
+Starlink-1343	LEO	227	
+Starlink-1344	LEO	227	
+Starlink-1346	LEO	227	
+Starlink-1347	LEO	227	
+Starlink-1348	LEO	227	
+Starlink-1349	LEO	227	
+Starlink-1350	LEO	227	
+Starlink-1351 	LEO	227	
+Starlink-1352	LEO	227	
+Starlink-1353	LEO	227	
+Starlink-1354	LEO	227	
+Starlink-1355	LEO	227	
+Starlink-1356	LEO	227	
+Starlink-1357	LEO	227	
+Starlink-1358	LEO	227	
+Starlink-1360	LEO	227	
+Starlink-1361	LEO	227	
+Starlink-1362	LEO	227	
+Starlink-1363	LEO	227	
+Starlink-1364	LEO	227	
+Starlink-1365	LEO	227	
+Starlink-1366	LEO	227	
+Starlink-1367	LEO	227	
+Starlink-1368	LEO	227	
+Starlink-1369	LEO	227	
+Starlink-1370	LEO	227	
+Starlink-1371	LEO	227	
+Starlink-1372	LEO	227	
+Starlink-1373	LEO	227	
+Starlink-1374	LEO	227	
+Starlink-1375	LEO	227	
+Starlink-1376	LEO	227	
+Starlink-1377	LEO	227	
+Starlink-1378	LEO	227	
+Starlink-1390	LEO	227	
+Starlink-1391 	LEO	227	
+Starlink-1392	LEO	227	
+Starlink-1393	LEO	227	
+Starlink-1394 	LEO	227	
+Starlink-1395	LEO	227	
+Starlink-1396	LEO	227	
+Starlink-1397	LEO	227	
+Starlink-1398	LEO	227	
+Starlink-1399 	LEO	227	
+Starlink-1400	LEO	227	
+Starlink-1401	LEO	227	
+Starlink-1402	LEO	227	
+Starlink-1403	LEO	227	
+Starlink-1404	LEO	227	
+Starlink-1405	LEO	227	
+Starlink-1407	LEO	227	
+Starlink-1408	LEO	227	
+Starlink-1409	LEO	227	
+Starlink-1410	LEO	227	
+Starlink-1411	LEO	227	
+Starlink-1412	LEO	227	
+Starlink-1413	LEO	227	
+Starlink-1414 	LEO	227	
+Starlink-1415	LEO	227	
+Starlink-1416	LEO	227	
+Starlink-1417	LEO	227	
+Starlink-1418	LEO	227	
+Starlink-1419	LEO	227	
+Starlink-1420	LEO	227	
+Starlink-1421 	LEO	227	
+Starlink-1422 	LEO	227	
+Starlink-1423 	LEO	227	
+Starlink-1433 	LEO	227	
+Starlink-1434 	LEO	227	
+Starlink-1436 (VisorSat)	LEO	227	
+Starlink-1437	LEO	227	
+Starlink-1438	LEO	227	
+Starlink-1441	LEO	227	
+Starlink-1442 	LEO	227	
+Starlink-1443	LEO	227	
+Starlink-1444 	LEO	227	
+Starlink-1445	LEO	227	
+Starlink-1446	LEO	227	
+Starlink-1448	LEO	227	
+Starlink-1449	LEO	227	
+Starlink-1450	LEO	227	
+Starlink-1451 	LEO	227	
+Starlink-1452 	LEO	227	
+Starlink-1453 	LEO	227	
+Starlink-1454 	LEO	227	
+Starlink-1455	LEO	227	
+Starlink-1456 	LEO	227	
+Starlink-1457	LEO	227	
+Starlink-1458 	LEO	227	
+Starlink-1459 	LEO	227	
+Starlink-1460 	LEO	227	
+Starlink-1461	LEO	227	
+Starlink-1462 	LEO	227	
+Starlink-1463 	LEO	227	
+Starlink-1464 	LEO	227	
+Starlink-1465 	LEO	227	
+Starlink-1466 	LEO	227	
+Starlink-1467	LEO	227	
+Starlink-1468	LEO	227	
+Starlink-1469	LEO	227	
+Starlink-1470	LEO	227	
+Starlink-1471	LEO	227	
+Starlink-1472 	LEO	227	
+Starlink-1474 	LEO	227	
+Starlink-1475	LEO	227	
+Starlink-1476	LEO	227	
+Starlink-1477	LEO	227	
+Starlink-1478 	LEO	227	
+Starlink-1479 	LEO	227	
+Starlink-1480	LEO	227	
+Starlink-1481	LEO	227	
+Starlink-1482 	LEO	227	
+Starlink-1483 	LEO	227	
+Starlink-1484	LEO	227	
+Starlink-1485 	LEO	227	
+Starlink-1486	LEO	227	
+Starlink-1487 	LEO	227	
+Starlink-1488 	LEO	227	
+Starlink-1489 	LEO	227	
+Starlink-1490 	LEO	227	
+Starlink-1491	LEO	227	
+Starlink-1492 	LEO	227	
+Starlink-1493 	LEO	227	
+Starlink-1494	LEO	227	
+Starlink-1495 	LEO	227	
+Starlink-1496	LEO	227	
+Starlink-1497 	LEO	227	
+Starlink-1498	LEO	227	
+Starlink-1499	LEO	227	
+Starlink-1500	LEO	227	
+Starlink-1501	LEO	227	
+Starlink-1502	LEO	227	
+Starlink-1503 	LEO	227	
+Starlink-1504	LEO	227	
+Starlink-1505 	LEO	227	
+Starlink-1506 	LEO	227	
+Starlink-1507 	LEO	227	
+Starlink-1509 	LEO	227	
+Starlink-1510 	LEO	227	
+Starlink-1511 	LEO	227	
+Starlink-1512	LEO	227	
+Starlink-1513 	LEO	227	
+Starlink-1514 	LEO	260	
+Starlink-1515 	LEO	260	
+Starlink-1517 	LEO	227	
+Starlink-1521 	LEO	227	
+Starlink-1522 	LEO	260	
+Starlink-1523 	LEO	260	
+Starlink-1524 	LEO	260	
+Starlink-1525 	LEO	260	
+Starlink-1526 	LEO	260	
+Starlink-1527 	LEO	260	
+Starlink-1528 	LEO	260	
+Starlink-1529 	LEO	260	
+Starlink-1530 	LEO	260	
+Starlink-1531 	LEO	260	
+Starlink-1532 	LEO	260	
+Starlink-1533 	LEO	260	
+Starlink-1534 	LEO	260	
+Starlink-1536	LEO	260	
+Starlink-1538 	LEO	260	
+Starlink-1539 	LEO	260	
+Starlink-1540 	LEO	260	
+Starlink-1541 	LEO	260	
+Starlink-1542 	LEO	260	
+Starlink-1543 	LEO	260	
+Starlink-1544 	LEO	260	
+Starlink-1545 	LEO	260	
+Starlink-1546	LEO	260	
+Starlink-1547	LEO	260	
+Starlink-1548 	LEO	260	
+Starlink-1549 	LEO	260	
+Starlink-1550	LEO	260	
+Starlink-1551 	LEO	260	
+Starlink-1552 	LEO	260	
+Starlink-1553	LEO	260	
+Starlink-1554 	LEO	260	
+Starlink-1555 	LEO	260	
+Starlink-1556 	LEO	260	
+Starlink-1557 	LEO	260	
+Starlink-1558 	LEO	260	
+Starlink-1559 	LEO	260	
+Starlink-1560 	LEO	260	
+Starlink-1561 	LEO	260	
+Starlink-1562 	LEO	260	
+Starlink-1563 	LEO	260	
+Starlink-1564 	LEO	260	
+Starlink-1565 	LEO	260	
+Starlink-1566 	LEO	260	
+Starlink-1567 	LEO	260	
+Starlink-1568 	LEO	260	
+Starlink-1569 	LEO	260	
+Starlink-1570 	LEO	260	
+Starlink-1571 	LEO	260	
+Starlink-1572 	LEO	260	
+Starlink-1573 	LEO	260	
+Starlink-1574 	LEO	260	
+Starlink-1575	LEO	260	
+Starlink-1576 	LEO	260	
+Starlink-1577 	LEO	260	
+Starlink-1578 	LEO	260	
+Starlink-1579 	LEO	260	
+Starlink-1580 	LEO	260	
+Starlink-1581 	LEO	260	
+Starlink-1582 	LEO	260	
+Starlink-1583 	LEO	260	
+Starlink-1584 	LEO	260	
+Starlink-1585 	LEO	260	
+Starlink-1586 	LEO	260	
+Starlink-1587 	LEO	260	
+Starlink-1588 	LEO	260	
+Starlink-1589 	LEO	260	
+Starlink-1590 	LEO	260	
+Starlink-1591 	LEO	260	
+Starlink-1593 	LEO	260	
+Starlink-1594 	LEO	260	
+Starlink-1595 	LEO	260	
+Starlink-1596 	LEO	260	
+Starlink-1597 	LEO	260	
+Starlink-1598 	LEO	260	
+Starlink-1600 	LEO	260	
+Starlink-1601 	LEO	260	
+Starlink-1602 	LEO	260	
+Starlink-1603 	LEO	260	
+Starlink-1604 	LEO	260	
+Starlink-1605 	LEO	260	
+Starlink-1606 	LEO	260	
+Starlink-1607 	LEO	260	
+Starlink-1608 	LEO	260	
+Starlink-1609 	LEO	260	
+Starlink-1610 	LEO	260	
+Starlink-1611 	LEO	260	
+Starlink-1612 	LEO	260	
+Starlink-1613 	LEO	260	
+Starlink-1614 	LEO	260	
+Starlink-1615 	LEO	260	
+Starlink-1616 	LEO	260	
+Starlink-1617 	LEO	260	
+Starlink-1618 	LEO	260	
+Starlink-1619 	LEO	260	
+Starlink-1620 	LEO	260	
+Starlink-1621 	LEO	260	
+Starlink-1622 	LEO	260	
+Starlink-1623 	LEO	260	
+Starlink-1624 	LEO	260	
+Starlink-1625 	LEO	260	
+Starlink-1626 	LEO	260	
+Starlink-1627 	LEO	260	
+Starlink-1628 	LEO	260	
+Starlink-1629 	LEO	260	
+Starlink-1630 	LEO	260	
+Starlink-1631 	LEO	260	
+Starlink-1633 	LEO	260	
+Starlink-1634 	LEO	260	
+Starlink-1635 	LEO	260	
+Starlink-1636 	LEO	260	
+Starlink-1637 	LEO	260	
+Starlink-1638 	LEO	260	
+Starlink-1639 	LEO	260	
+Starlink-1640 	LEO	260	
+Starlink-1641 	LEO	260	
+Starlink-1642 	LEO	260	
+Starlink-1643 	LEO	260	
+Starlink-1644 	LEO	260	
+Starlink-1645 	LEO	260	
+Starlink-1646	LEO	260	
+Starlink-1647 	LEO	260	
+Starlink-1648 	LEO	260	
+Starlink-1649 	LEO	260	
+Starlink-1650 	LEO	260	
+Starlink-1651	LEO	260	
+Starlink-1653	LEO	260	
+Starlink-1654 	LEO	260	
+Starlink-1655 	LEO	260	
+Starlink-1656	LEO	260	
+Starlink-1657	LEO	260	
+Starlink-1658	LEO	260	
+Starlink-1659 	LEO	260	
+Starlink-1660 	LEO	260	
+Starlink-1661	LEO	260	
+Starlink-1663 	LEO	260	
+Starlink-1664 	LEO	260	
+Starlink-1665	LEO	260	
+Starlink-1666	LEO	260	
+Starlink-1667 	LEO	260	
+Starlink-1669 	LEO	260	
+Starlink-1670	LEO	260	
+Starlink-1671 	LEO	260	
+Starlink-1672 	LEO	260	
+Starlink-1673	LEO	260	
+Starlink-1675 	LEO	260	
+Starlink-1676 	LEO	260	
+Starlink-1677 	LEO	260	
+Starlink-1678 	LEO	260	
+Starlink-1679 	LEO	260	
+Starlink-1680 	LEO	260	
+Starlink-1681 	LEO	260	
+Starlink-1682 	LEO	260	
+Starlink-1683 	LEO	260	
+Starlink-1686	LEO	260	
+Starlink-1687 	LEO	260	
+Starlink-1688	LEO	260	
+Starlink-1689	LEO	260	
+Starlink-1690	LEO	260	
+Starlink-1692 	LEO	260	
+Starlink-1693 	LEO	260	
+Starlink-1694 	LEO	260	
+Starlink-1695	LEO	260	
+Starlink-1696 	LEO	260	
+Starlink-1697 	LEO	260	
+Starlink-1698 	LEO	260	
+Starlink-1699 	LEO	260	
+Starlink-1700 	LEO	260	
+Starlink-1701 	LEO	260	
+Starlink-1704 	LEO	260	
+Starlink-1705 	LEO	260	
+Starlink-1706 	LEO	260	
+Starlink-1707	LEO	260	
+Starlink-1708 	LEO	260	
+Starlink-1709 	LEO	260	
+Starlink-1710	LEO	260	
+Starlink-1711	LEO	260	
+Starlink-1712 	LEO	260	
+Starlink-1713	LEO	260	
+Starlink-1714 	LEO	260	
+Starlink-1715 	LEO	260	
+Starlink-1716 	LEO	260	
+Starlink-1717 	LEO	260	
+Starlink-1718 	LEO	260	
+Starlink-1719 	LEO	260	
+Starlink-1720 	LEO	260	
+Starlink-1721	LEO	260	
+Starlink-1722	LEO	260	
+Starlink-1723	LEO	260	
+Starlink-1724	LEO	260	
+Starlink-1725	LEO	260	
+Starlink-1726 	LEO	260	
+Starlink-1727	LEO	260	
+Starlink-1728 	LEO	260	
+Starlink-1729 	LEO	260	
+Starlink-1730 	LEO	260	
+Starlink-1732 	LEO	260	
+Starlink-1733 	LEO	260	
+Starlink-1734	LEO	260	
+Starlink-1735 	LEO	260	
+Starlink-1736 	LEO	260	
+Starlink-1737 	LEO	260	
+Starlink-1738 	LEO	260	
+Starlink-1739	LEO	260	
+Starlink-1740 	LEO	260	
+Starlink-1741 	LEO	260	
+Starlink-1742	LEO	260	
+Starlink-1746 	LEO	260	
+Starlink-1747 	LEO	260	
+Starlink-1748 	LEO	260	
+Starlink-1749 	LEO	260	
+Starlink-1750	LEO	260	
+Starlink-1752	LEO	260	
+Starlink-1755 	LEO	260	
+Starlink-1758	LEO	260	
+Starlink-1759	LEO	260	
+Starlink-1760 	LEO	260	
+Starlink-1761 	LEO	260	
+Starlink-1762	LEO	260	
+Starlink-1763	LEO	260	
+Starlink-1764	LEO	260	
+Starlink-1765	LEO	260	
+Starlink-1766 	LEO	260	
+Starlink-1767	LEO	260	
+Starlink-1769	LEO	260	
+Starlink-1770 	LEO	260	
+Starlink-1771	LEO	260	
+Starlink-1773 	LEO	260	
+Starlink-1774 	LEO	260	
+Starlink-1775 	LEO	260	
+Starlink-1776 	LEO	260	
+Starlink-1777 	LEO	260	
+Starlink-1780 	LEO	260	
+Starlink-1781 	LEO	260	
+Starlink-1782	LEO	260	
+Starlink-1783 	LEO	260	
+Starlink-1784 	LEO	260	
+Starlink-1785 	LEO	260	
+Starlink-1788 	LEO	260	
+Starlink-1789 	LEO	260	
+Starlink-1790 	LEO	260	
+Starlink-1791 	LEO	260	
+Starlink-1792 	LEO	260	
+Starlink-1793 	LEO	260	
+Starlink-1794 	LEO	260	
+Starlink-1795 	LEO	260	
+Starlink-1797 	LEO	260	
+Starlink-1798 	LEO	260	
+Starlink-1799 	LEO	260	
+Starlink-1800 	LEO	260	
+Starlink-1801 	LEO	260	
+Starlink-1802 	LEO	260	
+Starlink-1803 	LEO	260	
+Starlink-1804 	LEO	260	
+Starlink-1805 	LEO	260	
+Starlink-1806 	LEO	260	
+Starlink-1807 	LEO	260	
+Starlink-1808 	LEO	260	
+Starlink-1809 	LEO	260	
+Starlink-1810 	LEO	260	
+Starlink-1811 	LEO	260	
+Starlink-1812 	LEO	260	
+Starlink-1813 	LEO	260	
+Starlink-1814 	LEO	260	
+Starlink-1815 	LEO	260	
+Starlink-1816 	LEO	260	
+Starlink-1817 	LEO	260	
+Starlink-1818 	LEO	260	
+Starlink-1820 	LEO	260	
+Starlink-1821 	LEO	260	
+Starlink-1822 	LEO	260	
+Starlink-1823 	LEO	260	
+Starlink-1825 	LEO	260	
+Starlink-1826 	LEO	260	
+Starlink-1828 	LEO	260	
+Starlink-1829 	LEO	260	
+Starlink-1830 	LEO	260	
+Starlink-1832 	LEO	260	
+Starlink-1833 	LEO	260	
+Starlink-1834 	LEO	260	
+Starlink-1835 	LEO	260	
+Starlink-1837 	LEO	260	
+Starlink-1838 	LEO	260	
+Starlink-1839 	LEO	260	
+Starlink-1842 	LEO	260	
+Starlink-1843 	LEO	260	
+Starlink-1844 	LEO	260	
+Starlink-1845 	LEO	260	
+Starlink-1846 	LEO	260	
+Starlink-1848 	LEO	260	
+Starlink-1849 	LEO	260	
+Starlink-1850 	LEO	260	
+Starlink-1851 	LEO	260	
+Starlink-1852 	LEO	260	
+Starlink-1854 	LEO	260	
+Starlink-1856 	LEO	260	
+Starlink-1857 	LEO	260	
+Starlink-1858 	LEO	260	
+Starlink-1860 	LEO	260	
+Starlink-1861 	LEO	260	
+Starlink-1862 	LEO	260	
+Starlink-1863 	LEO	260	
+Starlink-1864 	LEO	260	
+Starlink-1865 	LEO	260	
+Starlink-1866 	LEO	260	
+Starlink-1867 	LEO	260	
+Starlink-1868 	LEO	260	
+Starlink-1869 	LEO	260	
+Starlink-1871 	LEO	260	
+Starlink-1872 	LEO	260	
+Starlink-1873 	LEO	260	
+Starlink-1874 	LEO	260	
+Starlink-1876 	LEO	260	
+Starlink-1877 	LEO	260	
+Starlink-1878 	LEO	260	
+Starlink-1879 	LEO	260	
+Starlink-1880 	LEO	260	
+Starlink-1881 	LEO	260	
+Starlink-1882 	LEO	260	
+Starlink-1883 	LEO	260	
+Starlink-1884 	LEO	260	
+Starlink-1885 	LEO	260	
+Starlink-1887 	LEO	260	
+Starlink-1888 	LEO	260	
+Starlink-1890 	LEO	260	
+Starlink-1891 	LEO	260	
+Starlink-1892 	LEO	260	
+Starlink-1893 	LEO	260	
+Starlink-1894 	LEO	260	
+Starlink-1895 	LEO	260	
+Starlink-1896 	LEO	260	
+Starlink-1898 	LEO	260	
+Starlink-1899 	LEO	260	
+Starlink-1902 	LEO	260	
+Starlink-1903 	LEO	260	
+Starlink-1904	LEO	260	
+Starlink-1905 	LEO	260	
+Starlink-1906 	LEO	260	
+Starlink-1907 	LEO	260	
+Starlink-1908 	LEO	260	
+Starlink-1909 	LEO	260	
+Starlink-1910 	LEO	260	
+Starlink-1911 	LEO	260	
+Starlink-1912 	LEO	260	
+Starlink-1913 	LEO	260	
+Starlink-1916 	LEO	260	
+Starlink-1917 	LEO	260	
+Starlink-1918 	LEO	260	
+Starlink-1920 	LEO	260	
+Starlink-1921 	LEO	260	
+Starlink-1922 	LEO	260	
+Starlink-1923 	LEO	260	
+Starlink-1924 	LEO	260	
+Starlink-1925 	LEO	260	
+Starlink-1926 	LEO	260	
+Starlink-1927 	LEO	260	
+Starlink-1928 	LEO	260	
+Starlink-1929 	LEO	260	
+Starlink-1930 	LEO	260	
+Starlink-1931 	LEO	260	
+Starlink-1932 	LEO	260	
+Starlink-1933 	LEO	260	
+Starlink-1934 	LEO	260	
+Starlink-1936 	LEO	260	
+Starlink-1938 	LEO	260	
+Starlink-1939 	LEO	260	
+Starlink-1940 	LEO	260	
+Starlink-1941 	LEO	260	
+Starlink-1942 	LEO	260	
+Starlink-1943 	LEO	260	
+Starlink-1944 	LEO	260	
+Starlink-1946 	LEO	260	
+Starlink-1948 	LEO	260	
+Starlink-1952 	LEO	260	
+Starlink-1953 	LEO	260	
+Starlink-1954 	LEO	260	
+Starlink-1955 	LEO	260	
+Starlink-1956 	LEO	260	
+Starlink-1957 	LEO	260	
+Starlink-1958 	LEO	260	
+Starlink-1959 	LEO	260	
+Starlink-1960 	LEO	260	
+Starlink-1961 	LEO	260	
+Starlink-1962 	LEO	260	
+Starlink-1963 	LEO	260	
+Starlink-1964 	LEO	260	
+Starlink-1965 	LEO	260	
+Starlink-1966 	LEO	260	
+Starlink-1967 	LEO	260	
+Starlink-1968 	LEO	260	
+Starlink-1969 	LEO	260	
+Starlink-1970 	LEO	260	
+Starlink-1971	LEO	260	
+Starlink-1972 	LEO	260	
+Starlink-1973 	LEO	260	
+Starlink-1974 	LEO	260	
+Starlink-1975	LEO	260	
+Starlink-1976 	LEO	260	
+Starlink-1977 	LEO	260	
+Starlink-1978 	LEO	260	
+Starlink-1979 	LEO	260	
+Starlink-1980 	LEO	260	
+Starlink-1981 	LEO	260	
+Starlink-1982 	LEO	260	
+Starlink-1983 	LEO	260	
+Starlink-1984 	LEO	260	
+Starlink-1986 	LEO	260	
+Starlink-1987 	LEO	260	
+Starlink-1989 	LEO	260	
+Starlink-1990 	LEO	260	
+Starlink-1991 	LEO	260	
+Starlink-1992 	LEO	260	
+Starlink-1993 	LEO	260	
+Starlink-1994 	LEO	260	
+Starlink-1995 	LEO	260	
+Starlink-1996 	LEO	260	
+Starlink-1997 	LEO	260	
+Starlink-1998 	LEO	260	
+Starlink-1999 	LEO	260	
+Starlink-2000 	LEO	260	
+Starlink-2001 	LEO	260	
+Starlink-2002 	LEO	260	
+Starlink-2003 	LEO	260	
+Starlink-2004 	LEO	260	
+Starlink-2005 	LEO	260	
+Starlink-2006 	LEO	260	
+Starlink-2007 	LEO	260	
+Starlink-2008 	LEO	260	
+Starlink-2009 	LEO	260	
+Starlink-2010 	LEO	260	
+Starlink-2011 	LEO	260	
+Starlink-2012 	LEO	260	
+Starlink-2013 	LEO	260	
+Starlink-2014 	LEO	260	
+Starlink-2015 	LEO	260	
+Starlink-2016 	LEO	260	
+Starlink-2017 	LEO	260	
+Starlink-2018 	LEO	260	
+Starlink-2019 	LEO	260	
+Starlink-2020 	LEO	260	
+Starlink-2021 	LEO	260	
+Starlink-2022 	LEO	260	
+Starlink-2023 	LEO	260	
+Starlink-2024 	LEO	260	
+Starlink-2025 	LEO	260	
+Starlink-2026 	LEO	260	
+Starlink-2027 	LEO	260	
+Starlink-2028 	LEO	260	
+Starlink-2029 	LEO	260	
+Starlink-2030 	LEO	260	
+Starlink-2031 	LEO	260	
+Starlink-2032 	LEO	260	
+Starlink-2033 	LEO	260	
+Starlink-2034 	LEO	260	
+Starlink-2035 	LEO	260	
+Starlink-2036 	LEO	260	
+Starlink-2037 	LEO	260	
+Starlink-2038 	LEO	260	
+Starlink-2039 	LEO	260	
+Starlink-2040 	LEO	260	
+Starlink-2041 	LEO	260	
+Starlink-2042 	LEO	260	
+Starlink-2043 	LEO	260	
+Starlink-2044 	LEO	260	
+Starlink-2045 	LEO	260	
+Starlink-2046 	LEO	260	
+Starlink-2047 	LEO	260	
+Starlink-2048 	LEO	260	
+Starlink-2049 	LEO	260	
+Starlink-2050 	LEO	260	
+Starlink-2051 	LEO	260	
+Starlink-2052 	LEO	260	
+Starlink-2053 	LEO	260	
+Starlink-2054 	LEO	260	
+Starlink-2055 	LEO	260	
+Starlink-2056 	LEO	260	
+Starlink-2057 	LEO	260	
+Starlink-2058 	LEO	260	
+Starlink-2059 	LEO	260	
+Starlink-2060 	LEO	260	
+Starlink-2061 	LEO	260	
+Starlink-2062 	LEO	260	
+Starlink-2063	LEO	260	
+Starlink-2064 	LEO	260	
+Starlink-2065 	LEO	260	
+Starlink-2066 	LEO	260	
+Starlink-2067 	LEO	260	
+Starlink-2068 	LEO	260	
+Starlink-2069 	LEO	260	
+Starlink-2070 	LEO	260	
+Starlink-2071 	LEO	260	
+Starlink-2076 	LEO	260	
+Starlink-2077 	LEO	260	
+Starlink-2078 	LEO	260	
+Starlink-2080 	LEO	260	
+Starlink-2081 	LEO	260	
+Starlink-2082 	LEO	260	
+Starlink-2083 	LEO	260	
+Starlink-2084 	LEO	260	
+Starlink-2085 	LEO	260	
+Starlink-2086 	LEO	260	
+Starlink-2087	LEO	260	
+Starlink-2088 	LEO	260	
+Starlink-2089 	LEO	260	
+Starlink-2090 	LEO	260	
+Starlink-2092 	LEO	260	
+Starlink-2093 	LEO	260	
+Starlink-2094 	LEO	260	
+Starlink-2095 	LEO	260	
+Starlink-2096 	LEO	260	
+Starlink-2097 	LEO	260	
+Starlink-2098 	LEO	260	
+Starlink-2099 	LEO	260	
+Starlink-2100 	LEO	260	
+Starlink-2101 	LEO	260	
+Starlink-2102 	LEO	260	
+Starlink-2103 	LEO	260	
+Starlink-2104 	LEO	260	
+Starlink-2105 	LEO	260	
+Starlink-2106 	LEO	260	
+Starlink-2107 	LEO	260	
+Starlink-2108 	LEO	260	
+Starlink-2109 	LEO	260	
+Starlink-2110 	LEO	260	
+Starlink-2111 	LEO	260	
+Starlink-2112 	LEO	260	
+Starlink-2113 	LEO	260	
+Starlink-2114 	LEO	260	
+Starlink-2115 	LEO	260	
+Starlink-2116 	LEO	260	
+Starlink-2117 	LEO	260	
+Starlink-2118 	LEO	260	
+Starlink-2119 	LEO	260	
+Starlink-2120 	LEO	260	
+Starlink-2121 	LEO	260	
+Starlink-2122 	LEO	260	
+Starlink-2123 	LEO	260	
+Starlink-2124 	LEO	260	
+Starlink-2125 	LEO	260	
+Starlink-2126 	LEO	260	
+Starlink-2127 	LEO	260	
+Starlink-2128 	LEO	260	
+Starlink-2129 	LEO	260	
+Starlink-2130 	LEO	260	
+Starlink-2131 	LEO	260	
+Starlink-2132 	LEO	260	
+Starlink-2133 	LEO	260	
+Starlink-2134 	LEO	260	
+Starlink-2135 	LEO	260	
+Starlink-2139	LEO	260	
+Starlink-2140 	LEO	260	
+Starlink-2141 	LEO	260	
+Starlink-2142 	LEO	260	
+Starlink-2143 	LEO	260	
+Starlink-2144 	LEO	260	
+Starlink-2145	LEO	260	
+Starlink-2146 	LEO	260	
+Starlink-2147 	LEO	260	
+Starlink-2148 	LEO	260	
+Starlink-2149 	LEO	260	
+Starlink-2150 	LEO	260	
+Starlink-2151	LEO	260	
+Starlink-2152 	LEO	260	
+Starlink-2153 	LEO	260	
+Starlink-2154 	LEO	260	
+Starlink-2155	LEO	260	
+Starlink-2156 	LEO	260	
+Starlink-2157 	LEO	260	
+Starlink-2158 	LEO	260	
+Starlink-2159 	LEO	260	
+Starlink-2160 	LEO	260	
+Starlink-2161 	LEO	260	
+Starlink-2162 	LEO	260	
+Starlink-2163 	LEO	260	
+Starlink-2164 	LEO	260	
+Starlink-2166	LEO	260	
+Starlink-2167	LEO	260	
+Starlink-2168 	LEO	260	
+Starlink-2169 	LEO	260	
+Starlink-2170 	LEO	260	
+Starlink-2171 	LEO	260	
+Starlink-2174 	LEO	260	
+Starlink-2175 	LEO	260	
+Starlink-2178 	LEO	260	
+Starlink-2179 	LEO	260	
+Starlink-2180 	LEO	260	
+Starlink-2181 	LEO	260	
+Starlink-2182 	LEO	260	
+Starlink-2184 	LEO	260	
+Starlink-2185 	LEO	260	
+Starlink-2186	LEO	260	
+Starlink-2187	LEO	260	
+Starlink-2188	LEO	260	
+Starlink-2189 	LEO	260	
+Starlink-2190	LEO	260	
+Starlink-2191	LEO	260	
+Starlink-2192 	LEO	260	
+Starlink-2193 	LEO	260	
+Starlink-2194 	LEO	260	
+Starlink-2195 	LEO	260	
+Starlink-2196 	LEO	260	
+Starlink-2197 	LEO	260	
+Starlink-2198 	LEO	260	
+Starlink-2209 	LEO	260	
+Starlink-2210 	LEO	260	
+Starlink-2211 	LEO	260	
+Starlink-2212 	LEO	260	
+Starlink-2213	LEO	260	
+Starlink-2213 	LEO	260	
+Starlink-2214	LEO	260	
+Starlink-2215	LEO	260	
+Starlink-2216 	LEO	260	
+Starlink-2217	LEO	260	
+Starlink-2218 	LEO	260	
+Starlink-2219	LEO	260	
+Starlink-2220	LEO	260	
+Starlink-2221	LEO	260	
+Starlink-2222	LEO	260	
+Starlink-2223 	LEO	260	
+Starlink-2224	LEO	260	
+Starlink-2225	LEO	260	
+Starlink-2226 	LEO	260	
+Starlink-2227	LEO	260	
+Starlink-2228	LEO	260	
+Starlink-2229 	LEO	260	
+Starlink-2231	LEO	260	
+Starlink-2232	LEO	260	
+Starlink-2233	LEO	260	
+Starlink-2234	LEO	260	
+Starlink-2235	LEO	260	
+Starlink-2236	LEO	260	
+Starlink-2237	LEO	260	
+Starlink-2238	LEO	260	
+Starlink-2239 	LEO	260	
+Starlink-2240	LEO	260	
+Starlink-2241	LEO	260	
+Starlink-2242	LEO	260	
+Starlink-2243 	LEO	260	
+Starlink-2244	LEO	260	
+Starlink-2245	LEO	260	
+Starlink-2247	LEO	260	
+Starlink-2248	LEO	260	
+Starlink-2249	LEO	260	
+Starlink-2250	LEO	260	
+Starlink-2251	LEO	260	
+Starlink-2252	LEO	260	
+Starlink-2253	LEO	260	
+Starlink-2254 	LEO	260	
+Starlink-2255	LEO	260	
+Starlink-2256	LEO	260	
+Starlink-2257 	LEO	260	
+Starlink-2258 	LEO	260	
+Starlink-2260 	LEO	260	
+Starlink-2262 	LEO	260	
+Starlink-2263 	LEO	260	
+Starlink-2264 	LEO	260	
+Starlink-2265 	LEO	260	
+Starlink-2266 	LEO	260	
+Starlink-2267 	LEO	260	
+Starlink-2268 	LEO	260	
+Starlink-2269	LEO	260	
+Starlink-2270 	LEO	260	
+Starlink-2271 	LEO	260	
+Starlink-2272 	LEO	260	
+Starlink-2273 	LEO	260	
+Starlink-2274	LEO	260	
+Starlink-2275	LEO	260	
+Starlink-2278 	LEO	260	
+Starlink-2279 	LEO	260	
+Starlink-2280 	LEO	260	
+Starlink-2282 	LEO	260	
+Starlink-2283 	LEO	260	
+Starlink-2284 	LEO	260	
+Starlink-2285 	LEO	260	
+Starlink-2286 	LEO	260	
+Starlink-2288 	LEO	260	
+Starlink-2290 	LEO	260	
+Starlink-2291 	LEO	260	
+Starlink-2292 	LEO	260	
+Starlink-2293 	LEO	260	
+Starlink-2294 	LEO	260	
+Starlink-2295 	LEO	260	
+Starlink-2296 	LEO	260	
+Starlink-2298 	LEO	260	
+Starlink-2299 	LEO	260	
+Starlink-2300 	LEO	260	
+Starlink-2301 	LEO	260	
+Starlink-2303 	LEO	260	
+Starlink-2304 	LEO	260	
+Starlink-2305 	LEO	260	
+Starlink-2306 	LEO	260	
+Starlink-2307 	LEO	260	
+Starlink-2308 	LEO	260	
+Starlink-2309 	LEO	260	
+Starlink-2310 	LEO	260	
+Starlink-2312 	LEO	260	
+Starlink-2314 	LEO	260	
+Starlink-2315 	LEO	260	
+Starlink-2317 	LEO	260	
+Starlink-2319 	LEO	260	
+Starlink-2320 	LEO	260	
+Starlink-2321 	LEO	260	
+Starlink-2322 	LEO	260	
+Starlink-2323 	LEO	260	
+Starlink-2324 	LEO	260	
+Starlink-2325 	LEO	260	
+Starlink-2326 	LEO	260	
+Starlink-2327 	LEO	260	
+Starlink-2328 	LEO	260	
+Starlink-2329 	LEO	260	
+Starlink-2330 	LEO	260	
+Starlink-2331 	LEO	260	
+Starlink-2332 	LEO	260	
+Starlink-2333 	LEO	260	
+Starlink-2334 	LEO	260	
+Starlink-2335 	LEO	260	
+Starlink-2336 	LEO	260	
+Starlink-2337 	LEO	260	
+Starlink-2338 	LEO	260	
+Starlink-2339 	LEO	260	
+Starlink-2340 	LEO	260	
+Starlink-2341 	LEO	260	
+Starlink-2342 	LEO	260	
+Starlink-2343 	LEO	260	
+Starlink-2344 	LEO	260	
+Starlink-2345 	LEO	260	
+Starlink-2346 	LEO	260	
+Starlink-2347 	LEO	260	
+Starlink-2348 	LEO	260	
+Starlink-2349 	LEO	260	
+Starlink-2350 	LEO	260	
+Starlink-2351 	LEO	260	
+Starlink-2352 	LEO	260	
+Starlink-2353 	LEO	260	
+Starlink-2354 	LEO	260	
+Starlink-2355 	LEO	260	
+Starlink-2356 	LEO	260	
+Starlink-2357 	LEO	260	
+Starlink-2358 	LEO	260	
+Starlink-2359 	LEO	260	
+Starlink-2360 	LEO	260	
+Starlink-2361 	LEO	260	
+Starlink-2362 	LEO	260	
+Starlink-2363 	LEO	260	
+Starlink-2364 	LEO	260	
+Starlink-2365 	LEO	260	
+Starlink-2366 	LEO	260	
+Starlink-2367 	LEO	260	
+Starlink-2368 	LEO	260	
+Starlink-2369 	LEO	260	
+Starlink-2370 	LEO	260	
+Starlink-2371 	LEO	260	
+Starlink-2372 	LEO	260	
+Starlink-2373 	LEO	260	
+Starlink-2374 	LEO	260	
+Starlink-2375 	LEO	260	
+Starlink-2376 	LEO	260	
+Starlink-2377 	LEO	260	
+Starlink-2378 	LEO	260	
+Starlink-2379 	LEO	260	
+Starlink-2380 	LEO	260	
+Starlink-2381 	LEO	260	
+Starlink-2382 	LEO	260	
+Starlink-2383 	LEO	260	
+Starlink-2384 	LEO	260	
+Starlink-2385 	LEO	260	
+Starlink-2386 	LEO	260	
+Starlink-2387 	LEO	260	
+Starlink-2388 	LEO	260	
+Starlink-2389 	LEO	260	
+Starlink-2390 	LEO	260	
+Starlink-2391 	LEO	260	
+Starlink-2392 	LEO	260	
+Starlink-2393 	LEO	260	
+Starlink-2394 	LEO	260	
+Starlink-2395 	LEO	260	
+Starlink-2396 	LEO	260	
+Starlink-2397 	LEO	260	
+Starlink-2398 	LEO	260	
+Starlink-2399 	LEO	260	
+Starlink-24 	LEO	227	
+Starlink-2400 	LEO	260	
+Starlink-2401 	LEO	260	
+Starlink-2402 	LEO	260	
+Starlink-2403 	LEO	260	
+Starlink-2404 	LEO	260	
+Starlink-2405 	LEO	260	
+Starlink-2406 	LEO	260	
+Starlink-2407 	LEO	260	
+Starlink-2408 	LEO	260	
+Starlink-2409 	LEO	260	
+Starlink-2410 	LEO	260	
+Starlink-2411 	LEO	260	
+Starlink-2412 	LEO	260	
+Starlink-2413 	LEO	260	
+Starlink-2414 	LEO	260	
+Starlink-2415 	LEO	260	
+Starlink-2416 	LEO	260	
+Starlink-2417 	LEO	260	
+Starlink-2418 	LEO	260	
+Starlink-2419 	LEO	260	
+Starlink-2420 	LEO	260	
+Starlink-2421 	LEO	260	
+Starlink-2422 	LEO	260	
+Starlink-2423 	LEO	260	
+Starlink-2424 	LEO	260	
+Starlink-2425 	LEO	260	
+Starlink-2426 	LEO	260	
+Starlink-2427 	LEO	260	
+Starlink-2428 	LEO	260	
+Starlink-2429 	LEO	260	
+Starlink-2430 	LEO	260	
+Starlink-2431 	LEO	260	
+Starlink-2432 	LEO	260	
+Starlink-2433 	LEO	260	
+Starlink-2434 	LEO	260	
+Starlink-2435 	LEO	260	
+Starlink-2436 	LEO	260	
+Starlink-2437 	LEO	260	
+Starlink-2438 	LEO	260	
+Starlink-2439 	LEO	260	
+Starlink-2440 	LEO	260	
+Starlink-2441 	LEO	260	
+Starlink-2442 	LEO	260	
+Starlink-2443 	LEO	260	
+Starlink-2444 	LEO	260	
+Starlink-2445 	LEO	260	
+Starlink-2446 	LEO	260	
+Starlink-2447 	LEO	260	
+Starlink-2448 	LEO	260	
+Starlink-2449 	LEO	260	
+Starlink-2450 	LEO	260	
+Starlink-2451 	LEO	260	
+Starlink-2452 	LEO	260	
+Starlink-2453 	LEO	260	
+Starlink-2454 	LEO	260	
+Starlink-2455 	LEO	260	
+Starlink-2456 	LEO	260	
+Starlink-2457 	LEO	260	
+Starlink-2458 	LEO	260	
+Starlink-2459 	LEO	260	
+Starlink-2460 	LEO	260	
+Starlink-2461	LEO	260	
+Starlink-2462 	LEO	260	
+Starlink-2463 	LEO	260	
+Starlink-2464 	LEO	260	
+Starlink-2465 	LEO	260	
+Starlink-2466 	LEO	260	
+Starlink-2467 	LEO	260	
+Starlink-2468 	LEO	260	
+Starlink-2469 	LEO	260	
+Starlink-2470 	LEO	260	
+Starlink-2471 	LEO	260	
+Starlink-2472 	LEO	260	
+Starlink-2473 	LEO	260	
+Starlink-2474 	LEO	260	
+Starlink-2475 	LEO	260	
+Starlink-2476 	LEO	260	
+Starlink-2477 	LEO	260	
+Starlink-2478 	LEO	260	
+Starlink-2479 	LEO	260	
+Starlink-2480 	LEO	260	
+Starlink-2481 	LEO	260	
+Starlink-2482 	LEO	260	
+Starlink-2483 	LEO	260	
+Starlink-2484 	LEO	260	
+Starlink-2485 	LEO	260	
+Starlink-2486 	LEO	260	
+Starlink-2487 	LEO	260	
+Starlink-2488 	LEO	260	
+Starlink-2489 	LEO	260	
+Starlink-2490 	LEO	260	
+Starlink-2491 	LEO	260	
+Starlink-2492 	LEO	260	
+Starlink-2493 	LEO	260	
+Starlink-2494	LEO	260	
+Starlink-2495 	LEO	260	
+Starlink-2496	LEO	260	
+Starlink-2497	LEO	260	
+Starlink-2498 	LEO	260	
+Starlink-2499	LEO	260	
+Starlink-2500	LEO	260	
+Starlink-2501 	LEO	260	
+Starlink-2502 	LEO	260	
+Starlink-2503 	LEO	260	
+Starlink-2504 	LEO	260	
+Starlink-2505	LEO	260	
+Starlink-2506 	LEO	260	
+Starlink-2507 	LEO	260	
+Starlink-2508	LEO	260	
+Starlink-2509 	LEO	260	
+Starlink-2510 	LEO	260	
+Starlink-2511 	LEO	260	
+Starlink-2512 	LEO	260	
+Starlink-2513 	LEO	260	
+Starlink-2514 	LEO	260	
+Starlink-2515 	LEO	260	
+Starlink-2516 	LEO	260	
+Starlink-2517 	LEO	260	
+Starlink-2518 	LEO	260	
+Starlink-2519 	LEO	260	
+Starlink-2520 	LEO	260	
+Starlink-2521	LEO	260	
+Starlink-2523 	LEO	260	
+Starlink-2524 	LEO	260	
+Starlink-2525	LEO	260	
+Starlink-2526	LEO	260	
+Starlink-2527 	LEO	260	
+Starlink-2528 	LEO	260	
+Starlink-2529	LEO	260	
+Starlink-2530 	LEO	260	
+Starlink-2531	LEO	260	
+Starlink-2532 	LEO	260	
+Starlink-2533 	LEO	260	
+Starlink-2534 	LEO	260	
+Starlink-2535 	LEO	260	
+Starlink-2536 	LEO	260	
+Starlink-2537 	LEO	260	
+Starlink-2538 	LEO	260	
+Starlink-2540 	LEO	260	
+Starlink-2541 	LEO	260	
+Starlink-2542 	LEO	260	
+Starlink-2543 	LEO	260	
+Starlink-2544 	LEO	260	
+Starlink-2545 	LEO	260	
+Starlink-2546 	LEO	260	
+Starlink-2547 	LEO	260	
+Starlink-2548 	LEO	260	
+Starlink-2549 	LEO	260	
+Starlink-2550 	LEO	260	
+Starlink-2555 	LEO	260	
+Starlink-2556 	LEO	260	
+Starlink-2557 	LEO	260	
+Starlink-2558 	LEO	260	
+Starlink-2559 	LEO	260	
+Starlink-2560	LEO	260	
+Starlink-2561	LEO	260	
+Starlink-2562 	LEO	260	
+Starlink-2563	LEO	260	
+Starlink-2564 	LEO	260	
+Starlink-2565 	LEO	260	
+Starlink-2566 	LEO	260	
+Starlink-2567 	LEO	260	
+Starlink-2568	LEO	260	
+Starlink-2569 	LEO	260	
+Starlink-2570	LEO	260	
+Starlink-2571	LEO	260	
+Starlink-2572	LEO	260	
+Starlink-2573	LEO	260	
+Starlink-2574	LEO	260	
+Starlink-2575	LEO	260	
+Starlink-2576	LEO	260	
+Starlink-2578	LEO	260	
+Starlink-2579	LEO	260	
+Starlink-2580 	LEO	260	
+Starlink-2581	LEO	260	
+Starlink-2582	LEO	260	
+Starlink-2583	LEO	260	
+Starlink-2585	LEO	260	
+Starlink-2586	LEO	260	
+Starlink-2587	LEO	260	
+Starlink-2588	LEO	260	
+Starlink-2589	LEO	260	
+Starlink-2590	LEO	260	
+Starlink-2591	LEO	260	
+Starlink-2592	LEO	260	
+Starlink-2593	LEO	260	
+Starlink-2594	LEO	260	
+Starlink-2595	LEO	260	
+Starlink-2596	LEO	260	
+Starlink-2598	LEO	260	
+Starlink-2599	LEO	260	
+Starlink-2600	LEO	260	
+Starlink-2600	LEO	260	
+Starlink-2601	LEO	260	
+Starlink-2602	LEO	260	
+Starlink-2603	LEO	260	
+Starlink-2604	LEO	260	
+Starlink-2605	LEO	260	
+Starlink-2606	LEO	260	
+Starlink-2607	LEO	260	
+Starlink-2608	LEO	260	
+Starlink-2609	LEO	260	
+Starlink-2610	LEO	260	
+Starlink-2611	LEO	260	
+Starlink-2612	LEO	260	
+Starlink-2613	LEO	260	
+Starlink-2614	LEO	260	
+Starlink-2615	LEO	260	
+Starlink-2616	LEO	260	
+Starlink-2617	LEO	260	
+Starlink-2618	LEO	260	
+Starlink-2619	LEO	260	
+Starlink-2620	LEO	260	
+Starlink-2621	LEO	260	
+Starlink-2622	LEO	260	
+Starlink-2623	LEO	260	
+Starlink-2624	LEO	260	
+Starlink-2626	LEO	260	
+Starlink-2627	LEO	260	
+Starlink-2628	LEO	260	
+Starlink-2629	LEO	260	
+Starlink-2630	LEO	260	
+Starlink-2631	LEO	260	
+Starlink-2632	LEO	260	
+Starlink-2633	LEO	260	
+Starlink-2633	LEO	260	
+Starlink-2634	LEO	260	
+Starlink-2635	LEO	260	
+Starlink-2636	LEO	260	
+Starlink-2637	LEO	260	
+Starlink-2639	LEO	260	
+Starlink-2640	LEO	260	
+Starlink-2641	LEO	260	
+Starlink-2642	LEO	260	
+Starlink-2643	LEO	260	
+Starlink-2644	LEO	260	
+Starlink-2645	LEO	260	
+Starlink-2646	LEO	260	
+Starlink-2647	LEO	260	
+Starlink-2648	LEO	260	
+Starlink-2649	LEO	260	
+Starlink-2651	LEO	260	
+Starlink-2652	LEO	260	
+Starlink-2653	LEO	260	
+Starlink-2654	LEO	260	
+Starlink-2655	LEO	260	
+Starlink-2657	LEO	260	
+Starlink-2658	LEO	260	
+Starlink-2659	LEO	260	
+Starlink-2661	LEO	260	
+Starlink-2666	LEO	260	
+Starlink-2667	LEO	260	
+Starlink-2672	LEO	260	
+Starlink-2673	LEO	260	
+Starlink-2674	LEO	260	
+Starlink-2675	LEO	260	
+Starlink-2680	LEO	260	
+Starlink-2681	LEO	260	
+Starlink-2682	LEO	260	
+Starlink-2683	LEO	260	
+Starlink-2684	LEO	260	
+Starlink-2685	LEO	260	
+Starlink-2686	LEO	260	
+Starlink-2687	LEO	260	
+Starlink-2688	LEO	260	
+Starlink-2689	LEO	260	
+Starlink-2690	LEO	260	
+Starlink-2691	LEO	260	
+Starlink-2692	LEO	260	
+Starlink-2693	LEO	260	
+Starlink-2695	LEO	260	
+Starlink-2696	LEO	260	
+Starlink-2697	LEO	260	
+Starlink-2698	LEO	260	
+Starlink-2699	LEO	260	
+Starlink-2700	LEO	260	
+Starlink-2701	LEO	260	
+Starlink-2702	LEO	260	
+Starlink-2703	LEO	260	
+Starlink-2704	LEO	260	
+Starlink-2705	LEO	260	
+Starlink-2706	LEO	260	
+Starlink-2707	LEO	260	
+Starlink-2708	LEO	260	
+Starlink-2709	LEO	260	
+Starlink-2711	LEO	260	
+Starlink-2712	LEO	260	
+Starlink-2714	LEO	260	
+Starlink-2715	LEO	260	
+Starlink-2717	LEO	260	
+Starlink-2719	LEO	260	
+Starlink-2720	LEO	260	
+Starlink-2722	LEO	260	
+Starlink-2723	LEO	260	
+Starlink-2725	LEO	260	
+Starlink-2726	LEO	260	
+Starlink-2727	LEO	260	
+Starlink-2728	LEO	260	
+Starlink-2729	LEO	260	
+Starlink-2731	LEO	260	
+Starlink-2732	LEO	260	
+Starlink-2733	LEO	260	
+Starlink-2734	LEO	260	
+Starlink-2735	LEO	260	
+Starlink-2736	LEO	260	
+Starlink-2737	LEO	260	
+Starlink-2738	LEO	260	
+Starlink-2739	LEO	260	
+Starlink-2740	LEO	260	
+Starlink-2741	LEO	260	
+Starlink-2742	LEO	260	
+Starlink-2743	LEO	260	
+Starlink-2745	LEO	260	
+Starlink-2746	LEO	260	
+Starlink-2748	LEO	260	
+Starlink-2749	LEO	260	
+Starlink-2750	LEO	260	
+Starlink-2751	LEO	260	
+Starlink-2752	LEO	260	
+Starlink-2753	LEO	260	
+Starlink-2754	LEO	260	
+Starlink-2755	LEO	260	
+Starlink-2756	LEO	260	
+Starlink-2757	LEO	260	
+Starlink-2758	LEO	260	
+Starlink-2763	LEO	260	
+Starlink-3003	LEO	260	
+Starlink-3004	LEO	260	
+Starlink-3005	LEO	260	
+Starlink-3042 	LEO	260	
+Starlink-3043 	LEO	260	
+Starlink-3044 	LEO	260	
+Starlink-3045 	LEO	260	
+Starlink-3046 	LEO	260	
+Starlink-3047 	LEO	260	
+Starlink-3048 	LEO	260	
+Starlink-3049 	LEO	260	
+Starlink-3050 	LEO	260	
+Starlink-3051 	LEO	260	
+Starlink-3052 	LEO	260	
+Starlink-3053 	LEO	260	
+Starlink-3054 	LEO	260	
+Starlink-3055 	LEO	260	
+Starlink-3056 	LEO	260	
+Starlink-3057 	LEO	260	
+Starlink-3058 	LEO	260	
+Starlink-3059 	LEO	260	
+Starlink-3060 	LEO	260	
+Starlink-3068 	LEO	260	
+Starlink-3069 	LEO	260	
+Starlink-3071 	LEO	260	
+Starlink-3072 	LEO	260	
+Starlink-3073 	LEO	260	
+Starlink-3074 	LEO	260	
+Starlink-3075 	LEO	260	
+Starlink-3077 	LEO	260	
+Starlink-3078 	LEO	260	
+Starlink-3079 	LEO	260	
+Starlink-3080 	LEO	260	
+Starlink-3081 	LEO	260	
+Starlink-3082 	LEO	260	
+Starlink-3083 	LEO	260	
+Starlink-3084 	LEO	260	
+Starlink-3085 	LEO	260	
+Starlink-3086 	LEO	260	
+Starlink-3087 	LEO	260	
+Starlink-3088 	LEO	260	
+Starlink-3089 	LEO	260	
+Starlink-3090 	LEO	260	
+Starlink-3091 	LEO	260	
+Starlink-3093 	LEO	260	
+Starlink-3095 	LEO	260	
+Starlink-3096 	LEO	260	
+Starlink-3097 	LEO	260	
+Starlink-3098 	LEO	260	
+Starlink-3099 	LEO	260	
+Starlink-3100 	LEO	260	
+Starlink-3101 	LEO	260	
+Starlink-3102 	LEO	260	
+Starlink-3103 	LEO	260	
+Starlink-3104 	LEO	260	
+Starlink-3105 	LEO	260	
+Starlink-3106 	LEO	260	
+Starlink-3107 	LEO	260	
+Starlink-3108 	LEO	260	
+Starlink-3109 	LEO	260	
+Starlink-3110 	LEO	260	
+Starlink-3111 	LEO	260	
+Starlink-3112 	LEO	260	
+Starlink-3113 	LEO	260	
+Starlink-3114 	LEO	260	
+Starlink-3115 	LEO	260	
+Starlink-3116 	LEO	260	
+Starlink-3117 	LEO	260	
+Starlink-3118 	LEO	260	
+Starlink-3119 	LEO	260	
+Starlink-3120 	LEO	260	
+Starlink-3121 	LEO	260	
+Starlink-3122 	LEO	260	
+Starlink-3124 	LEO	260	
+Starlink-3125 	LEO	260	
+Starlink-3126 	LEO	260	
+Starlink-3127 	LEO	260	
+Starlink-3128 	LEO	260	
+Starlink-3129 	LEO	260	
+Starlink-3130 	LEO	260	
+Starlink-3131 	LEO	260	
+Starlink-3132 	LEO	260	
+Starlink-3133 	LEO	260	
+Starlink-3134 	LEO	260	
+Starlink-3135 	LEO	260	
+Starlink-3136 	LEO	260	
+Starlink-3137 	LEO	260	
+Starlink-3138 	LEO	260	
+Starlink-3139 	LEO	260	
+Starlink-3140 	LEO	260	
+Starlink-3141 	LEO	260	
+Starlink-3143 	LEO	260	
+Starlink-3144 	LEO	260	
+Starlink-3145 	LEO	260	
+Starlink-3146 	LEO	260	
+Starlink-3147 	LEO	260	
+Starlink-3148 	LEO	260	
+Starlink-3149 	LEO	260	
+Starlink-3150 	LEO	260	
+Starlink-3151 	LEO	260	
+Starlink-3153 	LEO	260	
+Starlink-3154 	LEO	260	
+Starlink-3155 	LEO	260	
+Starlink-3156 	LEO	260	
+Starlink-3157 	LEO	260	
+Starlink-3158 	LEO	260	
+Starlink-3159 	LEO	260	
+Starlink-3160 	LEO	260	
+Starlink-3161 	LEO	260	
+Starlink-3162 	LEO	260	
+Starlink-3165 	LEO	260	
+Starlink-3166 	LEO	260	
+Starlink-3167 	LEO	260	
+Starlink-3172 	LEO	260	
+Starlink-3173 	LEO	260	
+Starlink-3174 	LEO	260	
+Starlink-3175 	LEO	260	
+Starlink-3176 	LEO	260	
+Starlink-3177 	LEO	260	
+Starlink-3178 	LEO	260	
+Starlink-3179 	LEO	260	
+Starlink-3180 	LEO	260	
+Starlink-3181 	LEO	260	
+Starlink-3182 	LEO	260	
+Starlink-3183 	LEO	260	
+Starlink-3184 	LEO	260	
+Starlink-3185 	LEO	260	
+Starlink-3189 	LEO	260	
+Starlink-3190 	LEO	260	
+Starlink-3191 	LEO	260	
+Starlink-3192 	LEO	260	
+Starlink-3193 	LEO	260	
+Starlink-3194 	LEO	260	
+Starlink-3195 	LEO	260	
+Starlink-3196 	LEO	260	
+Starlink-3197 	LEO	260	
+Starlink-3198 	LEO	260	
+Starlink-3199 	LEO	260	
+Starlink-3200 	LEO	260	
+Starlink-3201 	LEO	260	
+Starlink-3202 	LEO	260	
+Starlink-3203 	LEO	260	
+Starlink-3204 	LEO	260	
+Starlink-3206 	LEO	260	
+Starlink-3207 	LEO	260	
+Starlink-3208 	LEO	260	
+Starlink-3209 	LEO	260	
+Starlink-3210 	LEO	260	
+Starlink-3218 	LEO	260	
+Starlink-3219 	LEO	260	
+Starlink-3225 	LEO	260	
+Starlink-3226 	LEO	260	
+Starlink-3227 	LEO	260	
+Starlink-3228 	LEO	260	
+Starlink-3229 	LEO	260	
+Starlink-3230 	LEO	260	
+Starlink-3231 	LEO	260	
+Starlink-3232 	LEO	260	
+Starlink-3233 	LEO	260	
+Starlink-3234 	LEO	260	
+Starlink-3235 	LEO	260	
+Starlink-3236 	LEO	260	
+Starlink-3237 	LEO	260	
+Starlink-3238 	LEO	260	
+Starlink-3239 	LEO	260	
+Starlink-3240 	LEO	260	
+Starlink-3241 	LEO	260	
+Starlink-3242 	LEO	260	
+Starlink-3243 	LEO	260	
+Starlink-3244 	LEO	260	
+Starlink-3245 	LEO	260	
+Starlink-3246 	LEO	260	
+Starlink-3247 	LEO	260	
+Starlink-3248 	LEO	260	
+Starlink-3249 	LEO	260	
+Starlink-3250 	LEO	260	
+Starlink-3251 	LEO	260	
+Starlink-3252 	LEO	260	
+Starlink-3253 	LEO	260	
+Starlink-3254 	LEO	260	
+Starlink-3255 	LEO	260	
+Starlink-3256 	LEO	260	
+Starlink-3257 	LEO	260	
+Starlink-3258 	LEO	260	
+Starlink-3259 	LEO	260	
+Starlink-3260 	LEO	260	
+Starlink-3261 	LEO	260	
+Starlink-3262 	LEO	260	
+Starlink-3263 	LEO	260	
+Starlink-3264 	LEO	260	
+Starlink-3265 	LEO	260	
+Starlink-3266 	LEO	260	
+Starlink-3267 	LEO	260	
+Starlink-3268 	LEO	260	
+Starlink-3269 	LEO	260	
+Starlink-3270 	LEO	260	
+Starlink-3271 	LEO	260	
+Starlink-3272 	LEO	260	
+Starlink-3273 	LEO	260	
+Starlink-3274 	LEO	260	
+Starlink-3275 	LEO	260	
+Starlink-3276 	LEO	260	
+Starlink-3277 	LEO	260	
+Starlink-3278 	LEO	260	
+Starlink-3279 	LEO	260	
+Starlink-3281 	LEO	260	
+Starlink-3282 	LEO	260	
+Starlink-3283 	LEO	260	
+Starlink-3284 	LEO	260	
+Starlink-3285 	LEO	260	
+Starlink-3286 	LEO	260	
+Starlink-3287 	LEO	260	
+Starlink-3288 	LEO	260	
+Starlink-3289 	LEO	260	
+Starlink-3290 	LEO	260	
+Starlink-3291 	LEO	260	
+Starlink-3292 	LEO	260	
+Starlink-3293 	LEO	260	
+Starlink-3294 	LEO	260	
+Starlink-3295 	LEO	260	
+Starlink-3296 	LEO	260	
+Starlink-3297 	LEO	260	
+Starlink-3298 	LEO	260	
+Starlink-3299 	LEO	260	
+Starlink-3300 	LEO	260	
+Starlink-3301 	LEO	260	
+Starlink-3302 	LEO	260	
+Starlink-3303 	LEO	260	
+Starlink-3304 	LEO	260	
+Starlink-3305 	LEO	260	
+Starlink-3306 	LEO	260	
+Starlink-3307 	LEO	260	
+Starlink-3308 	LEO	260	
+Starlink-3309 	LEO	260	
+Starlink-3310 	LEO	260	
+Starlink-3311 	LEO	260	
+Starlink-3312 	LEO	260	
+Starlink-3313 	LEO	260	
+Starlink-3314 	LEO	260	
+Starlink-3315 	LEO	260	
+Starlink-3316 	LEO	260	
+Starlink-3317 	LEO	260	
+Starlink-3318 	LEO	260	
+Starlink-3319 	LEO	260	
+Starlink-3320 	LEO	260	
+Starlink-3321 	LEO	260	
+Starlink-3322 	LEO	260	
+Starlink-3323 	LEO	260	
+Starlink-3324 	LEO	260	
+Starlink-3325 	LEO	260	
+Starlink-3326 	LEO	260	
+Starlink-3327 	LEO	260	
+Starlink-3328 	LEO	260	
+Starlink-3329 	LEO	260	
+Starlink-3330 	LEO	260	
+Starlink-3331 	LEO	260	
+Starlink-3332 	LEO	260	
+Starlink-3333 	LEO	260	
+Starlink-3334 	LEO	260	
+Starlink-3335 	LEO	260	
+Starlink-3336 	LEO	260	
+Starlink-3337 	LEO	260	
+Starlink-3338 	LEO	260	
+Starlink-3339 	LEO	260	
+Starlink-3340 	LEO	260	
+Starlink-3341 	LEO	260	
+Starlink-3342 	LEO	260	
+Starlink-3343 	LEO	260	
+Starlink-3344 	LEO	260	
+Starlink-3346 	LEO	260	
+Starlink-3347 	LEO	260	
+Starlink-3348 	LEO	260	
+Starlink-3349 	LEO	260	
+Starlink-3350 	LEO	260	
+Starlink-3352 	LEO	260	
+Starlink-3353 	LEO	260	
+Starlink-3354 	LEO	260	
+Starlink-3355 	LEO	260	
+Starlink-3356 	LEO	260	
+Starlink-3357 	LEO	260	
+Starlink-3358 	LEO	260	
+Starlink-3359 	LEO	260	
+Starlink-3360 	LEO	260	
+Starlink-3361 	LEO	260	
+Starlink-3362 	LEO	260	
+Starlink-3363 	LEO	260	
+Starlink-3364 	LEO	260	
+Starlink-3365 	LEO	260	
+Starlink-3366 	LEO	260	
+Starlink-3368 	LEO	260	
+Starlink-3369 	LEO	260	
+Starlink-3370 	LEO	260	
+Starlink-3372 	LEO	260	
+Starlink-3373 	LEO	260	
+Starlink-3374 	LEO	260	
+Starlink-3375 	LEO	260	
+Starlink-3386 	LEO	260	
+Starlink-3387 	LEO	260	
+Starlink-3388 	LEO	260	
+Starlink-3389 	LEO	260	
+Starlink-3390 	LEO	260	
+Starlink-3391 	LEO	260	
+Starlink-3392 	LEO	260	
+Starlink-3393 	LEO	260	
+Starlink-3394 	LEO	260	
+Starlink-3395 	LEO	260	
+Starlink-3396 	LEO	260	
+Starlink-3397 	LEO	260	
+Starlink-3398 	LEO	260	
+Starlink-3399 	LEO	260	
+Starlink-3400 	LEO	260	
+Starlink-3401 	LEO	260	
+Starlink-3415 	LEO	260	
+Starlink-3419 	LEO	260	
+Starlink-3445 	LEO	260	
+Starlink-3446 	LEO	260	
+Starlink-3447 	LEO	260	
+Starlink-3448 	LEO	260	
+Starlink-3449 	LEO	260	
+Starlink-3450 	LEO	260	
+Starlink-3451 	LEO	260	
+Starlink-3452 	LEO	260	
+Starlink-3456 	LEO	260	
+Starlink-3457 	LEO	260	
+Starlink-3458 	LEO	260	
+Starlink-3459 	LEO	260	
+Starlink-3460 	LEO	260	
+Starlink-3500 	LEO	260	
+Starlink-3501 	LEO	260	
+Starlink-3502 	LEO	260	
+Starlink-3503 	LEO	260	
+Starlink-3504 	LEO	260	
+Starlink-3505 	LEO	260	
+Starlink-3506 	LEO	260	
+Starlink-3507 	LEO	260	
+Starlink-3508 	LEO	260	
+Starlink-3509 	LEO	260	
+Starlink-3511 	LEO	260	
+Starlink-3512 	LEO	260	
+Starlink-3513 	LEO	260	
+Starlink-3514 	LEO	260	
+Starlink-3515 	LEO	260	
+Starlink-3516 	LEO	260	
+Starlink-3517 	LEO	260	
+Starlink-3518 	LEO	260	
+Starlink-3519 	LEO	260	
+Starlink-3520 	LEO	260	
+Starlink-3521 	LEO	260	
+Starlink-3522 	LEO	260	
+Starlink-3523 	LEO	260	
+Starlink-3524 	LEO	260	
+Starlink-3525 	LEO	260	
+Starlink-3526 	LEO	260	
+Starlink-3527 	LEO	260	
+Starlink-3528 	LEO	260	
+Starlink-3529 	LEO	260	
+Starlink-3530 	LEO	260	
+Starlink-3531 	LEO	260	
+Starlink-3532 	LEO	260	
+Starlink-3533 	LEO	260	
+Starlink-3534 	LEO	260	
+Starlink-3535 	LEO	260	
+Starlink-3536 	LEO	260	
+Starlink-3537 	LEO	260	
+Starlink-3538 	LEO	260	
+Starlink-3539 	LEO	260	
+Starlink-3540 	LEO	260	
+Starlink-3541 	LEO	260	
+Starlink-3542 	LEO	260	
+Starlink-3543 	LEO	260	
+Starlink-3544 	LEO	260	
+Starlink-3545 	LEO	260	
+Starlink-3546 	LEO	260	
+Starlink-3547 	LEO	260	
+Starlink-3548 	LEO	260	
+Starlink-3549 	LEO	260	
+Starlink-3550 	LEO	260	
+Starlink-3551 	LEO	260	
+Starlink-3552 	LEO	260	
+Starlink-3553 	LEO	260	
+Starlink-3554 	LEO	260	
+Starlink-3555 	LEO	260	
+Starlink-3556 	LEO	260	
+Starlink-3557 	LEO	260	
+Starlink-3558 	LEO	260	
+Starlink-3559 	LEO	260	
+Starlink-3560 	LEO	260	
+Starlink-3561 	LEO	260	
+Starlink-3562 	LEO	260	
+Starlink-3563 	LEO	260	
+Starlink-3564 	LEO	260	
+Starlink-3565 	LEO	260	
+Starlink-3566 	LEO	260	
+Starlink-3567 	LEO	260	
+Starlink-3568 	LEO	260	
+Starlink-3569 	LEO	260	
+Starlink-3570 	LEO	260	
+Starlink-3571 	LEO	260	
+Starlink-3572 	LEO	260	
+Starlink-3573 	LEO	260	
+Starlink-3574 	LEO	260	
+Starlink-3575 	LEO	260	
+Starlink-3576 	LEO	260	
+Starlink-3577 	LEO	260	
+Starlink-3578 	LEO	260	
+Starlink-3579 	LEO	260	
+Starlink-3580 	LEO	260	
+Starlink-3581 	LEO	260	
+Starlink-3582 	LEO	260	
+Starlink-3583 	LEO	260	
+Starlink-3584 	LEO	260	
+Starlink-3585 	LEO	260	
+Starlink-3586 	LEO	260	
+Starlink-3587 	LEO	260	
+Starlink-3588 	LEO	260	
+Starlink-3589 	LEO	260	
+Starlink-3590 	LEO	260	
+Starlink-3591 	LEO	260	
+Starlink-3592 	LEO	260	
+Starlink-3593 	LEO	260	
+Starlink-3594 	LEO	260	
+Starlink-3595 	LEO	260	
+Starlink-3596 	LEO	260	
+Starlink-3597 	LEO	260	
+Starlink-3598 	LEO	260	
+Starlink-3599 	LEO	260	
+Starlink-36 	LEO	227	
+Starlink-3600 	LEO	260	
+Starlink-3601 	LEO	260	
+Starlink-3602 	LEO	260	
+Starlink-3603 	LEO	260	
+Starlink-3604 	LEO	260	
+Starlink-3605 	LEO	260	
+Starlink-3606 	LEO	260	
+Starlink-3607 	LEO	260	
+Starlink-3608 	LEO	260	
+Starlink-3609 	LEO	260	
+Starlink-3610 	LEO	260	
+Starlink-3611 	LEO	260	
+Starlink-3612 	LEO	260	
+Starlink-3613 	LEO	260	
+Starlink-3614 	LEO	260	
+Starlink-3615 	LEO	260	
+Starlink-3616 	LEO	260	
+Starlink-3617 	LEO	260	
+Starlink-3618 	LEO	260	
+Starlink-3619 	LEO	260	
+Starlink-3620 	LEO	260	
+Starlink-3621 	LEO	260	
+Starlink-3622 	LEO	260	
+Starlink-3623 	LEO	260	
+Starlink-3624 	LEO	260	
+Starlink-3625 	LEO	260	
+Starlink-3626 	LEO	260	
+Starlink-3627 	LEO	260	
+Starlink-3628 	LEO	260	
+Starlink-3629 	LEO	260	
+Starlink-3630 	LEO	260	
+Starlink-3631 	LEO	260	
+Starlink-3632 	LEO	260	
+Starlink-3633 	LEO	260	
+Starlink-3634 	LEO	260	
+Starlink-3635 	LEO	260	
+Starlink-3636 	LEO	260	
+Starlink-3637 	LEO	260	
+Starlink-3638 	LEO	260	
+Starlink-3639 	LEO	260	
+Starlink-3640 	LEO	260	
+Starlink-3641 	LEO	260	
+Starlink-3642 	LEO	260	
+Starlink-3643 	LEO	260	
+Starlink-3644 	LEO	260	
+Starlink-3645 	LEO	260	
+Starlink-3646 	LEO	260	
+Starlink-3647 	LEO	260	
+Starlink-3648 	LEO	260	
+Starlink-3649 	LEO	260	
+Starlink-3650 	LEO	260	
+Starlink-3651 	LEO	260	
+Starlink-3652 	LEO	260	
+Starlink-3653 	LEO	260	
+Starlink-3654 	LEO	260	
+Starlink-3655 	LEO	260	
+Starlink-3656 	LEO	260	
+Starlink-3657 	LEO	260	
+Starlink-3658 	LEO	260	
+Starlink-3659 	LEO	260	
+Starlink-3660 	LEO	260	
+Starlink-3661 	LEO	260	
+Starlink-3663 	LEO	260	
+Starlink-3664 	LEO	260	
+Starlink-3665 	LEO	260	
+Starlink-3666 	LEO	260	
+Starlink-3667 	LEO	260	
+Starlink-3668 	LEO	260	
+Starlink-3669 	LEO	260	
+Starlink-3670 	LEO	260	
+Starlink-3671 	LEO	260	
+Starlink-3672 	LEO	260	
+Starlink-3673 	LEO	260	
+Starlink-3674 	LEO	260	
+Starlink-3675 	LEO	260	
+Starlink-3677 	LEO	260	
+Starlink-3678 	LEO	260	
+Starlink-3679 	LEO	260	
+Starlink-3680 	LEO	260	
+Starlink-3681 	LEO	260	
+Starlink-3682 	LEO	260	
+Starlink-3684 	LEO	260	
+Starlink-3685 	LEO	260	
+Starlink-3686 	LEO	260	
+Starlink-3687 	LEO	260	
+Starlink-3688 	LEO	260	
+Starlink-3689 	LEO	260	
+Starlink-3690 	LEO	260	
+Starlink-3691 	LEO	260	
+Starlink-3692 	LEO	260	
+Starlink-3694 	LEO	260	
+Starlink-3695 	LEO	260	
+Starlink-3696 	LEO	260	
+Starlink-3697 	LEO	260	
+Starlink-3698 	LEO	260	
+Starlink-3699 	LEO	260	
+Starlink-3700 	LEO	260	
+Starlink-3701 	LEO	260	
+Starlink-3702 	LEO	260	
+Starlink-3703 	LEO	260	
+Starlink-3704 	LEO	260	
+Starlink-3705 	LEO	260	
+Starlink-3706 	LEO	260	
+Starlink-3707 	LEO	260	
+Starlink-3708 	LEO	260	
+Starlink-3709 	LEO	260	
+Starlink-3711 	LEO	260	
+Starlink-3712 	LEO	260	
+Starlink-3713 	LEO	260	
+Starlink-3714 	LEO	260	
+Starlink-3715 	LEO	260	
+Starlink-3716 	LEO	260	
+Starlink-3717 	LEO	260	
+Starlink-3718 	LEO	260	
+Starlink-3720 	LEO	260	
+Starlink-3721 	LEO	260	
+Starlink-3722 	LEO	260	
+Starlink-3723 	LEO	260	
+Starlink-3724 	LEO	260	
+Starlink-3725 	LEO	260	
+Starlink-3726 	LEO	260	
+Starlink-3727 	LEO	260	
+Starlink-3728 	LEO	260	
+Starlink-3729 	LEO	260	
+Starlink-3730 	LEO	260	
+Starlink-3732 	LEO	260	
+Starlink-3733 	LEO	260	
+Starlink-3734 	LEO	260	
+Starlink-3735 	LEO	260	
+Starlink-3736 	LEO	260	
+Starlink-3737 	LEO	260	
+Starlink-3738 	LEO	260	
+Starlink-3739 	LEO	260	
+Starlink-3740 	LEO	260	
+Starlink-3742 	LEO	260	
+Starlink-3743 	LEO	260	
+Starlink-3744 	LEO	260	
+Starlink-3745 	LEO	260	
+Starlink-3746 	LEO	260	
+Starlink-3747 	LEO	260	
+Starlink-3748 	LEO	260	
+Starlink-3749 	LEO	260	
+Starlink-3750 	LEO	260	
+Starlink-3751 	LEO	260	
+Starlink-3752 	LEO	260	
+Starlink-3753 	LEO	260	
+Starlink-3754 	LEO	260	
+Starlink-3755 	LEO	260	
+Starlink-3756 	LEO	260	
+Starlink-3758 	LEO	260	
+Starlink-3759 	LEO	260	
+Starlink-3760 	LEO	260	
+Starlink-3761 	LEO	260	
+Starlink-3762 	LEO	260	
+Starlink-3764 	LEO	260	
+Starlink-3765 	LEO	260	
+Starlink-3766 	LEO	260	
+Starlink-3767 	LEO	260	
+Starlink-3768 	LEO	260	
+Starlink-3769 	LEO	260	
+Starlink-3771 	LEO	260	
+Starlink-3772 	LEO	260	
+Starlink-3773 	LEO	260	
+Starlink-3775 	LEO	260	
+Starlink-3776 	LEO	260	
+Starlink-3777 	LEO	260	
+Starlink-3778 	LEO	260	
+Starlink-3779 	LEO	260	
+Starlink-3780 	LEO	260	
+Starlink-3781 	LEO	260	
+Starlink-3782 	LEO	260	
+Starlink-3783 	LEO	260	
+Starlink-3784 	LEO	260	
+Starlink-3785 	LEO	260	
+Starlink-3786 	LEO	260	
+Starlink-3787 	LEO	260	
+Starlink-3788 	LEO	260	
+Starlink-3789 	LEO	260	
+Starlink-3790 	LEO	260	
+Starlink-3791 	LEO	260	
+Starlink-3792 	LEO	260	
+Starlink-3793 	LEO	260	
+Starlink-3795 	LEO	260	
+Starlink-3796 	LEO	260	
+Starlink-3797 	LEO	260	
+Starlink-3798 	LEO	260	
+Starlink-3799 	LEO	260	
+Starlink-3800 	LEO	260	
+Starlink-3801 	LEO	260	
+Starlink-3802 	LEO	260	
+Starlink-3803 	LEO	260	
+Starlink-3804 	LEO	260	
+Starlink-3805 	LEO	260	
+Starlink-3806 	LEO	260	
+Starlink-3807 	LEO	260	
+Starlink-3808 	LEO	260	
+Starlink-3810 	LEO	260	
+Starlink-3811 	LEO	260	
+Starlink-3812 	LEO	260	
+Starlink-3814 	LEO	260	
+Starlink-3815 	LEO	260	
+Starlink-3816 	LEO	260	
+Starlink-3817 	LEO	260	
+Starlink-3818 	LEO	260	
+Starlink-3819 	LEO	260	
+Starlink-3820 	LEO	260	
+Starlink-3821 	LEO	260	
+Starlink-3822 	LEO	260	
+Starlink-3823 	LEO	260	
+Starlink-3824 	LEO	260	
+Starlink-3826 	LEO	260	
+Starlink-3827 	LEO	260	
+Starlink-3829 	LEO	260	
+Starlink-3830 	LEO	260	
+Starlink-3831 	LEO	260	
+Starlink-3834 	LEO	260	
+Starlink-3837 	LEO	260	
+Starlink-3838 	LEO	260	
+Starlink-3841 	LEO	260	
+Starlink-3843 	LEO	260	
+Starlink-3847 	LEO	260	
+Starlink-3848 	LEO	260	
+Starlink-3849 	LEO	260	
+Starlink-3850 	LEO	260	
+Starlink-3851 	LEO	260	
+Starlink-3852 	LEO	260	
+Starlink-3853 	LEO	260	
+Starlink-3874 	LEO	260	
+Starlink-3876 	LEO	260	
+Starlink-3877 	LEO	260	
+Starlink-3880 	LEO	260	
+Starlink-3889 	LEO	260	
+Starlink-42 	LEO	227	
+Starlink-50 	LEO	227	
+Starlink-57 	LEO	227	
+Starlink-58 	LEO	227	
+Starlink-61	LEO	227	
+Starlink-66 	LEO	227	
+Starlink-68 	LEO	227	
+Starlink-70 	LEO	227	
+Starlink-71 	LEO	227	
+Starlink-73 	LEO	227	
+Starlink-79 	LEO	227	
+Steamsat-1	LEO	5	
+STORK-1	LEO	5	
+STORK-2	LEO	5	
+STORK-3	LEO	5	
+STORK-4 	LEO	5	
+STORK-5 (Marta)	LEO	5	
+STPSat-6	GEO	"1,000"	
+Cosmos 2385	LEO	225	
+Cosmos 2386	LEO	225	
+Cosmos 2390	LEO	225	
+Cosmos 2391	LEO	225	
+Cosmos 2400	LEO	225	
+Cosmos 2401	LEO	225	
+Cosmos 2408	LEO	225	
+Cosmos 2409	LEO	225	
+StriX ?	LEO	150	
+StriX-a	LEO	150	
+STSat-2C	LEO	93	
+USA 205	LEO		
+USA 208	LEO	"2,240"	
+USA 209	LEO	"2,240"	
+SUCHAI-3	LEO	4	
+SUCHAI-4	LEO	4	
+Sunstorm	LEO	4	
+Suomi-100	LEO	1	
+Superbird 7	GEO	"5,000"	
+Superbird 8/DSN 1	GEO	"5,348"	
+Superview 1-01	LEO	560	
+Superview 1-02	LEO	560	
+Superview 1-03	LEO	560	
+Superview 1-04	LEO	560	
+SWARM-A	LEO	468	
+SWARM-B	LEO	468	
+SWARM-C	LEO	468	
+Swayam	LEO	1	
+Swift	LEO	"1,463"	
+SwissCube	LEO	1	
+Syracuse 3A	GEO	"3,725"	
+Syracuse 3B	GEO	"3,750"	
+Syracuse 4A	GEO	"3,852"	
+TacSat 4	Elliptical	450	
+TacSat 6	LEO		
+Taijing 2-01	LEO	70	
+Taijing 3-01	LEO	240	
+Taijing 4-01	LEO	350	
+TanDEM-X	LEO	"1,350"	
+Tangguo Guan	LEO	25	
+Tango	Elliptical	"1,200"	
+Tanker-001 Tenzing	LEO	35	
+TanSat	LEO	620	
+TAU-Sat 1	LEO	3	
+TDO	Elliptical	20	
+TDRS-10	GEO	"3,180"	
+TDRS-11	GEO	"3,454"	
+TDRS-12	GEO	"3,454"	
+TDRS-13	GEO	"3,452"	
+TDRS-3	GEO	"3,180"	
+TDRS-5	GEO	"3,180"	
+TDRS-6	GEO	"3,180"	
+TDRS-7	GEO	"3,180"	
+TDRS-8	GEO	"3,180"	
+TDRS-9	GEO	"3,180"	
+TechEdSat-13	LEO	4	
+Technosat	LEO	18	
+TecSAR	LEO	300	
+TeikyoSat 4	LEO	52	
+TeLEOS 1	LEO	400	
+Telkom 3S	GEO	"3,550"	
+Telstar 11N	GEO	"4,010"	
+Telstar 12V	GEO	"4,900"	
+Telstar 14R	GEO	"4,970"	
+Telstar 18 Vantage	GEO	"7,060"	
+Telstar 19 Vantage	GEO	"7,075"	
+TEMPEST-D	LEO	10	
+Ten-Koh	LEO	23	
+TerraSAR X-1	LEO	"1,230"	
+TerraStar 1	GEO	"6,910"	
+TESS	Elliptical	362	
+TET-1	LEO	120	
+Tevel-1	LEO	1	
+Tevel-2	LEO	1	
+Tevel-3	LEO	1	
+Tevel-4	LEO	1	
+Tevel-5	LEO	1	
+Tevel-6	LEO	1	
+Tevel-7	LEO	1	
+Tevel-8	LEO	1	
+Thaicom-4	GEO	"6,505"	
+Thaicom-6	GEO	"3,325"	
+Thaicom-8	GEO	"3,025"	
+THEA	LEO	4	
+THEMIS A	Elliptical	126	
+THEMIS D	Elliptical	126	
+THEMIS E	Elliptical	126	
+Theos	LEO	750	
+Thor-5 	GEO	"2,024"	
+Thor-6	GEO	"3,050"	
+Thor-7	GEO	"4,600"	
+Thuraya 2	GEO	"5,250"	
+Thuraya 3	GEO	"5,180"	
+Tianhe 	LEO	"22,500"	
+Tianhui 1-01	LEO	"2,500"	
+Tianhui 1-02	LEO	"2,500"	
+Tianhui 1-03	LEO	"2,500"	
+Tianhui 1-04	LEO	"2,500"	
+Tianhui 2-01	LEO	"2,500"	
+Tianhui 2-02	LEO	"2,500"	
+Tianhui-2 02-01	LEO	"1,000"	
+Tianhui-2 02-02	LEO	"1,000"	
+Tianjin Daxue 1	LEO	230	
+Tiankun-2	LEO	90	
+Tiankun-1	LEO		
+TianLian 1	GEO	"3,750"	
+TianLian 2	GEO	"2,250"	
+TianLian 2-01	GEO		
+TianLian 2-02	GEO	"5,000"	
+TianLian 3 	GEO	"2,200"	
+TianLian 4	GEO	"2,200"	
+TianLian 5	GEO	"2,200"	
+Tianqi-1	LEO	8	
+Tianqi-11	LEO	50	
+Tianqi-12	LEO	50	
+Tianqi-14	LEO	50	
+Tianqi-15	LEO	50	
+Tianqi-19	LEO	39	
+Tianqi-2	LEO	8	
+Tianqi-3	LEO	8	
+Tianqi-4A	LEO	9	
+Tianqi-4B	LEO	9	
+Tianqi-5	LEO	9	
+Tianqi-6	LEO	9	
+Tianqi-7	LEO	9	
+Tianqi-8	LEO	9	
+Tianqi-9	LEO	9	
+Tianqin-1	LEO		
+Tianshu 1	LEO	50	
+Tiantong-1-01	GEO		
+Tiantong-1-02	GEO		
+Tiantong-1-03	GEO	"4,600"	
+Tiantuo-2	LEO	67	
+Tiantuo-3	LEO	20	
+Tiantuo-5	LEO	79	
+TW-1A	LEO	3	
+Tianxiang-1	LEO		
+Tianxiang-2	LEO		
+Xiaoxiang-1	LEO	3	
+Xiaoxiang 1-08	LEO	9	
+TianYi-16	LEO	9	
+TianYi-17	LEO	9	
+TianYi-2	LEO	8	
+TianYi-6	LEO	8	
+Tianyuan 1	LEO	10	
+Tianzhi-1	LEO	27	
+TIBA-1	GEO	"5,600"	
+TIGRISat	LEO	1	
+TIMED	LEO	587	
+TJS-1	GEO		
+TJS-2	GEO		
+TJS-3	GEO		
+TJS-3 subsatellite	GEO		
+TJS-4	GEO		
+TJS-5	GEO		
+TJS-6	GEO		
+TJS-7	GEO		
+TKSat-1	GEO	"5,000"	
+TRISAT	LEO	4	
+TROPICS Pathfinder	LEO	4	
+USA 136	Elliptical	"8,000"	
+Cosmos 2428	LEO	"3,200"	
+Tsuru	LEO	1	
+TTU100	LEO	4	
+TUBIN	LEO	20	
+TUGSat-1	LEO	14	
+Turkmen Alem 52E/MonacoSAT	GEO	"4,700"	
+Turksat 3A	GEO	"3,100"	
+Turksat 4A	GEO	"4,869"	
+Turksat 4B	GEO	"5,000"	
+Turksat 5A	GEO	"3,500"	
+Turksat 5B	GEO	"4,500"	
+Tyvak 0088	LEO		
+Tyvak 0092	LEO	5	
+Tyvak 0129	LEO	5	
+Tyvak 0130	LEO	9	
+Tyvak 0152	LEO	9	
+Tyvak 0171	LEO		
+Tyvak 0172	LEO	10	
+Tyvak 0173 	LEO	12	
+Tyvak 0210	LEO	9	
+Tyvak 0211	LEO	6	
+Tyvak 182A	LEO	10	
+Tyvak 53b	LEO	5	
+Tyvak 61c	LEO	10	
+USA 146	GEO	"3,200"	
+USA 174	GEO	"3,200"	
+USA 95	GEO	"3,200"	
+USA 108	GEO	"3,200"	
+USA 138	GEO	"3,206"	
+UK-DMC-2	LEO	97	
+Umbra-02	LEO	65	
+Umbra-SAR 2001	LEO	65	
+Unicorn-1	LEO	1	
+Unicorn-2A	LEO	1	
+Unicorn-2D	LEO	1	
+Unicorn-2TA1	LEO	1	
+UNIFORM 1	LEO	50	
+UPMSat-2	LEO	60	
+USA 310	MEO		
+USA 312	LEO		
+USA 313	LEO		
+USA 316	LEO		
+USA 317	LEO		
+USA 318	LEO		
+USA 320	LEO		
+USA 321	LEO		
+USA 322	LEO		
+USA 323	LEO		
+UVSQ-Sat	LEO	1	
+UWE-4	LEO	2	
+RBSP-A	Elliptical	648	
+RBSP-B	Elliptical	666	
+VDNH-80	LEO	4	
+Veery Hatchling v.2	LEO	1	
+Velox 2	LEO	13	
+Velox C1	LEO	123	
+Venµs	LEO	264	
+ViaSat-1	GEO	"6,740"	
+ViaSat-2	GEO	"6,418"	
+Vinasat 1	GEO	"2,600"	
+Vinasat 2	GEO	"2,970"	
+VNREDSat 1A	LEO	115	
+V-R3X 1	LEO	1	
+V-R3X 2	LEO	1	
+V-R3X 3	LEO	1	
+VRSS-1	LEO	880	
+VRSS-2	LEO	"1,000"	
+VZLUSat-1	LEO	3	
+WARP-1	LEO	1	
+W-Cube	LEO	5	
+Weina-1A	LEO	1	
+Weina-1B	LEO	5	
+Wenchang-1 01	LEO	62	
+Wenchang-1 02	LEO	62	
+USA 195	GEO	"5,900"	
+USA 291	GEO	"5,990"	
+USA 204	GEO	"5,987"	
+USA 211	GEO	"5,990"	
+USA 233	GEO	"5,990"	
+USA 243	GEO	"5,990"	
+USA 244	GEO	"5,990"	
+USA 263	GEO	"5,990"	
+USA 272	GEO	"5,990"	
+USA 275	GEO	"5,990"	
+WildBlue 1	GEO	"4,735"	
+WildTrackCube-SIMBA	LEO	1	
+WNISat-1	LEO	10	
+WNISat-1R	LEO	43	
+Worldview 1	LEO	"4,500"	
+Worldview 2	LEO	"2,800"	
+Worldview 3	LEO	"2,800"	
+USA 299	LEO	"4,990"	
+Xiaoxiang 1-04	LEO	8	
+Xiaoxiang 1-07 	LEO	10	
+Xidian 1	LEO	88	
+Xingshidai 10	LEO	10	
+Xingshidai 5	LEO	10	
+Xingyun 2-01	LEO	93	
+Xingyun 2-02	LEO	93	
+Xinyan 1	LEO		
+XJS-A	LEO		
+XJS-B	LEO		
+XJS-C	LEO		
+XJS-D	LEO		
+XJS-E	LEO		
+XJS-F	LEO		
+XJS-G	LEO		
+XJS-H	LEO		
+XJY-7	LEO		
+XMM Newton	Elliptical	"3,764"	
+XPNav-1	LEO	240	
+X-Sat	LEO	91	
+XTAR-EUR	GEO	"3,631"	
+XW-1	LEO	60	
+XW-2A	LEO	25	
+XW-2B	LEO	10	
+XW-2C	LEO	10	
+XW-2D	LEO	10	
+XW-2F	LEO	2	
+XY-S1	LEO	2	
+Yahsat-1A	GEO	"5,953"	
+Yahsat-1B	GEO	"6,000"	
+YAM-2	LEO	80	
+YAM-3	LEO	80	
+Yamal-202	GEO	"1,320"	
+Yamal-300K	GEO	"1,640"	
+Yamal-401	GEO	"2,976"	
+Yamal-402	GEO	"4,463"	
+Yamal-601	GEO	"5,400"	
+Yangwang-1	LEO	42	
+Yaogan 10	LEO		
+Yaogan 11	LEO		
+Yaogan 12	LEO		
+Yaogan 13	LEO		
+Yaogan 14	LEO		
+Yaogan 15	LEO	"1,040"	
+Yaogan 16A	LEO		
+Yaogan 16B	LEO		
+Yaogan 16C	LEO		
+Yaogan 17A	LEO		
+Yaogan 17B	LEO		
+Yaogan 17C	LEO		
+Yaogan 19	LEO		
+Yaogan 20A	LEO		
+Yaogan 20B	LEO		
+Yaogan 20C	LEO		
+Yaogan 21	LEO		
+Yaogan 22	LEO		
+Yaogan 23	LEO		
+Yaogan 24	LEO		
+Yaogan 25A	LEO		
+Yaogan 25B	LEO		
+Yaogan 25C	LEO		
+Yaogan 26	LEO		
+Yaogan 27	LEO		
+Yaogan 28	LEO	"1,040"	
+Yaogan 29	LEO	"1,040"	
+Yaogan 30	LEO	"2,700"	
+Yaogan 30-10-1 	LEO	500	
+Yaogan 30-10-2	LEO	500	
+Yaogan 30-10-3	LEO	500	
+Yaogan 30-1-1	LEO		
+Yaogan 30-1-2	LEO		
+Yaogan 30-1-3	LEO		
+Yaogan 30-16	LEO		
+Yaogan 30-17	LEO		
+Yaogan 30-19	LEO		
+Yaogan 30-20	LEO		
+Yaogan 30-21	LEO		
+Yaogan 30-2-1	LEO		
+Yaogan 30-2-2	LEO		
+Yaogan 30-2-3	LEO		
+Yaogan 30-3-1	LEO		
+Yaogan 30-3-2	LEO		
+Yaogan 30-3-3	LEO		
+Yaogan 30-4-1	LEO		
+Yaogan 30-4-2	LEO		
+Yaogan 30-4-3	LEO		
+Yaogan 30-5-1 	LEO		
+Yaogan 30-5-2 	LEO		
+Yaogan 30-5-3 	LEO		
+Yaogan 30-8-1	LEO		
+Yaogan 30-8-2	LEO		
+Yaogan 30-8-3	LEO		
+Yaogan 30-9-1	LEO		
+Yaogan 30-9-2	LEO		
+Yaogan 30-9-3	LEO		
+Yaogan 30-18	LEO		
+Yaogan 31-1-1	LEO		
+Yaogan 31-1-2	LEO		
+Yaogan 31-1-3	LEO		
+Yaogan 31-3-1	LEO		
+Yaogan 31-3-2	LEO		
+Yaogan 31-3-3	LEO		
+Yaogan 31-4-1	LEO	500	
+Yaogan 31-4-2	LEO	500	
+Yaogan 31-4-3	LEO	500	
+Yaogan 32-1-1	LEO		
+Yaogan 32-2-1	LEO		
+Yaogan 32-2-2	LEO		
+Yaogan 32-2-3	LEO		
+Yaogan 32-2A	LEO		
+Yaogan 32-2B	LEO		
+Yaogan 33	LEO		
+Yaogan 34	LEO	500	
+Yaogan 34-02)	LEO	500	
+Yaogan 35A	LEO	300	
+Yaogan 35B	LEO		
+Yaogan 35C	LEO		
+Yaogan 4	LEO	"2,700"	
+Yaogan 6	LEO	"1,800"	
+Yaogan 7	LEO	"2,700"	
+Yaogan 8	LEO		
+Yaogan 9A	LEO		
+Yaogan 9B	LEO		
+Yaogan 9C	LEO		
+Yarilo-1	LEO		
+Yarilo-2	LEO		
+Yinhe 1	LEO	227	
+Yinhe 2-01 	LEO	190	
+Yinhe 2-02	LEO	190	
+Yinhe 2-03	LEO	190	
+Yinhe 2-04	LEO	190	
+Yinhe 2-05	LEO	190	
+Yinhe 2-06	LEO	190	
+Youthsat	LEO	92	
+Yuanguang	LEO	20	
+Yunhai-1	LEO		
+Yunhai-1 2	LEO		
+Yunhai-2 01	LEO		
+Yunhai-2 02	LEO		
+Yunhai-2 03	LEO		
+Yunhai-2 04	LEO		
+Yunhai-2 05	LEO		
+Yunhai-2 06	LEO		
+ZACUBE-1	LEO	2	
+ZACUBE-2	LEO	4	
+Ziyuan 2C	LEO		
+Zhangheng 1	LEO	730	
+ZP-1B	LEO	4	
+ZP-1C	LEO	4	
+ZP-2A	LEO	12	
+ZP-2B	LEO	12	
+ZP-3A	LEO	12	
+ZyDKW	LEO		
+Zhongxing 10	GEO	"5,000"	
+Zhongxing 11	GEO	"5,100"	
+Zhongxing 12	GEO	"5,500"	
+Zhongxing 1A	GEO	"5,200"	
+Zhongxing 1C	GEO	"5,200"	
+Zhongxing 1D	GEO	"2,500"	
+Zhongxing 20A	GEO	"2,300"	
+Zhongxing 2A	GEO	"5,200"	
+Zhongxing 2C	GEO	"5,200"	
+Zhongxing 2D	GEO	"5,200"	
+Zhongxing 2E	GEO	"5,200"	
+Zhongxing 6B	GEO	"4,600"	
+Zhongxing 6C	GEO	"4,600"	
+Zhongxing 6D	GEO	"5,250"	
+Zhongxing 9	GEO		
+Zhongxing 9B	GEO	"5,500"	
+OHS-5	LEO	55	
+OHS-6	LEO	55	
+OHS-7	LEO	55	
+OHS-8	LEO	55	
+OVS-1A	LEO	55	
+OVS-1B	LEO	55	
+OVS-2A	LEO	55	
+OVS-3	LEO	55	
+OHS-1	LEO	90	
+OHS-2	LEO	90	
+OHS-3	LEO	90	
+OHS-4	LEO	90	
+Ziyuan 1-02C	LEO	"1,500"	
+Ziyuan 1-2D	LEO	"2,650"	
+Ziyuan 3	LEO	"2,650"	
+Ziyuan 3-2	LEO	"2,630"	
+Ziyuan 3-3	LEO	"2,630"	
+Z-Sat	LEO	46	
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+Total Rows: 5499
+Query:
+"Name of Satellite, Alternate Names"	Current Official Name of Satellite	Country/Org of UN Registry	Country of Operator/Owner	Operator/Owner	Users	Purpose	Detailed Purpose	Class of Orbit	Type of Orbit	Longitude of GEO (degrees)	Perigee (km)	Apogee (km)	Eccentricity	Inclination (degrees)	Period (minutes)	Launch Mass (kg.)	 Dry Mass (kg.) 	Power (watts)	Date of Launch	Expected Lifetime (yrs.)	Contractor	Country of Contractor	Launch Site	Launch Vehicle	COSPAR Number	NORAD Number	Comments		Source Used for Orbital Data	Source	Source	Source	Source	Source	Source	Source	
+Perseus M1	Perseus M1	NR	Russia/USA	Dauria Aerospace	Commercial	Communications	Automatic Identification System (AIS)	LEO	Sun-Synchronous	0	607	625	1.29E-03	97.99	96.99	6			6/19/2014		Dauria Aerospace/Canopus Systems	Russia/USA	Dombarovsky Air Base	Dnepr	2014-033AF	40039	Carry an AIS payload.		ZARYA	http://www.spaceflight101.com/dnepr-launch-updates---2014-cluster-launch.html							
+Perseus M2	Perseus M2	NR	Russia/USA	Dauria Aerospace	Commercial	Communications	Automatic Identification System (AIS)	LEO	Sun-Synchronous	0	606	624	1.29E-03	97.99	96.99	6			6/19/2014		Dauria Aerospace/Canopus Systems	Russia/USA	Dombarovsky Air Base	Dnepr	2014-033AD	40037	Carry an AIS payload.		ZARYA	http://www.spaceflight101.com/dnepr-launch-updates---2014-cluster-launch.html							
+Photon Pathstone	Photon Pathstone	USA	New Zealand	Rocket Labs 	Commercial	Technology Development		LEO	Non-Polar Inclined	0	448	457	6.60E-04	45	93.6	20			3/22/2021		Rocket Labs	New Zealand	Rocket Lab Launch Complex 1	Electron	2021-023H	47972	"Test an upgraded version of Rocket Lab’s Photon spacecraft design, which itself is derived from the Electron rocket’s kick stage"		JMSatcat/5_21	https://spaceflightnow.com/2021/03/23/testbed-for-nasa-moon-mission-rides-to-orbit-with-six-other-satellites/							
+Total Rows: 3
+Query:
+"Name of Satellite, Alternate Names"	Current Official Name of Satellite	Country/Org of UN Registry	Country of Operator/Owner	Operator/Owner	Users	Purpose	Detailed Purpose	Class of Orbit	Type of Orbit	Longitude of GEO (degrees)	Perigee (km)	Apogee (km)	Eccentricity	Inclination (degrees)	Period (minutes)	Launch Mass (kg.)	 Dry Mass (kg.) 	Power (watts)	Date of Launch	Expected Lifetime (yrs.)	Contractor	Country of Contractor	Launch Site	Launch Vehicle	COSPAR Number	NORAD Number	Comments		Source Used for Orbital Data	Source	Source	Source	Source	Source	Source	Source	
+Total Rows: 0

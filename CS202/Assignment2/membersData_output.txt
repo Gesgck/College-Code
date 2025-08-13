@@ -1,0 +1,33 @@
+ID firstName lastName bookCount purchaseBill lengthOfMembership discountPercentage discountedAmount finalPrice
+abc123 John Williams 10 125.00 1 14.00 17.50 107.50
+def567 David Miller 4 75.50 0 4.00 3.02 72.48
+st998 Karen Garcia 4 56.40 2 16.00	Invalid ID
+des456 Lisa White 6 94.25 3 17.00 16.02 78.23
+abg114 Anthony Clark 0 65.00 4 15.00	Invalid purchaseBill
+sde554 Betty Hall 5 143.50 4 19.00 27.27 116.23
+gre765 Lisa Diaz 2 55.00 0 0.00 0.00 55.00
+Tra1256 Mark Young 2 33.00 -5 13.00	Invalid ID
+HUT678 Donald Bell 11 560.00 5 20.00 112.00 448.00
+gHn897 Emily Gomez 3 0.00 3 13.00	Invalid purchaseBill
+fed553 Paul Long 4 85.65 2 16.00 13.70 71.95
+kld996 Laura Ortiz 8 456.60 5 20.00 91.32 365.28
+zes653 Jacob Alexander 2 123.80 8 20.00 24.76 99.04
+naS4193 Nicholas James 0 0.00 0 0.00	Invalid ID
+jes661 Anna Ford 5 312.00 7 22.00 68.64 243.36
+Ldt856 Emma Ellis 3 44.50 2 -12.00	Invalid discountPercentage
+KGF999 Raymond Woods 6 555.50 8 24.00 133.32 422.18
+ngo484 Adam Fox 26 1025.50 8 24.00 246.12 779.38
+ghc862 Janet Shaw 3 165.00 9 22.00 36.30 128.70
+vfx538 Debra Burns 4 223.90 3 -9.00	Invalid discountPercentage
+bfz579 Maria Simpson 3 55.00 1 10.00 5.50 49.50
+utm883 Jerry Webb 1 23.50 1 10.00 2.35 21.15
+mdh506 Julie Tucker -3 124.90 2 12.00	Invalid Book purchased count
+cvn679 Kelly Rice 3 254.00 6 17.00 43.18 210.82
+vxg743 Noah Weaver 4 278.00 3 17.00 47.26 230.74
+
+------------+------------+------------+------------+------------+------------+------------+------------+
+Total entries from file : 25
+Valid entries : 17
+Total books Sold : 103
+TotalSaleAmount : 3499.54
+------------+------------+------------+------------+------------+------------+------------+------------+

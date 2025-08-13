@@ -1,0 +1,32 @@
+Jython 1.0.0 -- Oct 20th, 2024.
+Type '#help' for more information.
+
+>>> def repeatString(s string, n int) string {
+...   var str string = ""
+...   while n > 0 {
+...     str += s
+...     n = n - 1
+...   }
+...   return str
+... }
+INFO: Binding variable repeatString in scope.
+INFO: Binding variable s in scope.
+INFO: Binding variable n in scope.
+INFO: Binding variable str in scope.
+INFO: Removing variable str from stack.
+INFO: Removing variable s from stack.
+INFO: Removing variable n from stack.
+INFO: Binding variable repeatString in scope.
+
+>>> print repeatString("hello", 5)
+INFO: Binding variable s in scope.
+INFO: Binding variable n in scope.
+INFO: Binding variable str in scope.
+INFO: Removing variable str from stack.
+INFO: Removing variable s from stack.
+INFO: Removing variable n from stack.
+hellohellohellohellohello
+
+>>> #quit
+INFO: Removing variable repeatString from stack.
+INFO: Removing variable repeatString from stack.

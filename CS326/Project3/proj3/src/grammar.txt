@@ -1,0 +1,260 @@
+
+/**
+ * Version 1.00 February 20, 1991 -- initial release
+ *
+ * [The #showtree option shows a textual representation of the
+ *  AST constructed from the parser.]
+ *
+ * Jython Version 1.00
+ *
+ * Contributing authors:
+ *       Benjamin Cisneros
+ *
+ * Python 1 is an old version of Python that is no longer in used, so
+ * there is not an official BNF grammar available for it. However, I
+ * provide you with a simplified BNF grammar that captures some of the
+ * core elements of early Python syntax. Keep in mind that this is not
+ * a complete or fully accurate representation of Python 1, but rather
+ * a basic approximation to give you an idea of how its grammar might
+ * have looked. This grammar covers basic elements, such as:
+ *       o  Program structure
+ *       o  Simple and compound statements
+ *       o  Basic expressions and arithmetic operations
+ *       o  Variable assignment
+ *       o  Print statements
+ *       o  If-else conditions
+ *       o  While and for loops
+ *       o  Function definitions
+ *       o  Exception handling
+ *       o  Basic data types (integers, floats, strings, and objects)
+ *
+ * It is important to note that this grammar does not capture some
+ * key aspects of Python, such as:
+ *       o List and dictionary literals
+ *       o More complex data types and operations
+ *       o Ternary operator
+ *       o Import modules
+ *       o Complex object-oriented programming features
+ *
+ * These features were either not present in 1991  or would require a
+ * more complex grammar to represent accurately. Additionally, Python's
+ * current grammar is typically defined using a more sophisticated notation
+ * that can handle context-sensitive features like significant indentation.
+ */
+
+//
+// Parser stuff.
+//
+
+script
+ : statement* EOF
+
+statement
+ : simple_stmt
+ | compound_stmt ';'?
+
+simple_stmt
+ : expression_stmt
+ | declaration_stmt
+ | assignment_stmt
+ | print_stmt
+ | pass_stmt
+ | import_stmt
+
+compound_stmt
+ : if_stmt
+ | while_stmt
+ | for_stmt
+ | def_stmt
+ | class_stmt
+ | try_stmt
+ | return_stmt
+
+expression_stmt
+ : expression
+
+declaration_stmt
+ : 'var' identifier type ('=' expression)?
+
+type
+ : value_type
+ | array_type
+ | class_type
+ | 'void'
+
+value_type
+ : 'int'
+ | 'real'
+ | 'string'
+ | 'bool'
+
+array_type
+ : '[' number ']' value_type
+
+class_type
+ : identifier
+
+assignment_stmt
+ : identifier assign_op expression ';'?
+
+assign_op
+ : '='
+ | '+='
+ | '-='
+ | '*='
+ | '/='
+ | '%='
+ | '**='
+
+print_stmt
+ : 'print' expression ';'?
+
+pass_stmt
+ : 'pass' ';'?
+
+import_stmt
+ : 'import' identifier ';'?
+ | 'from' identifier 'import' identifier ';'?
+
+if_stmt
+ : 'if' expression block ('elif' expression block)? ('else' block)?
+
+while_stmt
+ : 'while' expression ':' block
+
+for_stmt
+ : 'for' identifier type 'in' expression block
+
+def_stmt
+ : 'def' identifier '(' parameter_list? ')' type block
+
+class_stmt
+ : 'class' identifier block
+
+try_stmt
+ : 'try' block ('except' expression block)* ('finally' block)?
+
+return_stmt
+ : 'return' expression?
+
+block
+ : ':' statement+
+
+parameter_list
+ : identifier type (',' identifier type )*
+
+expression
+ : or_expr
+
+or_expr
+ : and_expr ('or' and_expr)*
+
+and_expr
+ : not_expr ('and' not_expr)*
+
+not_expr
+ : 'not' not_expr
+ | comparison
+
+comparison
+ : bit_or_expr (comp_op bit_or_expr)*
+
+comp_op
+ : '=='
+ | '<'
+ | '>'
+ | '!='
+ | '<='
+ | '>='
+ | 'is' 'not'?
+
+bit_or_expr
+ : xor_expr ('|' xor_expr)*
+
+xor_expr
+ : bit_and_expr ('^' bit_and_expr)*
+
+bit_and_expr
+ : shift_expr ('&' shift_expr)*
+
+shift_expr
+ : arith_expr (('<<' | '>>') arith_expr)*
+
+arith_expr
+ : term (('+' | '-') term)*
+
+term
+ : factor (('*' | '/' | '%') factor)*
+
+factor
+ : ('+' | '-' | '~') factor
+ | power
+
+power
+ : atom trailer* ('**' factor)?
+
+atom
+ : number
+ | string
+ | boolean
+ | identifier
+ | 'None'
+ | '[' argument_list? ']'
+ | '(' expression ')'
+ ;
+
+trailer
+ : '(' argument_list? ')'
+ | '[' expression ']'
+ | '.' identifier
+
+argument_list
+ : expression (',' expression)*
+
+//
+// Lexer stuff.
+//
+
+number
+ : digit+ ('.' digit+)?
+
+string
+ : '\"' character* '\"'
+
+character
+ : letter | digit | symbol
+
+boolean
+ : 'True' | 'False'
+
+identifier
+ : letter (letter | digit)*
+
+identifier_list
+ : identifier (',' identifier)*
+
+letter
+ : 'A' | 'B' | 'C' | 'D' | 'E' | 'F' |
+ | 'G' | 'H' | 'I' | 'J' | 'K' | 'L' |
+ | 'M' | 'N' | 'O' | 'P' | 'Q' | 'R' |
+ | 'S' | 'T' | 'U' | 'V' | 'W' | 'X' |
+ | 'Y' | 'Z' |
+ | 'a' | 'b' | 'c' | 'd' | 'e' | 'f' |
+ | 'g' | 'h' | 'i' | 'j' | 'k' | 'l' |
+ | 'm' | 'n' | 'o' | 'p' | 'q' | 'r' |
+ | 's' | 't' | 'u' | 'v' | 'w' | 'x' |
+ | 'y' | 'z' |
+
+digit
+ : '0' | '1' | '2' | '3' | '4'
+ | '5' | '6' | '7' | '8' | '9'
+
+boolean
+ : True | False
+
+symbol
+ : ' ' | '!' | '@' | '#' | '$'  | '%'
+ | '^' | '&' | '*' | '(' | ')'  | '-'
+ | '_' | '=' | '+' | '{' | '}'  | '['
+ | ']' | ':' | ';' | '"' | '\'' | '<'
+ | '>' | ',' | '.' | '?' | '/'  | '|'

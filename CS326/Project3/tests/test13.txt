@@ -1,0 +1,131 @@
+Jython 1.0.0 -- Oct 20th, 2024.
+Type '#help' for more information.
+
+>>> def binomial(n int) string {
+...   def fac(x int) int {
+...     if (x == 0) { return 1 }
+...     else { return x * fac(x - 1) }
+...   }
+...   def choose(n int, k int) int {
+...     return fac(n) / fac(n - k) * fac(k)
+...   }
+...   print "(1 + x)^"
+...   print n
+...   print " = 1 + "
+...   print n
+...   print "x + "
+...   var out string = ""
+...   var k int = 2
+...   while k < n {
+...     print choose(n, k)
+...     print "x^"
+...     print k
+...     k = k + 1
+...     print " + "
+...   }
+...   print "x^"
+...   print n
+...   return ""
+... }
+INFO: Binding variable binomial in scope.
+INFO: Binding variable n in scope.
+INFO: Binding variable fac in scope.
+INFO: Binding variable x in scope.
+INFO: Removing variable x from stack.
+INFO: Binding variable choose in scope.
+INFO: Binding variable n in scope.
+INFO: Binding variable k in scope.
+INFO: Removing variable k from stack.
+INFO: Removing variable n from stack.
+INFO: Binding variable out in scope.
+INFO: Binding variable k in scope.
+INFO: Removing variable k from stack.
+INFO: Removing variable n from stack.
+INFO: Removing variable out from stack.
+INFO: Binding variable binomial in scope.
+
+>>> print binomial(4)
+INFO: Binding variable n in scope.
+INFO: Binding variable fac in scope.
+INFO: Binding variable choose in scope.
+(1 + x)^
+4
+ = 1 +
+4
+x +
+INFO: Binding variable out in scope.
+INFO: Binding variable k in scope.
+INFO: Binding variable n in scope.
+INFO: Binding variable k in scope.
+INFO: Binding variable x in scope.
+INFO: Binding variable x in scope.
+INFO: Binding variable x in scope.
+INFO: Binding variable x in scope.
+INFO: Binding variable x in scope.
+INFO: Removing variable x from stack.
+INFO: Removing variable x from stack.
+INFO: Removing variable x from stack.
+INFO: Removing variable x from stack.
+INFO: Removing variable x from stack.
+INFO: Binding variable x in scope.
+INFO: Binding variable x in scope.
+INFO: Binding variable x in scope.
+INFO: Removing variable x from stack.
+INFO: Removing variable x from stack.
+INFO: Removing variable x from stack.
+INFO: Binding variable x in scope.
+INFO: Binding variable x in scope.
+INFO: Binding variable x in scope.
+INFO: Removing variable x from stack.
+INFO: Removing variable x from stack.
+INFO: Removing variable x from stack.
+INFO: Removing variable k from stack.
+INFO: Removing variable n from stack.
+24
+x^
+2
+ +
+INFO: Binding variable n in scope.
+INFO: Binding variable k in scope.
+INFO: Binding variable x in scope.
+INFO: Binding variable x in scope.
+INFO: Binding variable x in scope.
+INFO: Binding variable x in scope.
+INFO: Binding variable x in scope.
+INFO: Removing variable x from stack.
+INFO: Removing variable x from stack.
+INFO: Removing variable x from stack.
+INFO: Removing variable x from stack.
+INFO: Removing variable x from stack.
+INFO: Binding variable x in scope.
+INFO: Binding variable x in scope.
+INFO: Removing variable x from stack.
+INFO: Removing variable x from stack.
+INFO: Binding variable x in scope.
+INFO: Binding variable x in scope.
+INFO: Binding variable x in scope.
+INFO: Binding variable x in scope.
+INFO: Removing variable x from stack.
+INFO: Removing variable x from stack.
+INFO: Removing variable x from stack.
+INFO: Removing variable x from stack.
+INFO: Removing variable k from stack.
+INFO: Removing variable n from stack.
+144
+x^
+3
+ +
+x^
+4
+INFO: Removing variable k from stack.
+INFO: Removing variable n from stack.
+INFO: Removing variable out from stack.
+
+
+>>> #quit
+INFO: Removing variable fac from stack.
+INFO: Removing variable binomial from stack.
+INFO: Removing variable choose from stack.
+INFO: Removing variable fac from stack.
+INFO: Removing variable binomial from stack.
+INFO: Removing variable choose from stack.

@@ -1,0 +1,205 @@
+kishore@kishore-virtual-machine:/CS202_ast3_f22$ make
+g++ -Wall -Wextra -pedantic -std=c++11 -g -c main.cpp
+g++    -c -o personTypeImp.o personTypeImp.cpp
+g++ -Wall -Wextra -pedantic -std=c++11 -g -c patientTypeImp.cpp
+g++ -Wall -Wextra -pedantic -std=c++11 -g -c doctorTypeImp.cpp
+g++ -Wall -Wextra -pedantic -std=c++11 -g -c dateTypeImp.cpp
+g++ -Wall -Wextra -pedantic -std=c++11 -g -c billTypeImp.cpp
+g++ -Wall -Wextra -pedantic -std=c++11 -g -o main main.o personTypeImp.o patientTypeImp.o doctorTypeImp.o dateTypeImp.o billTypeImp.o
+kishore@kishore-virtual-machine:/CS202_ast3_f22$ ./main
+
+######################################################################
+                    Welcome to WE CARE Hospital
+######################################################################
+Specialty is missing for Dr.David
+Doctor Specialty is missing for patient William
+Error: Invalid month entry for Thomas
+Error: Invalid year entry for Thomas
+Error: C9832 is invalid patientID for Charles
+Error: d88888 is invalid patientID for Dennis
+Specialty is missing for Dr.
+Error:  is invalid patientID for 
+Doctor Specialty is missing for patient 
+Error: Invalid year entry for Lara
+
+*****************************************************************
+Patient: Lara King
+Patient ID: L48532
+Attending Physician: Dr.Jerry Nguyen; Specialty: Neurology
+__________________________________________________
+
+*****************************************************************
+Patient: Lara King
+Patient ID: L48532
+Attending Physician: Dr.Jerry Nguyen; Specialty: Neurology
+__________________________________________________
+
+Billing Charges for ID: L48532
+Pharmacy Charges: $1896.50
+Room Charges:     $225.00
+Doctor's Fees:    $345.95
+______________________________ 
+Total Charges:    $2467.45
+
+*****************************************************************
+
+Specialty is missing for Dr.
+Error:  is invalid patientID for 
+Doctor Specialty is missing for patient 
+
+*****************************************************************
+Patient: Frank Lee
+Patient ID: F65780
+Attending Physician: Dr.Bobby Scott; Specialty: Pediatric
+__________________________________________________
+
+Billing Charges for ID: F65780
+Pharmacy Charges: $986.50
+Room Charges:     $76.98
+Doctor's Fees:    $124.95
+______________________________ 
+Total Charges:    $1188.43
+
+*****************************************************************
+
+
+*****************************************************************
+Patient: William John
+Patient ID: W12345
+Attending Physician: Dr.David Jones; Specialty: 
+__________________________________________________
+
+Billing Charges for ID: W12345
+Pharmacy Charges: $245.50
+Room Charges:     $76.98
+Doctor's Fees:    $124.95
+______________________________ 
+Total Charges:    $447.43
+
+*****************************************************************
+
+
+*****************************************************************
+Patient: Thomas Rodriguez
+Patient ID: T12395
+Attending Physician: Dr.Joe Roberts; Specialty: Ophthalmology
+__________________________________________________
+
+Billing Charges for ID: T12395
+Pharmacy Charges: $546.50
+Room Charges:     $120.00
+Doctor's Fees:    $234.55
+______________________________ 
+Total Charges:    $901.05
+
+*****************************************************************
+
+ID mismatch or Invalid ID is passed; ID from BillType: C98327
+
+ID mismatch or Invalid ID is passed; ID from BillType: d88888
+
+
+*****************************************************************
+Patient: Paul John
+Patient ID: P33357
+Attending Physician: Dr.Jose Clark; Specialty: Cardiac
+__________________________________________________
+
+Billing Charges for ID: P33357
+Pharmacy Charges: $5897.65
+Room Charges:     $1720.50
+Doctor's Fees:    $1100.90
+______________________________ 
+Total Charges:    $8719.05
+
+*****************************************************************
+
+
+*****************************************************************
+Patient: Henry Hall
+Patient ID: H97651
+Attending Physician: Dr.Eric Young; Specialty: Neurology
+__________________________________________________
+
+Billing Charges for ID: H97651
+Pharmacy Charges: $1295.00
+Room Charges:     $250.00
+Doctor's Fees:    $600.90
+______________________________ 
+Total Charges:    $2145.90
+
+*****************************************************************
+
+
+*****************************************************************
+Patient: Brian Jackson
+Patient ID: B97893
+Attending Physician: Dr.Walter Flores; Specialty: Cardiac
+__________________________________________________
+
+Billing Charges for ID: B97893
+Pharmacy Charges: $3456.75
+Room Charges:     $2000.00
+Doctor's Fees:    $1300.00
+______________________________ 
+Total Charges:    $6756.75
+
+*****************************************************************
+
+
+*****************************************************************
+Patient: Jeffrey Lewis
+Patient ID: J91761
+Attending Physician: Dr.Fred Baker; Specialty: Radiology
+__________________________________________________
+
+Billing Charges for ID: J91761
+Pharmacy Charges: $4256.90
+Room Charges:     $100.00
+Doctor's Fees:    $180.00
+______________________________ 
+Total Charges:    $4536.90
+
+*****************************************************************
+
+Specialty is missing for Dr.
+Error:  is invalid patientID for 
+Doctor Specialty is missing for patient 
+
+*****************************************************************
+Patient:  
+Patient ID: A93472
+Attending Physician: Dr. ; Specialty: 
+__________________________________________________
+
+Billing Charges for ID: A93472
+Pharmacy Charges: $2356.75
+Room Charges:     $425.75
+Doctor's Fees:    $125.25
+______________________________ 
+Total Charges:    $2907.75
+
+*****************************************************************
+End of Patients Data
+
+######################################################################
+Specialty is missing for Dr.Kevin
+Specialty is missing for Dr.David
+
+######################################################################
+Dr.Kevin Perez; Specialty: 
+Dr.David Jones; Specialty: 
+Dr.Joe Roberts; Specialty: Opthamology
+Dr.Donald Wilson; Specialty: Pediatrics
+Dr.Jose Clark; Specialty: Cardiac
+Dr.Patrick Green; Specialty: Pathology
+Dr.Eric Young; Specialty: Neurology
+Dr.Walter Flores; Specialty: Cardiac
+Dr.Fred Baker; Specialty: Radiology
+Dr.Steven Taylor; Specialty: Radiology
+Dr.Anthony Lee; Specialty: Anesthesiology
+
+######################################################################
+kishore@kishore-virtual-machine:/CS202_ast3_f22$ 
+
+

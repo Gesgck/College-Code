@@ -1,0 +1,275 @@
+def match(check: string)
+begin
+	if(check == token){
+		accept()
+	}else
+		error()
+    endif
+end
+
+def parseProgram()
+begin
+    if(token == "Statement")
+        match("Statement")
+        parseStatement
+    endif
+end
+
+def parseStatements()
+begin
+    if(token == "Statement")
+        match("Statement")
+        parseStatement()
+        match("Statements′")
+        parseStatements′()
+    else
+        error()
+    endif
+end
+
+def parseStatements'()
+begin
+    if(token == "Statement")
+        match("Statement")
+        parseStatement()
+        match("Statements′")
+        parseStatements′()
+    elseif(token == "ϵ")
+        match("ϵ")
+    else
+        error()
+    endif
+end
+
+def parseStatement()
+begin
+    if(token == "IfStatement")
+        match("IfStatement")
+        parseIfStatement()
+    elseif(token == "Assignment")
+        match("Assignment")
+        parseAssignment()
+    elseif(token == "Block")
+        match("Block")
+        parseBlock()
+    elseif(token == "LocalDecl")
+        match("LocalDecl")
+        parseLocalDecl()
+    else
+        error()
+    endif
+end
+
+def parseType()
+begin
+    if(token == "int")
+        match("int")
+    elseif(token == "real")
+        match("real")
+    else
+        error()
+    endif
+end
+
+def parseLocalDecl()
+begin
+    if(token == "def")
+        match("def")
+        match("id")
+        match(":")
+        match("type")
+        parseType();
+    else
+        error()
+    endif
+end
+
+def parseBlock()
+begin
+    if(token == "begin")
+        match("def")
+        match("Statement")
+        parseStatement()
+        match("end")
+    else
+        error()
+    endif
+end
+
+def IfStatement()
+begin
+    if(token == "if")
+        match("if")
+        match("(")
+        match("RelationalExpr")
+        parseRelationalExpr()
+        match(")")
+        match("then")
+        match("Statement")
+        parseStatement()
+        match("IfStatement′")
+        parseIf Statement′()
+    else
+        error()
+    endif
+end
+
+def IfStatement'()
+begin
+    if(token == "endif")
+        match("if")
+    elseif(token == "else")
+        match("else")
+        match("Statements")
+        parseStatements()
+        match("endif")
+    else
+        error()
+    endif
+end
+
+def IfAssignment()
+begin
+    if(token == "ID")
+        match("ID")
+        match("=")
+        match("Expression")
+        parseExpression()
+    else
+        error()
+    endif
+end
+
+def IfExpression()
+begin
+    if(token == "Term")
+        match("Term")
+        parseTerm()
+        match("Expression′")
+        parseExpression'()
+    else
+        error()
+    endif
+end
+
+def IfExpression′()
+begin
+    if(token == "+")
+        match("+")
+        match("Term")
+        parseTerm()
+        match("Expression'")
+        parseExpression'()
+    elseif(token == "-")
+        match("-")
+        match("Term")
+        parseTerm()
+        match("Expression'")
+        parseExpression'()
+    elseif(token == "ϵ")
+        match("ϵ")
+    else
+        error()
+    endif
+end
+
+def parseTerm()
+begin
+    if(token == "Factor")
+        match("Factor")
+        parseFactor()
+        match("Term′")
+        parseTerm′()
+    else
+        error()
+    endif
+end
+
+def parseTerm'()
+begin
+    if(token == "*")
+        match("*")
+        match("Factor")
+        parseFactor()
+        match("Term′")
+        parseTerm′()
+    elseif(token == "/")
+        match("/")
+        match("Factor")
+        parseFactor()
+        match("Term′")
+        parseTerm′()
+    elseif(token == "ϵ")
+        match("ϵ")
+    else
+        error()
+    endif
+end
+
+def parseFactor()
+begin
+    if(token == "(")
+        match("(")
+        match("Expression")
+        parseExpression()
+        match(")")
+    elseif(token == "ID")
+        match("ID")
+    elseif(token == "INTEGER-LITERAL")
+        match("INTEGER-LITERAL")
+    elseif(token == "REAL-LITERAL")
+        match("REAL-LITERAL")
+    else
+        error()
+    endif
+end
+
+def parseRelationalExpr()
+begin
+    if(token == "Expression")
+        match("Expression")
+        parseExpression()
+        match("RelationalExpr′")
+        parseRelationalExpr′()
+    else
+        error()
+    endif
+end
+
+def parseRelationalExpr'()
+begin
+    if(token == "<")
+        match("<")
+        match("Expression")
+        parseExpression()
+    elseif(token == ">")
+        match(">")
+        match("Expression")
+        parseExpression()
+    elseif(token == "<=")
+        match("<=")
+        match("Expression")
+        parseExpression()
+    elseif(token == ">=")
+        match(">=")
+        match("Expression")
+        parseExpression()
+    elseif(token == "==")
+        match("==")
+        match("Expression")
+        parseExpression()
+    elseif(token == "!=")
+        match("!=")
+        match("Expression")
+        parseExpression()
+    else
+        error()
+    endif
+end
+
+begin
+    parseProgram()
+    if(token != "$")
+        error()
+    endif
+end

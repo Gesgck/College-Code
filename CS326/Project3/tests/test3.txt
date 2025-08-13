@@ -1,0 +1,24 @@
+Jython 1.0.0 -- Oct 20th, 2024.
+Type '#help' for more information.
+
+>>> var n [3]int = [1,2,4]
+INFO: Binding variable n in scope.
+INFO: Binding variable n in scope.
+
+>>> for i int in n {
+...   var c int = i
+... }
+INFO: Binding variable i in scope.
+INFO: Binding variable c in scope.
+INFO: Removing variable c from stack.
+INFO: Binding variable i in scope.
+INFO: Binding variable c in scope.
+ERROR: Variable c already bound.
+ERROR: Variable c already bound.
+INFO: Removing variable c from stack.
+
+>>> #quit
+INFO: Removing variable i from stack.
+INFO: Removing variable n from stack.
+INFO: Removing variable i from stack.
+INFO: Removing variable n from stack.

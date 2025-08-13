@@ -1,0 +1,141 @@
+switch (rhs.degree)
+        {
+        case 10:
+            //std::cout<<"Check 1\n";
+            if(rhs.polyExpr[10]!=0){
+            if(rhs.polyExpr[10] < 0)
+                rhs.polyExpr[10] = -rhs.polyExpr[10];
+            std::cout<<rhs.polyExpr[10]<<"x^10";
+            if(rhs.polyExpr[9] < 0){
+                out <<" - ";
+            }
+            else{
+                out <<" + ";
+            }
+            }
+        case 9:
+            if(rhs.polyExpr[9]!=0){
+            //std::cout<<"Check 2\n";
+            if(rhs.polyExpr[9] < 0)
+                rhs.polyExpr[9] = -rhs.polyExpr[9];
+            out<<rhs.polyExpr[9]<<"x^9";
+            if(rhs.polyExpr[8] < 0){
+                out <<" - ";
+            }
+            else{
+                out <<" + ";
+            }
+            }
+        case 8:
+            if(rhs.polyExpr[8]!=0){
+            //std::cout<<"Check 3\n";
+            if(rhs.polyExpr[8] < 0)
+                rhs.polyExpr[8] = -rhs.polyExpr[8];
+            out<<rhs.polyExpr[8]<<"x^8";
+            if(rhs.polyExpr[7] < 0){
+                out <<" - ";
+            }
+            else{
+                out <<" + ";
+            }
+            }
+        case 7:
+            if(rhs.polyExpr[7]!=0){
+            //std::cout<<"Check 4\n";
+            if(rhs.polyExpr[7] < 0)
+                rhs.polyExpr[7] = -rhs.polyExpr[7];
+            out<<rhs.polyExpr[7]<<"x^7";
+            if(rhs.polyExpr[6] < 0){
+                out <<" - ";
+            }
+            else{
+                out <<" + ";
+            }
+            }
+        case 6:
+            if(rhs.polyExpr[6]!=0){
+            //std::cout<<"Check 5\n";
+            if(rhs.polyExpr[6] < 0)
+                rhs.polyExpr[6] = -rhs.polyExpr[6];
+            out<<rhs.polyExpr[6]<<"x^6";
+            if(rhs.polyExpr[5] < 0){
+                out <<" - ";
+            }
+            else{
+                out <<" + ";
+            }
+            }
+        case 5:
+            if(rhs.polyExpr[5]!=0){
+            //std::cout<<"Check 6\n";
+            if(rhs.polyExpr[5] < 0)
+                rhs.polyExpr[5] = -rhs.polyExpr[5];
+            out<<rhs.polyExpr[5]<<"x^5";
+            if(rhs.polyExpr[4] < 0){
+                out <<" - ";
+            }
+            else{
+                out <<" + ";
+            }
+            }
+        case 4:
+            if(rhs.polyExpr[4]!=0){
+            //std::cout<<"Check 7\n";
+            if(rhs.polyExpr[4] < 0)
+                rhs.polyExpr[4] = -rhs.polyExpr[4];
+            out<<rhs.polyExpr[4]<<"x^4";
+            if(rhs.polyExpr[3] < 0){
+                out <<" - ";
+            }
+            else{
+                out <<" + ";
+            }
+            }
+        case 3:
+            if(rhs.polyExpr[3]!=0){
+            //std::cout<<"Check 8\n";
+            if(rhs.polyExpr[3] < 0)
+                rhs.polyExpr[3] = -rhs.polyExpr[3];
+            out<<rhs.polyExpr[3]<<"x^3";
+            if(rhs.polyExpr[2] < 0){
+                out <<" - ";
+            }
+            else{
+                out <<" + ";
+            }
+            }
+        case 2:
+            if(rhs.polyExpr[2]!=0){
+            //std::cout<<"Check 9\n";
+            if(rhs.polyExpr[2] < 0)
+                rhs.polyExpr[2] = -rhs.polyExpr[2];
+            out<<rhs.polyExpr[2]<<"x^2";
+            if(rhs.polyExpr[1] < 0){
+                out <<" - ";
+            }
+            else{
+                out <<" + ";
+            }
+            }
+        case 1:
+            if(rhs.polyExpr[1]!=0){
+            //std::cout<<"Check 10\n";
+            if(rhs.polyExpr[1] < 0)
+                rhs.polyExpr[1] = -rhs.polyExpr[1];
+            out<<rhs.polyExpr[1]<<"x";
+            if(rhs.polyExpr[0] < 0){
+                out <<" - ";
+            }
+            else{
+                out <<" + ";
+            }
+            }
+        default:
+            if(rhs.polyExpr[0]!=0){
+            //std::cout<<"Check 11\n";
+            if(rhs.polyExpr[0] < 0)
+                rhs.polyExpr[0] = -rhs.polyExpr[0];
+            out<<rhs.polyExpr[0];
+            return out;
+            }
+        }

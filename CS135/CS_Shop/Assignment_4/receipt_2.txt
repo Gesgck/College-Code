@@ -1,0 +1,24 @@
+
+/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\
+|                                      |
+|             UNLV CS Shop             |
+|         4505 S Maryland Pkwy         |
+|          Las Vegas,NV 89154          |
+|            (702) 895-3011            |
+|                                      |
+| Mouse                      15.95 x 1 |
+| Keyboard                   15.95 x 1 |
+| Mouse Pad                   4.99 x 2 |
+| Drink                       1.29 x 3 |
+| Chips                       1.49 x 3 |
+|                                      |
+| Subtotal                       50.22 |
+| Tax Rate                       8.25% |
+| Tax                             4.15 |
+| Total                          54.37 |
+|                                      |
+| Card Sale                            |
+| Type                            Visa |
+| Card                XXXXXXXXXXXX2345 |
+|                                      |
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/

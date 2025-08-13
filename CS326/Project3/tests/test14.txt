@@ -1,0 +1,19 @@
+Jython 1.0.0 -- Oct 20th, 2024.
+Type '#help' for more information.
+
+>>> def square(x real) real {
+...   return x * x
+... }
+INFO: Binding variable square in scope.
+INFO: Binding variable x in scope.
+INFO: Removing variable x from stack.
+INFO: Binding variable square in scope.
+
+>>> print square(4.0)
+INFO: Binding variable x in scope.
+INFO: Removing variable x from stack.
+16.0
+
+>>> #quit
+INFO: Removing variable square from stack.
+INFO: Removing variable square from stack.
