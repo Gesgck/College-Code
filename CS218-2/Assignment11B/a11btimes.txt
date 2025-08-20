@@ -1,0 +1,35 @@
+***************************************
+Large Buffer Timed Executions
+
+-------------------
+Large Buffer, Timed Test #1
+
+real	0m3.201s
+user	0m2.239s
+sys	0m0.745s
+
+-------------------
+Large Buffer, Timed Test #2
+
+real	0m3.067s
+user	0m2.155s
+sys	0m0.742s
+
+
+***************************************
+Small Buffer Timed Executions
+
+-------------------
+
+real	1m23.448s
+user	0m12.266s
+sys	1m11.054s
+
+-------------------
+Small Buffer, Timed Test #2
+
+real	1m24.898s
+user	0m13.024s
+sys	1m11.764s
+
+

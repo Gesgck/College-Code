@@ -1,0 +1,1017 @@
+     1                                 %line 1+1 ast07.asm
+     2                                 
+     3                                 
+     4                                 
+     5                                 
+     6                                 
+     7                                 
+     8                                 
+     9                                 
+    10                                 
+    11                                 
+    12                                 
+    13                                 
+    14                                 
+    15                                 
+    16                                 
+    17                                 
+    18                                 
+    19                                 %line 50+1 ast07.asm
+    20                                 
+    21                                 
+    22                                 
+    23                                 
+    24                                 
+    25                                 
+    26                                 
+    27                                 
+    28                                 
+    29                                 
+    30                                 
+    31                                 
+    32                                 %line 90+1 ast07.asm
+    33                                 
+    34                                 
+    35                                 
+    36                                 [section .data]
+    37                                 
+    38                                 
+    39                                 
+    40                                 
+    41                                 TRUE equ 1
+    42                                 FALSE equ 0
+    43                                 
+    44                                 EXIT_SUCCESS equ 0
+    45                                 
+    46                                 STDIN equ 0
+    47                                 STDOUT equ 1
+    48                                 STDERR equ 2
+    49                                 
+    50                                 SYS_read equ 0
+    51                                 SYS_write equ 1
+    52                                 SYS_open equ 2
+    53                                 SYS_close equ 3
+    54                                 SYS_fork equ 57
+    55                                 SYS_exit equ 60
+    56                                 SYS_creat equ 85
+    57                                 SYS_time equ 201
+    58                                 
+    59                                 LF equ 10
+    60                                 SPACE equ " "
+    61                                 NULL equ 0
+    62                                 ESC equ 27
+    63                                 
+    64                                 
+    65                                 
+    66                                 
+    67                                 STR_LENGTH equ 15
+    68                                 
+    69                                 
+    70                                 
+    71                                 
+    72 00000000 9300000063040000C5-    lst dd 147, 1123, 2245, 4440, 165
+    73 00000000 08000058110000A500-
+    74 00000000 0000               
+    75 00000014 450000007E0000003B-     dd 69, 126, 571, 147, 228
+    76 00000014 02000093000000E400-
+    77 00000014 0000               
+    78 00000028 1B0000005A000000B1-     dd 27, 90, 177, 75, 14
+    79 00000028 0000004B0000000E00-
+    80 00000028 0000               
+    81 0000003C B5000000190000000F-     dd 181, 25, 15, 22, 1217
+    82 0000003C 00000016000000C104-
+    83 0000003C 0000               
+    84 00000050 7F000000400000008C-     dd 127, 64, 140, 172, 24
+    85 00000050 000000AC0000001800-
+    86 00000050 0000               
+    87 00000064 710800008600000097-     dd 2161, 134, 151, 32, 12
+    88 00000064 000000200000000C00-
+    89 00000064 0000               
+    90 00000078 59040000D004000062-     dd 1113, 1232, 2146, 3376, 5120
+    91 00000078 080000300D00000014-
+    92 00000078 0000               
+    93 0000008C 340900005C0C000005-     dd 2356, 3164, 34565, 3155, 23157
+    94 0000008C 870000530C0000755A-
+    95 0000008C 0000               
+    96 000000A0 E90300008000000021-     dd 1001, 128, 33, 105, 8327
+    97 000000A0 000000690000008720-
+    98 000000A0 0000               
+    99 000000B4 65000000730000006C-     dd 101, 115, 108, 12233, 2115
+   100 000000B4 000000C92F00004308-
+   101 000000B4 0000               
+   102 000000C8 CB040000CA04000009-     dd 1227, 1226, 5129, 117, 107
+   103 000000C8 140000750000006B00-
+   104 000000C8 0000               
+   105 000000DC 690000006D000000DA-     dd 105, 109, 730, 150, 3414
+   106 000000DC 02000096000000560D-
+   107 000000DC 0000               
+   108 000000F0 53040000D7170000DD-     dd 1107, 6103, 1245, 6440, 465
+   109 000000F0 04000028190000D101-
+   110 000000F0 0000               
+   111 00000104 07090000FE000000B0-     dd 2311, 254, 4528, 913, 6722
+   112 00000104 11000091030000421A-
+   113 00000104 0000               
+   114 00000118 7D0400004E08000027-     dd 1149, 2126, 5671, 4647, 4628
+   115 00000118 160000271200001412-
+   116 00000118 0000               
+   117 0000012C 4701000056090000B1-     dd 327, 2390, 177, 8275, 5614
+   118 0000012C 00000053200000EE15-
+   119 0000012C 0000               
+   120 00000140 310C00009F01000067-     dd 3121, 415, 615, 22, 7217
+   121 00000140 02000016000000311C-
+   122 00000140 0000               
+   123 00000154 C50400002200000007-     dd 1221, 34, 6151, 432, 114
+   124 00000154 180000B00100007200-
+   125 00000154 0000               
+   126 00000168 75020000720000000A-     dd 629, 114, 522, 2413, 131
+   127 00000168 0200006D0900008300-
+   128 00000168 0000               
+   129 0000017C 071600007E0000003E-     dd 5639, 126, 62, 41, 127
+   130 0000017C 000000290000007F00-
+   131 0000017C 0000               
+   132 00000190 350800008500000085-     dd 2101, 133, 133, 50, 4532
+   133 00000190 00000032000000B411-
+   134 00000190 0000               
+   135 000001A4 C30400002C0C00003E-     dd 1219, 3116, 62, 17, 127
+   136 000001A4 000000110000007F00-
+   137 000001A4 0000               
+   138 000001B8 831A0000D91100004F-     dd 6787, 4569, 79, 15675, 14
+   139 000001B8 0000003B3D00000E00-
+   140 000001B8 0000               
+   141 000001CC C91E0000802000008B-     dd 7881, 8320, 3467, 4559, 1190
+   142 000001CC 0D0000CF110000A604-
+   143 000001CC 0000               
+   144 000001E0 BA0000008600000065-     dd 186, 134, 1125, 5675, 3476
+   145 000001E0 0400002B160000940D-
+   146 000001E0 0000               
+   147 000001F4 59080000410800006F-     dd 2137, 2113, 1647, 114, 15
+   148 000001F4 060000720000000F00-
+   149 000001F4 0000               
+   150 00000208 AB190000C81D000080-     dd 6571, 7624, 128, 113, 3112
+   151 00000208 00000071000000280C-
+   152 00000208 0000               
+   153 0000021C 6104000040010000BC-     dd 1121, 320, 4540, 5679, 1190
+   154 0000021C 1100002F160000A604-
+   155 0000021C 0000               
+   156 00000230 A5230000740000007A-     dd 9125, 116, 122, 117, 127
+   157 00000230 000000750000007F00-
+   158 00000230 0000               
+   159 00000244 2D160000650000008F-     dd 5677, 101, 3727, 125, 3184
+   160 00000244 0E00007D000000700C-
+   161 00000244 0000               
+   162 00000258 500400007C00000070-     dd 1104, 124, 112, 143, 176
+   163 00000258 0000008F000000B000-
+   164 00000258 0000               
+   165 0000026C 6E1D00004E080000E0-     dd 7534, 2126, 6112, 156, 1103
+   166 0000026C 1700009C0000004F04-
+   167 0000026C 0000               
+   168 00000280 671A0000B61800007B-     dd 6759, 6326, 2171, 147, 5628
+   169 00000280 08000093000000FC15-
+   170 00000280 0000               
+   171 00000294 671D0000911D000069-     dd 7527, 7569, 3177, 6785, 3514
+   172 00000294 0C0000811A0000BA0D-
+   173 00000294 0000               
+   174 000002A8 84040000A400000045-     dd 1156, 164, 4165, 155, 5156
+   175 000002A8 1000009B0000002414-
+   176 000002A8 0000               
+   177 000002BC 02160000661D000055-     dd 5634, 7526, 3413, 7686, 7563
+   178 000002BC 0D0000061E00008B1D-
+   179 000002BC 0000               
+   180 000002D0 63080000710000008F-     dd 2147, 113, 143, 140, 165
+   181 000002D0 0000008C000000A500-
+   182 000002D0 0000               
+   183 000002E4 59160000EF150000D8-     dd 5721, 5615, 4568, 7813, 1231
+   184 000002E4 110000851E0000CF04-
+   185 000002E4 0000               
+   186 000002F8 97150000DC1800004A-     dd 5527, 6364, 330, 172, 24
+   187 000002F8 010000AC0000001800-
+   188 000002F8 0000               
+   189 0000030C 651D0000F01500001E-     dd 7525, 5616, 5662, 6328, 2342
+   190 0000030C 160000B81800002609-
+   191 0000030C 0000               
+   192                                 
+   193 00000320 C8000000               len dd 200
+   194                                 
+   195                                 
+   196 00000324 00000000               min dd 0
+   197 00000328 00000000               med dd 0
+   198 0000032C 00000000               max dd 0
+   199 00000330 00000000               sum dd 0
+   200 00000334 00000000               avg dd 0
+   201                                 
+   202                                 
+   203                                 
+   204                                 
+   205                                 
+   206                                 
+   207                                 
+   208                                 
+   209                                 
+   210 00000338 0A00                   newLine db LF, NULL
+   211                                 
+   212 0000033A 0A2D2D2D2D2D2D2D2D-    hdr db LF, "---------------------------"
+   213 0000033A 2D2D2D2D2D2D2D2D2D-
+   214 0000033A 2D2D2D2D2D2D2D2D2D-
+   215 0000033A 2D                 
+   216 00000356 2D2D2D2D2D2D2D2D2D-     db "---------------------------"
+   217 00000356 2D2D2D2D2D2D2D2D2D-
+   218 00000356 2D2D2D2D2D2D2D2D2D 
+   219 00000371 0A1B5B316D43532032-     db LF, ESC, "[1m", "CS 218 - Assignment #7", ESC, "[0m"
+   220 00000371 3138202D2041737369-
+   221 00000371 676E6D656E74202337-
+   222 00000371 1B5B306D           
+   223 00000390 0A4F64642F4576656E-     db LF, "Odd/Even Sort", LF, LF, NULL
+   224 00000390 20536F72740A0A00   
+   225                                 
+   226 000003A1 4D696E696D756D3A20-    hdrMin db "Minimum:  ", NULL
+   227 000003A1 2000               
+   228 000003AC 4D6178696D756D3A20-    hdrMax db "Maximum:  ", NULL
+   229 000003AC 2000               
+   230 000003B7 4D656469616E3A2020-    hdrMed db "Median:   ", NULL
+   231 000003B7 2000               
+   232 000003C2 53756D3A2020202020-    hdrSum db "Sum:      ", NULL
+   233 000003C2 2000               
+   234 000003CD 417665726167653A20-    hdrAve db "Average:  ", NULL
+   235 000003CD 2000               
+   236                                 
+   237                                 
+   238                                 
+   239                                 [section .bss]
+   240                                 
+   241 00000000 <gap>                  tmpString resb STR_LENGTH
+   242                                 
+   243                                 
+   244                                 
+   245                                 [section .text]
+   246                                 [global _start]
+   247                                 _start:
+   248                                 
+   249                                 
+   250                                 
+   251                                 
+   252                                 
+   253                                 
+   254                                 
+   255                                 
+   256                                 
+   257                                 
+   258                                 
+   259                                 
+   260                                 
+   261                                 
+   262                                 
+   263                                 
+   264                                 
+   265                                 
+   266                                 
+   267                                 
+   268                                 
+   269                                 
+   270                                 
+   271                                 
+   272                                 
+   273 00000000 49C7C700000000         mov r15, FALSE
+   274 00000007 49C7C0[00000000]       mov r8, lst
+   275 0000000E 448B0C25[00000000]     mov r9d, dword[len]
+   276 00000016 49FFC9                 dec r9
+   277                                 loopStart:
+   278 00000019 49C7C701000000         mov r15, TRUE
+   279 00000020 48C7C100000000         mov rcx, 0
+   280                                 oddLoop:
+   281 00000027 48FFC1                 inc rcx
+   282 0000002A 4C39C9                 cmp rcx, r9
+   283 0000002D 7325                   jae oddSkip
+   284 0000002F 458B1488               mov r10d, dword[r8+rcx*4]
+   285 00000033 48FFC1                 inc rcx
+   286 00000036 458B1C88               mov r11d, dword[r8+rcx*4]
+   287 0000003A 4539DA                 cmp r10d, r11d
+   288 0000003D 73E6                   jae oddLoop
+   289 0000003F 45891488               mov dword[r8+rcx*4], r10d
+   290 00000043 48FFC9                 dec rcx
+   291 00000046 45891C88               mov dword[r8+rcx*4], r11d
+   292 0000004A 48FFC1                 inc rcx
+   293 0000004D 49C7C700000000         mov r15, FALSE
+   294 00000054 EBCF                   jmp oddLoop
+   295                                 oddSkip:
+   296 00000056 48C7C100000000         mov rcx, 0
+   297                                 evenLoop:
+   298 0000005D 4C39C9                 cmp rcx, r9
+   299 00000060 732E                   jae evenSkip
+   300 00000062 458B1488               mov r10d, dword[r8+rcx*4]
+   301 00000066 48FFC1                 inc rcx
+   302 00000069 458B1C88               mov r11d, dword[r8+rcx*4]
+   303 0000006D 48FFC1                 inc rcx
+   304 00000070 4539DA                 cmp r10d, r11d
+   305 00000073 73E6                   jae evenLoop
+   306 00000075 48FFC9                 dec rcx
+   307 00000078 45891488               mov dword[r8+rcx*4], r10d
+   308 0000007C 48FFC9                 dec rcx
+   309 0000007F 45891C88               mov dword[r8+rcx*4], r11d
+   310 00000083 48FFC1                 inc rcx
+   311 00000086 48FFC1                 inc rcx
+   312 00000089 49C7C700000000         mov r15, FALSE
+   313 00000090 EBC9                   jmp evenLoop
+   314                                 evenSkip:
+   315 00000092 4983FF00               cmp r15, FALSE
+   316 00000096 747F                   je loopStart
+   317                                 
+   318                                 
+   319                                 
+   320                                 
+   321                                 
+   322                                 
+   323                                 
+   324                                 
+   325                                 
+   326 00000098 48C7C1[00000000]       mov rcx, lst
+   327 0000009F 8B0425[00000000]       mov eax, dword[lst]
+   328 000000A6 890425[00000000]       mov dword[min], eax
+   329 000000AD 48C7C300000000         mov rbx, 0
+   330 000000B4 8B1C25[00000000]       mov ebx, dword[len]
+   331 000000BB 48FFCB                 dec rbx
+   332 000000BE 8B0499                 mov eax, dword[rcx+rbx*4]
+   333 000000C1 890425[00000000]       mov dword[max], eax
+   334 000000C8 48FFC3                 inc rbx
+   335 000000CB 4889D8                 mov rax, rbx
+   336 000000CE 48C7C302000000         mov rbx, 2
+   337 000000D5 48F7F3                 div rbx
+   338 000000D8 8B1C81                 mov ebx, dword[rcx+rax*4]
+   339 000000DB 48FFC8                 dec rax
+   340 000000DE 031C81                 add ebx, dword[rcx+rax*4]
+   341 000000E1 4889D8                 mov rax, rbx
+   342 000000E4 48C7C302000000         mov rbx, 2
+   343 000000EB F7F3                   div ebx
+   344 000000ED 6699                   cwd
+   345 000000EF 890425[00000000]       mov dword[med], eax
+   346                                 
+   347 000000F6 48C7C000000000         mov rax, 0
+   348 000000FD 48C7C100000000         mov rcx, 0
+   349 00000104 8B0C25[00000000]       mov ecx,dword[len]
+   350 0000010B 48FFC9                 dec rcx
+   351 0000010E 48C7C2[00000000]       mov rdx, lst
+   352                                 sumLoop:
+   353 00000115 03048A                 add eax, dword[rdx+rcx*4]
+   354 00000118 48FFC9                 dec rcx
+   355 0000011B 4883F900               cmp rcx, 0
+   356 0000011F 7DF2                   jge sumLoop
+   357 00000121 890425[00000000]       mov dword[sum], eax
+   358 00000128 99                     cdq
+   359 00000129 8B1C25[00000000]       mov ebx, dword[len]
+   360 00000130 F7F3                   div ebx
+   361 00000132 6699                   cwd
+   362 00000134 890425[00000000]       mov dword[avg], eax
+   363                                 
+   364                                 
+   365                                 
+   366                                 
+   367                                 
+   368 0000013B 50                      push rax
+   369                                 %line 331+0 ast07.asm
+   370 0000013C 57                      push rdi
+   371 0000013D 56                      push rsi
+   372 0000013E 52                      push rdx
+   373 0000013F 51                      push rcx
+   374                                 
+   375 00000140 48C7C200000000          mov rdx, 0
+   376 00000147 48C7C7[00000000]        mov rdi, hdr
+   377                                 ..@4.countLoop:
+   378 0000014E 803F00                  cmp byte [rdi], NULL
+   379 00000151 7406                    je ..@4.countLoopDone
+   380 00000153 48FFC7                  inc rdi
+   381 00000156 48FFC2                  inc rdx
+   382 00000159 EBF1                    jmp ..@4.countLoop
+   383                                 ..@4.countLoopDone:
+   384                                 
+   385 0000015B 48C7C001000000          mov rax, SYS_write
+   386 00000162 48C7C701000000          mov rdi, STDOUT
+   387 00000169 48C7C6[00000000]        mov rsi, hdr
+   388 00000170 0F05                    syscall
+   389                                 
+   390 00000172 59                      pop rcx
+   391 00000173 5A                      pop rdx
+   392 00000174 5E                      pop rsi
+   393 00000175 5F                      pop rdi
+   394 00000176 58                      pop rax
+   395                                 %line 332+1 ast07.asm
+   396                                 
+   397 00000177 50                      push rax
+   398                                 %line 333+0 ast07.asm
+   399 00000178 57                      push rdi
+   400 00000179 56                      push rsi
+   401 0000017A 52                      push rdx
+   402 0000017B 51                      push rcx
+   403                                 
+   404 0000017C 48C7C200000000          mov rdx, 0
+   405 00000183 48C7C7[00000000]        mov rdi, hdrMin
+   406                                 ..@5.countLoop:
+   407 0000018A 803F00                  cmp byte [rdi], NULL
+   408 0000018D 7406                    je ..@5.countLoopDone
+   409 0000018F 48FFC7                  inc rdi
+   410 00000192 48FFC2                  inc rdx
+   411 00000195 EBF1                    jmp ..@5.countLoop
+   412                                 ..@5.countLoopDone:
+   413                                 
+   414 00000197 48C7C001000000          mov rax, SYS_write
+   415 0000019E 48C7C701000000          mov rdi, STDOUT
+   416 000001A5 48C7C6[00000000]        mov rsi, hdrMin
+   417 000001AC 0F05                    syscall
+   418                                 
+   419 000001AE 59                      pop rcx
+   420 000001AF 5A                      pop rdx
+   421 000001B0 5E                      pop rsi
+   422 000001B1 5F                      pop rdi
+   423 000001B2 58                      pop rax
+   424                                 %line 334+1 ast07.asm
+   425                                 
+   426                                 %line 334+0 ast07.asm
+   427 000001B3 48C7C100000000         mov rcx, 0
+   428 000001BA 8B0425[00000000]       mov eax, dword [min]
+   429 000001C1 49C7C206000000         mov r10, 6
+   430 000001C8 49C7C0[00000000]       mov r8, tmpString
+   431                                 ..@6.mConvert6:
+   432 000001CF 99                     cdq
+   433 000001D0 41F7F2                 div r10d
+   434 000001D3 52                     push rdx
+   435 000001D4 48FFC1                 inc rcx
+   436 000001D7 83F800                 cmp eax, 0
+   437 000001DA 75F1                   jne ..@6.mConvert6
+   438 000001DC 48C7C30E000000         mov rbx, 14
+   439 000001E3 4829CB                 sub rbx, rcx
+   440 000001E6 48C7C100000000         mov rcx, 0
+   441                                 ..@6.mRightJust:
+   442 000001ED 41C60020               mov [r8], byte ' '
+   443 000001F1 49FFC0                 inc r8
+   444 000001F4 48FFC1                 inc rcx
+   445 000001F7 4839CB                 cmp rbx, rcx
+   446 000001FA 75EF                   jne ..@6.mRightJust
+   447                                 ..@6.mPopLoop:
+   448 000001FC 48FFC1                 inc rcx
+   449 000001FF 58                     pop rax
+   450 00000200 4883C030               add rax, 0x30
+   451 00000204 498900                 mov [r8], rax
+   452 00000207 49FFC0                 inc r8
+   453 0000020A 4883F90E               cmp rcx, 14
+   454 0000020E 75EA                   jne ..@6.mPopLoop
+   455                                 
+   456                                 %line 335+1 ast07.asm
+   457 00000210 50                      push rax
+   458                                 %line 335+0 ast07.asm
+   459 00000211 57                      push rdi
+   460 00000212 56                      push rsi
+   461 00000213 52                      push rdx
+   462 00000214 51                      push rcx
+   463                                 
+   464 00000215 48C7C200000000          mov rdx, 0
+   465 0000021C 48C7C7[00000000]        mov rdi, tmpString
+   466                                 ..@7.countLoop:
+   467 00000223 803F00                  cmp byte [rdi], NULL
+   468 00000226 7406                    je ..@7.countLoopDone
+   469 00000228 48FFC7                  inc rdi
+   470 0000022B 48FFC2                  inc rdx
+   471 0000022E EBF1                    jmp ..@7.countLoop
+   472                                 ..@7.countLoopDone:
+   473                                 
+   474 00000230 48C7C001000000          mov rax, SYS_write
+   475 00000237 48C7C701000000          mov rdi, STDOUT
+   476 0000023E 48C7C6[00000000]        mov rsi, tmpString
+   477 00000245 0F05                    syscall
+   478                                 
+   479 00000247 59                      pop rcx
+   480 00000248 5A                      pop rdx
+   481 00000249 5E                      pop rsi
+   482 0000024A 5F                      pop rdi
+   483 0000024B 58                      pop rax
+   484                                 %line 336+1 ast07.asm
+   485 0000024C 50                      push rax
+   486                                 %line 336+0 ast07.asm
+   487 0000024D 57                      push rdi
+   488 0000024E 56                      push rsi
+   489 0000024F 52                      push rdx
+   490 00000250 51                      push rcx
+   491                                 
+   492 00000251 48C7C200000000          mov rdx, 0
+   493 00000258 48C7C7[00000000]        mov rdi, newLine
+   494                                 ..@8.countLoop:
+   495 0000025F 803F00                  cmp byte [rdi], NULL
+   496 00000262 7406                    je ..@8.countLoopDone
+   497 00000264 48FFC7                  inc rdi
+   498 00000267 48FFC2                  inc rdx
+   499 0000026A EBF1                    jmp ..@8.countLoop
+   500                                 ..@8.countLoopDone:
+   501                                 
+   502 0000026C 48C7C001000000          mov rax, SYS_write
+   503 00000273 48C7C701000000          mov rdi, STDOUT
+   504 0000027A 48C7C6[00000000]        mov rsi, newLine
+   505 00000281 0F05                    syscall
+   506                                 
+   507 00000283 59                      pop rcx
+   508 00000284 5A                      pop rdx
+   509 00000285 5E                      pop rsi
+   510 00000286 5F                      pop rdi
+   511 00000287 58                      pop rax
+   512                                 %line 337+1 ast07.asm
+   513                                 
+   514 00000288 50                      push rax
+   515                                 %line 338+0 ast07.asm
+   516 00000289 57                      push rdi
+   517 0000028A 56                      push rsi
+   518 0000028B 52                      push rdx
+   519 0000028C 51                      push rcx
+   520                                 
+   521 0000028D 48C7C200000000          mov rdx, 0
+   522 00000294 48C7C7[00000000]        mov rdi, hdrMax
+   523                                 ..@9.countLoop:
+   524 0000029B 803F00                  cmp byte [rdi], NULL
+   525 0000029E 7406                    je ..@9.countLoopDone
+   526 000002A0 48FFC7                  inc rdi
+   527 000002A3 48FFC2                  inc rdx
+   528 000002A6 EBF1                    jmp ..@9.countLoop
+   529                                 ..@9.countLoopDone:
+   530                                 
+   531 000002A8 48C7C001000000          mov rax, SYS_write
+   532 000002AF 48C7C701000000          mov rdi, STDOUT
+   533 000002B6 48C7C6[00000000]        mov rsi, hdrMax
+   534 000002BD 0F05                    syscall
+   535                                 
+   536 000002BF 59                      pop rcx
+   537 000002C0 5A                      pop rdx
+   538 000002C1 5E                      pop rsi
+   539 000002C2 5F                      pop rdi
+   540 000002C3 58                      pop rax
+   541                                 %line 339+1 ast07.asm
+   542                                 
+   543                                 %line 339+0 ast07.asm
+   544 000002C4 48C7C100000000         mov rcx, 0
+   545 000002CB 8B0425[00000000]       mov eax, dword [max]
+   546 000002D2 49C7C206000000         mov r10, 6
+   547 000002D9 49C7C0[00000000]       mov r8, tmpString
+   548                                 ..@10.mConvert6:
+   549 000002E0 99                     cdq
+   550 000002E1 41F7F2                 div r10d
+   551 000002E4 52                     push rdx
+   552 000002E5 48FFC1                 inc rcx
+   553 000002E8 83F800                 cmp eax, 0
+   554 000002EB 75F1                   jne ..@10.mConvert6
+   555 000002ED 48C7C30E000000         mov rbx, 14
+   556 000002F4 4829CB                 sub rbx, rcx
+   557 000002F7 48C7C100000000         mov rcx, 0
+   558                                 ..@10.mRightJust:
+   559 000002FE 41C60020               mov [r8], byte ' '
+   560 00000302 49FFC0                 inc r8
+   561 00000305 48FFC1                 inc rcx
+   562 00000308 4839CB                 cmp rbx, rcx
+   563 0000030B 75EF                   jne ..@10.mRightJust
+   564                                 ..@10.mPopLoop:
+   565 0000030D 48FFC1                 inc rcx
+   566 00000310 58                     pop rax
+   567 00000311 4883C030               add rax, 0x30
+   568 00000315 498900                 mov [r8], rax
+   569 00000318 49FFC0                 inc r8
+   570 0000031B 4883F90E               cmp rcx, 14
+   571 0000031F 75EA                   jne ..@10.mPopLoop
+   572                                 
+   573                                 %line 340+1 ast07.asm
+   574 00000321 50                      push rax
+   575                                 %line 340+0 ast07.asm
+   576 00000322 57                      push rdi
+   577 00000323 56                      push rsi
+   578 00000324 52                      push rdx
+   579 00000325 51                      push rcx
+   580                                 
+   581 00000326 48C7C200000000          mov rdx, 0
+   582 0000032D 48C7C7[00000000]        mov rdi, tmpString
+   583                                 ..@11.countLoop:
+   584 00000334 803F00                  cmp byte [rdi], NULL
+   585 00000337 7406                    je ..@11.countLoopDone
+   586 00000339 48FFC7                  inc rdi
+   587 0000033C 48FFC2                  inc rdx
+   588 0000033F EBF1                    jmp ..@11.countLoop
+   589                                 ..@11.countLoopDone:
+   590                                 
+   591 00000341 48C7C001000000          mov rax, SYS_write
+   592 00000348 48C7C701000000          mov rdi, STDOUT
+   593 0000034F 48C7C6[00000000]        mov rsi, tmpString
+   594 00000356 0F05                    syscall
+   595                                 
+   596 00000358 59                      pop rcx
+   597 00000359 5A                      pop rdx
+   598 0000035A 5E                      pop rsi
+   599 0000035B 5F                      pop rdi
+   600 0000035C 58                      pop rax
+   601                                 %line 341+1 ast07.asm
+   602 0000035D 50                      push rax
+   603                                 %line 341+0 ast07.asm
+   604 0000035E 57                      push rdi
+   605 0000035F 56                      push rsi
+   606 00000360 52                      push rdx
+   607 00000361 51                      push rcx
+   608                                 
+   609 00000362 48C7C200000000          mov rdx, 0
+   610 00000369 48C7C7[00000000]        mov rdi, newLine
+   611                                 ..@12.countLoop:
+   612 00000370 803F00                  cmp byte [rdi], NULL
+   613 00000373 7406                    je ..@12.countLoopDone
+   614 00000375 48FFC7                  inc rdi
+   615 00000378 48FFC2                  inc rdx
+   616 0000037B EBF1                    jmp ..@12.countLoop
+   617                                 ..@12.countLoopDone:
+   618                                 
+   619 0000037D 48C7C001000000          mov rax, SYS_write
+   620 00000384 48C7C701000000          mov rdi, STDOUT
+   621 0000038B 48C7C6[00000000]        mov rsi, newLine
+   622 00000392 0F05                    syscall
+   623                                 
+   624 00000394 59                      pop rcx
+   625 00000395 5A                      pop rdx
+   626 00000396 5E                      pop rsi
+   627 00000397 5F                      pop rdi
+   628 00000398 58                      pop rax
+   629                                 %line 342+1 ast07.asm
+   630                                 
+   631 00000399 50                      push rax
+   632                                 %line 343+0 ast07.asm
+   633 0000039A 57                      push rdi
+   634 0000039B 56                      push rsi
+   635 0000039C 52                      push rdx
+   636 0000039D 51                      push rcx
+   637                                 
+   638 0000039E 48C7C200000000          mov rdx, 0
+   639 000003A5 48C7C7[00000000]        mov rdi, hdrMed
+   640                                 ..@13.countLoop:
+   641 000003AC 803F00                  cmp byte [rdi], NULL
+   642 000003AF 7406                    je ..@13.countLoopDone
+   643 000003B1 48FFC7                  inc rdi
+   644 000003B4 48FFC2                  inc rdx
+   645 000003B7 EBF1                    jmp ..@13.countLoop
+   646                                 ..@13.countLoopDone:
+   647                                 
+   648 000003B9 48C7C001000000          mov rax, SYS_write
+   649 000003C0 48C7C701000000          mov rdi, STDOUT
+   650 000003C7 48C7C6[00000000]        mov rsi, hdrMed
+   651 000003CE 0F05                    syscall
+   652                                 
+   653 000003D0 59                      pop rcx
+   654 000003D1 5A                      pop rdx
+   655 000003D2 5E                      pop rsi
+   656 000003D3 5F                      pop rdi
+   657 000003D4 58                      pop rax
+   658                                 %line 344+1 ast07.asm
+   659                                 
+   660                                 %line 344+0 ast07.asm
+   661 000003D5 48C7C100000000         mov rcx, 0
+   662 000003DC 8B0425[00000000]       mov eax, dword [med]
+   663 000003E3 49C7C206000000         mov r10, 6
+   664 000003EA 49C7C0[00000000]       mov r8, tmpString
+   665                                 ..@14.mConvert6:
+   666 000003F1 99                     cdq
+   667 000003F2 41F7F2                 div r10d
+   668 000003F5 52                     push rdx
+   669 000003F6 48FFC1                 inc rcx
+   670 000003F9 83F800                 cmp eax, 0
+   671 000003FC 75F1                   jne ..@14.mConvert6
+   672 000003FE 48C7C30E000000         mov rbx, 14
+   673 00000405 4829CB                 sub rbx, rcx
+   674 00000408 48C7C100000000         mov rcx, 0
+   675                                 ..@14.mRightJust:
+   676 0000040F 41C60020               mov [r8], byte ' '
+   677 00000413 49FFC0                 inc r8
+   678 00000416 48FFC1                 inc rcx
+   679 00000419 4839CB                 cmp rbx, rcx
+   680 0000041C 75EF                   jne ..@14.mRightJust
+   681                                 ..@14.mPopLoop:
+   682 0000041E 48FFC1                 inc rcx
+   683 00000421 58                     pop rax
+   684 00000422 4883C030               add rax, 0x30
+   685 00000426 498900                 mov [r8], rax
+   686 00000429 49FFC0                 inc r8
+   687 0000042C 4883F90E               cmp rcx, 14
+   688 00000430 75EA                   jne ..@14.mPopLoop
+   689                                 
+   690                                 %line 345+1 ast07.asm
+   691 00000432 50                      push rax
+   692                                 %line 345+0 ast07.asm
+   693 00000433 57                      push rdi
+   694 00000434 56                      push rsi
+   695 00000435 52                      push rdx
+   696 00000436 51                      push rcx
+   697                                 
+   698 00000437 48C7C200000000          mov rdx, 0
+   699 0000043E 48C7C7[00000000]        mov rdi, tmpString
+   700                                 ..@15.countLoop:
+   701 00000445 803F00                  cmp byte [rdi], NULL
+   702 00000448 7406                    je ..@15.countLoopDone
+   703 0000044A 48FFC7                  inc rdi
+   704 0000044D 48FFC2                  inc rdx
+   705 00000450 EBF1                    jmp ..@15.countLoop
+   706                                 ..@15.countLoopDone:
+   707                                 
+   708 00000452 48C7C001000000          mov rax, SYS_write
+   709 00000459 48C7C701000000          mov rdi, STDOUT
+   710 00000460 48C7C6[00000000]        mov rsi, tmpString
+   711 00000467 0F05                    syscall
+   712                                 
+   713 00000469 59                      pop rcx
+   714 0000046A 5A                      pop rdx
+   715 0000046B 5E                      pop rsi
+   716 0000046C 5F                      pop rdi
+   717 0000046D 58                      pop rax
+   718                                 %line 346+1 ast07.asm
+   719 0000046E 50                      push rax
+   720                                 %line 346+0 ast07.asm
+   721 0000046F 57                      push rdi
+   722 00000470 56                      push rsi
+   723 00000471 52                      push rdx
+   724 00000472 51                      push rcx
+   725                                 
+   726 00000473 48C7C200000000          mov rdx, 0
+   727 0000047A 48C7C7[00000000]        mov rdi, newLine
+   728                                 ..@16.countLoop:
+   729 00000481 803F00                  cmp byte [rdi], NULL
+   730 00000484 7406                    je ..@16.countLoopDone
+   731 00000486 48FFC7                  inc rdi
+   732 00000489 48FFC2                  inc rdx
+   733 0000048C EBF1                    jmp ..@16.countLoop
+   734                                 ..@16.countLoopDone:
+   735                                 
+   736 0000048E 48C7C001000000          mov rax, SYS_write
+   737 00000495 48C7C701000000          mov rdi, STDOUT
+   738 0000049C 48C7C6[00000000]        mov rsi, newLine
+   739 000004A3 0F05                    syscall
+   740                                 
+   741 000004A5 59                      pop rcx
+   742 000004A6 5A                      pop rdx
+   743 000004A7 5E                      pop rsi
+   744 000004A8 5F                      pop rdi
+   745 000004A9 58                      pop rax
+   746                                 %line 347+1 ast07.asm
+   747                                 
+   748 000004AA 50                      push rax
+   749                                 %line 348+0 ast07.asm
+   750 000004AB 57                      push rdi
+   751 000004AC 56                      push rsi
+   752 000004AD 52                      push rdx
+   753 000004AE 51                      push rcx
+   754                                 
+   755 000004AF 48C7C200000000          mov rdx, 0
+   756 000004B6 48C7C7[00000000]        mov rdi, hdrSum
+   757                                 ..@17.countLoop:
+   758 000004BD 803F00                  cmp byte [rdi], NULL
+   759 000004C0 7406                    je ..@17.countLoopDone
+   760 000004C2 48FFC7                  inc rdi
+   761 000004C5 48FFC2                  inc rdx
+   762 000004C8 EBF1                    jmp ..@17.countLoop
+   763                                 ..@17.countLoopDone:
+   764                                 
+   765 000004CA 48C7C001000000          mov rax, SYS_write
+   766 000004D1 48C7C701000000          mov rdi, STDOUT
+   767 000004D8 48C7C6[00000000]        mov rsi, hdrSum
+   768 000004DF 0F05                    syscall
+   769                                 
+   770 000004E1 59                      pop rcx
+   771 000004E2 5A                      pop rdx
+   772 000004E3 5E                      pop rsi
+   773 000004E4 5F                      pop rdi
+   774 000004E5 58                      pop rax
+   775                                 %line 349+1 ast07.asm
+   776                                 
+   777                                 %line 349+0 ast07.asm
+   778 000004E6 48C7C100000000         mov rcx, 0
+   779 000004ED 8B0425[00000000]       mov eax, dword [sum]
+   780 000004F4 49C7C206000000         mov r10, 6
+   781 000004FB 49C7C0[00000000]       mov r8, tmpString
+   782                                 ..@18.mConvert6:
+   783 00000502 99                     cdq
+   784 00000503 41F7F2                 div r10d
+   785 00000506 52                     push rdx
+   786 00000507 48FFC1                 inc rcx
+   787 0000050A 83F800                 cmp eax, 0
+   788 0000050D 75F1                   jne ..@18.mConvert6
+   789 0000050F 48C7C30E000000         mov rbx, 14
+   790 00000516 4829CB                 sub rbx, rcx
+   791 00000519 48C7C100000000         mov rcx, 0
+   792                                 ..@18.mRightJust:
+   793 00000520 41C60020               mov [r8], byte ' '
+   794 00000524 49FFC0                 inc r8
+   795 00000527 48FFC1                 inc rcx
+   796 0000052A 4839CB                 cmp rbx, rcx
+   797 0000052D 75EF                   jne ..@18.mRightJust
+   798                                 ..@18.mPopLoop:
+   799 0000052F 48FFC1                 inc rcx
+   800 00000532 58                     pop rax
+   801 00000533 4883C030               add rax, 0x30
+   802 00000537 498900                 mov [r8], rax
+   803 0000053A 49FFC0                 inc r8
+   804 0000053D 4883F90E               cmp rcx, 14
+   805 00000541 75EA                   jne ..@18.mPopLoop
+   806                                 
+   807                                 %line 350+1 ast07.asm
+   808 00000543 50                      push rax
+   809                                 %line 350+0 ast07.asm
+   810 00000544 57                      push rdi
+   811 00000545 56                      push rsi
+   812 00000546 52                      push rdx
+   813 00000547 51                      push rcx
+   814                                 
+   815 00000548 48C7C200000000          mov rdx, 0
+   816 0000054F 48C7C7[00000000]        mov rdi, tmpString
+   817                                 ..@19.countLoop:
+   818 00000556 803F00                  cmp byte [rdi], NULL
+   819 00000559 7406                    je ..@19.countLoopDone
+   820 0000055B 48FFC7                  inc rdi
+   821 0000055E 48FFC2                  inc rdx
+   822 00000561 EBF1                    jmp ..@19.countLoop
+   823                                 ..@19.countLoopDone:
+   824                                 
+   825 00000563 48C7C001000000          mov rax, SYS_write
+   826 0000056A 48C7C701000000          mov rdi, STDOUT
+   827 00000571 48C7C6[00000000]        mov rsi, tmpString
+   828 00000578 0F05                    syscall
+   829                                 
+   830 0000057A 59                      pop rcx
+   831 0000057B 5A                      pop rdx
+   832 0000057C 5E                      pop rsi
+   833 0000057D 5F                      pop rdi
+   834 0000057E 58                      pop rax
+   835                                 %line 351+1 ast07.asm
+   836 0000057F 50                      push rax
+   837                                 %line 351+0 ast07.asm
+   838 00000580 57                      push rdi
+   839 00000581 56                      push rsi
+   840 00000582 52                      push rdx
+   841 00000583 51                      push rcx
+   842                                 
+   843 00000584 48C7C200000000          mov rdx, 0
+   844 0000058B 48C7C7[00000000]        mov rdi, newLine
+   845                                 ..@20.countLoop:
+   846 00000592 803F00                  cmp byte [rdi], NULL
+   847 00000595 7406                    je ..@20.countLoopDone
+   848 00000597 48FFC7                  inc rdi
+   849 0000059A 48FFC2                  inc rdx
+   850 0000059D EBF1                    jmp ..@20.countLoop
+   851                                 ..@20.countLoopDone:
+   852                                 
+   853 0000059F 48C7C001000000          mov rax, SYS_write
+   854 000005A6 48C7C701000000          mov rdi, STDOUT
+   855 000005AD 48C7C6[00000000]        mov rsi, newLine
+   856 000005B4 0F05                    syscall
+   857                                 
+   858 000005B6 59                      pop rcx
+   859 000005B7 5A                      pop rdx
+   860 000005B8 5E                      pop rsi
+   861 000005B9 5F                      pop rdi
+   862 000005BA 58                      pop rax
+   863                                 %line 352+1 ast07.asm
+   864                                 
+   865 000005BB 50                      push rax
+   866                                 %line 353+0 ast07.asm
+   867 000005BC 57                      push rdi
+   868 000005BD 56                      push rsi
+   869 000005BE 52                      push rdx
+   870 000005BF 51                      push rcx
+   871                                 
+   872 000005C0 48C7C200000000          mov rdx, 0
+   873 000005C7 48C7C7[00000000]        mov rdi, hdrAve
+   874                                 ..@21.countLoop:
+   875 000005CE 803F00                  cmp byte [rdi], NULL
+   876 000005D1 7406                    je ..@21.countLoopDone
+   877 000005D3 48FFC7                  inc rdi
+   878 000005D6 48FFC2                  inc rdx
+   879 000005D9 EBF1                    jmp ..@21.countLoop
+   880                                 ..@21.countLoopDone:
+   881                                 
+   882 000005DB 48C7C001000000          mov rax, SYS_write
+   883 000005E2 48C7C701000000          mov rdi, STDOUT
+   884 000005E9 48C7C6[00000000]        mov rsi, hdrAve
+   885 000005F0 0F05                    syscall
+   886                                 
+   887 000005F2 59                      pop rcx
+   888 000005F3 5A                      pop rdx
+   889 000005F4 5E                      pop rsi
+   890 000005F5 5F                      pop rdi
+   891 000005F6 58                      pop rax
+   892                                 %line 354+1 ast07.asm
+   893                                 
+   894                                 %line 354+0 ast07.asm
+   895 000005F7 48C7C100000000         mov rcx, 0
+   896 000005FE 8B0425[00000000]       mov eax, dword [avg]
+   897 00000605 49C7C206000000         mov r10, 6
+   898 0000060C 49C7C0[00000000]       mov r8, tmpString
+   899                                 ..@22.mConvert6:
+   900 00000613 99                     cdq
+   901 00000614 41F7F2                 div r10d
+   902 00000617 52                     push rdx
+   903 00000618 48FFC1                 inc rcx
+   904 0000061B 83F800                 cmp eax, 0
+   905 0000061E 75F1                   jne ..@22.mConvert6
+   906 00000620 48C7C30E000000         mov rbx, 14
+   907 00000627 4829CB                 sub rbx, rcx
+   908 0000062A 48C7C100000000         mov rcx, 0
+   909                                 ..@22.mRightJust:
+   910 00000631 41C60020               mov [r8], byte ' '
+   911 00000635 49FFC0                 inc r8
+   912 00000638 48FFC1                 inc rcx
+   913 0000063B 4839CB                 cmp rbx, rcx
+   914 0000063E 75EF                   jne ..@22.mRightJust
+   915                                 ..@22.mPopLoop:
+   916 00000640 48FFC1                 inc rcx
+   917 00000643 58                     pop rax
+   918 00000644 4883C030               add rax, 0x30
+   919 00000648 498900                 mov [r8], rax
+   920 0000064B 49FFC0                 inc r8
+   921 0000064E 4883F90E               cmp rcx, 14
+   922 00000652 75EA                   jne ..@22.mPopLoop
+   923                                 
+   924                                 %line 355+1 ast07.asm
+   925 00000654 50                      push rax
+   926                                 %line 355+0 ast07.asm
+   927 00000655 57                      push rdi
+   928 00000656 56                      push rsi
+   929 00000657 52                      push rdx
+   930 00000658 51                      push rcx
+   931                                 
+   932 00000659 48C7C200000000          mov rdx, 0
+   933 00000660 48C7C7[00000000]        mov rdi, tmpString
+   934                                 ..@23.countLoop:
+   935 00000667 803F00                  cmp byte [rdi], NULL
+   936 0000066A 7406                    je ..@23.countLoopDone
+   937 0000066C 48FFC7                  inc rdi
+   938 0000066F 48FFC2                  inc rdx
+   939 00000672 EBF1                    jmp ..@23.countLoop
+   940                                 ..@23.countLoopDone:
+   941                                 
+   942 00000674 48C7C001000000          mov rax, SYS_write
+   943 0000067B 48C7C701000000          mov rdi, STDOUT
+   944 00000682 48C7C6[00000000]        mov rsi, tmpString
+   945 00000689 0F05                    syscall
+   946                                 
+   947 0000068B 59                      pop rcx
+   948 0000068C 5A                      pop rdx
+   949 0000068D 5E                      pop rsi
+   950 0000068E 5F                      pop rdi
+   951 0000068F 58                      pop rax
+   952                                 %line 356+1 ast07.asm
+   953 00000690 50                      push rax
+   954                                 %line 356+0 ast07.asm
+   955 00000691 57                      push rdi
+   956 00000692 56                      push rsi
+   957 00000693 52                      push rdx
+   958 00000694 51                      push rcx
+   959                                 
+   960 00000695 48C7C200000000          mov rdx, 0
+   961 0000069C 48C7C7[00000000]        mov rdi, newLine
+   962                                 ..@24.countLoop:
+   963 000006A3 803F00                  cmp byte [rdi], NULL
+   964 000006A6 7406                    je ..@24.countLoopDone
+   965 000006A8 48FFC7                  inc rdi
+   966 000006AB 48FFC2                  inc rdx
+   967 000006AE EBF1                    jmp ..@24.countLoop
+   968                                 ..@24.countLoopDone:
+   969                                 
+   970 000006B0 48C7C001000000          mov rax, SYS_write
+   971 000006B7 48C7C701000000          mov rdi, STDOUT
+   972 000006BE 48C7C6[00000000]        mov rsi, newLine
+   973 000006C5 0F05                    syscall
+   974                                 
+   975 000006C7 59                      pop rcx
+   976 000006C8 5A                      pop rdx
+   977 000006C9 5E                      pop rsi
+   978 000006CA 5F                      pop rdi
+   979 000006CB 58                      pop rax
+   980                                 %line 357+1 ast07.asm
+   981 000006CC 50                      push rax
+   982                                 %line 357+0 ast07.asm
+   983 000006CD 57                      push rdi
+   984 000006CE 56                      push rsi
+   985 000006CF 52                      push rdx
+   986 000006D0 51                      push rcx
+   987                                 
+   988 000006D1 48C7C200000000          mov rdx, 0
+   989 000006D8 48C7C7[00000000]        mov rdi, newLine
+   990                                 ..@25.countLoop:
+   991 000006DF 803F00                  cmp byte [rdi], NULL
+   992 000006E2 7406                    je ..@25.countLoopDone
+   993 000006E4 48FFC7                  inc rdi
+   994 000006E7 48FFC2                  inc rdx
+   995 000006EA EBF1                    jmp ..@25.countLoop
+   996                                 ..@25.countLoopDone:
+   997                                 
+   998 000006EC 48C7C001000000          mov rax, SYS_write
+   999 000006F3 48C7C701000000          mov rdi, STDOUT
+  1000 000006FA 48C7C6[00000000]        mov rsi, newLine
+  1001 00000701 0F05                    syscall
+  1002                                 
+  1003 00000703 59                      pop rcx
+  1004 00000704 5A                      pop rdx
+  1005 00000705 5E                      pop rsi
+  1006 00000706 5F                      pop rdi
+  1007 00000707 58                      pop rax
+  1008                                 %line 358+1 ast07.asm
+  1009                                 
+  1010                                 
+  1011                                 
+  1012                                 
+  1013                                 last:
+  1014 00000708 48C7C03C000000          mov rax, SYS_exit
+  1015 0000070F 48C7C700000000          mov rdi, EXIT_SUCCESS
+  1016 00000716 0F05                    syscall
+  1017                                 

@@ -1,0 +1,31 @@
+##############################################
+
+-------------------
+Timed Test (1 thread)
+
+real	1m3.424s
+user	1m3.271s
+sys	0m0.024s
+
+-------------------
+Timed Test (2 thread)
+
+real	0m31.388s
+user	1m2.705s
+sys	0m0.012s
+
+-------------------
+Timed Test (3 thread)
+
+real	0m22.882s
+user	1m8.452s
+sys	0m0.008s
+
+-------------------
+Timed Test (4 thread)
+
+real	0m17.260s
+user	1m8.587s
+sys	0m0.012s
+
+

@@ -1,0 +1,325 @@
+     1                                 %line 1+1 ast8procs.asm
+     2                                 
+     3                                 
+     4                                 
+     5                                 
+     6                                 
+     7                                 
+     8                                 
+     9                                 
+    10                                 
+    11                                 
+    12                                 
+    13                                 
+    14                                 
+    15                                 
+    16                                 
+    17                                 
+    18                                 
+    19                                 
+    20                                 
+    21                                 
+    22                                 
+    23                                 
+    24                                 
+    25                                 
+    26                                 
+    27                                 
+    28                                 
+    29                                 
+    30                                 
+    31                                 
+    32                                 
+    33                                 
+    34                                 [section .data]
+    35                                 
+    36                                 
+    37                                 
+    38                                 
+    39                                 TRUE equ 1
+    40                                 FALSE equ 0
+    41                                 
+    42                                 
+    43                                 
+    44                                 
+    45 00000000 0C000000               weight dd 12
+    46 00000004 02000000               dtwo dd 2
+    47 00000008 0A000000               ddTen dd 10
+    48 0000000C 0C000000               ddTwelve dd 12
+    49 00000010 09000000               dNine dd 9
+    50                                 
+    51                                 
+    52                                 
+    53                                 
+    54                                 
+    55                                 
+    56                                 [section .bss]
+    57                                 
+    58                                 
+    59                                 
+    60                                 
+    61 00000000 <gap>                  qSum resq 1
+    62 00000008 <gap>                  qTmp resq 1
+    63                                 
+    64                                 
+    65                                 
+    66                                 
+    67                                 [section .text]
+    68                                 
+    69                                 
+    70                                 
+    71                                 
+    72                                 
+    73                                 
+    74                                 
+    75                                 
+    76                                 
+    77                                 
+    78                                 
+    79                                 
+    80                                 
+    81                                 
+    82                                 
+    83                                 
+    84                                 
+    85                                 
+    86                                 
+    87                                 
+    88                                 
+    89                                 
+    90                                 
+    91                                 
+    92                                 
+    93                                 
+    94                                 
+    95                                 
+    96                                 
+    97                                 
+    98                                 
+    99                                 
+   100                                 
+   101                                 
+   102                                 
+   103                                 
+   104                                 
+   105                                 
+   106                                 [global oddEvenSort]
+   107                                 oddEvenSort:
+   108                                 
+   109                                 
+   110                                 
+   111 00000000 4157                    push r15
+   112 00000002 55                      push rbp
+   113 00000003 4889E5                  mov rbp, rsp
+   114                                 
+   115 00000006 49C7C700000000          mov r15, FALSE
+   116 0000000D 4989F8                  mov r8, rdi
+   117 00000010 4189F1                  mov r9d, esi
+   118 00000013 49FFC9                  dec r9
+   119                                  loopStart:
+   120 00000016 49C7C701000000          mov r15, TRUE
+   121 0000001D 48C7C100000000          mov rcx, 0
+   122                                  oddLoop:
+   123 00000024 48FFC1                  inc rcx
+   124 00000027 4C39C9                  cmp rcx, r9
+   125 0000002A 7325                    jae oddSkip
+   126 0000002C 458B1488                mov r10d, dword[r8+rcx*4]
+   127 00000030 48FFC1                  inc rcx
+   128 00000033 458B1C88                mov r11d, dword[r8+rcx*4]
+   129 00000037 4539DA                  cmp r10d, r11d
+   130 0000003A 73E6                    jae oddLoop
+   131 0000003C 45891488                mov dword[r8+rcx*4], r10d
+   132 00000040 48FFC9                  dec rcx
+   133 00000043 45891C88                mov dword[r8+rcx*4], r11d
+   134 00000047 48FFC1                  inc rcx
+   135 0000004A 49C7C700000000          mov r15, FALSE
+   136 00000051 EBCF                    jmp oddLoop
+   137                                  oddSkip:
+   138 00000053 48C7C100000000          mov rcx, 0
+   139                                  evenLoop:
+   140 0000005A 4C39C9                  cmp rcx, r9
+   141 0000005D 732E                    jae evenSkip
+   142 0000005F 458B1488                mov r10d, dword[r8+rcx*4]
+   143 00000063 48FFC1                  inc rcx
+   144 00000066 458B1C88                mov r11d, dword[r8+rcx*4]
+   145 0000006A 48FFC1                  inc rcx
+   146 0000006D 4539DA                  cmp r10d, r11d
+   147 00000070 73E6                    jae evenLoop
+   148 00000072 48FFC9                  dec rcx
+   149 00000075 45891488                mov dword[r8+rcx*4], r10d
+   150 00000079 48FFC9                  dec rcx
+   151 0000007C 45891C88                mov dword[r8+rcx*4], r11d
+   152 00000080 48FFC1                  inc rcx
+   153 00000083 48FFC1                  inc rcx
+   154 00000086 49C7C700000000          mov r15, FALSE
+   155 0000008D EBC9                    jmp evenLoop
+   156                                  evenSkip:
+   157 0000008F 4983FF00                cmp r15, FALSE
+   158 00000093 747F                    je loopStart
+   159                                 
+   160 00000095 4889EC                  mov rsp, rbp
+   161 00000098 5D                      pop rbp
+   162 00000099 415F                    pop r15
+   163 0000009B C3                      ret
+   164                                 
+   165                                 
+   166                                 
+   167                                 
+   168                                 
+   169                                 
+   170                                 
+   171                                 
+   172                                 
+   173                                 
+   174                                 
+   175                                 
+   176                                 
+   177                                 
+   178                                 
+   179                                 
+   180                                 
+   181                                 
+   182                                 
+   183                                 
+   184                                 
+   185                                 
+   186                                 
+   187                                 
+   188                                 
+   189                                 [global listStats]
+   190                                 listStats:
+   191                                 
+   192                                 
+   193                                 
+   194 0000009C 55                      push rbp
+   195 0000009D 4889E5                  mov rbp, rsp
+   196                                 
+   197 000000A0 448B17                  mov r10d, dword[rdi]
+   198 000000A3 448911                  mov dword[rcx], r10d
+   199 000000A6 49C7C300000000          mov r11, 0
+   200 000000AD 4189F3                  mov r11d, esi
+   201 000000B0 41FFCB                  dec r11d
+   202 000000B3 468B149F                mov r10d, dword[rdi+r11*4]
+   203 000000B7 448912                  mov dword[rdx], r10d
+   204 000000BA E83D000000              call estimatedMedian
+   205 000000BF 418900                  mov dword[r8], eax
+   206 000000C2 49C7C200000000          mov r10, 0
+   207 000000C9 49C7C300000000          mov r11, 0
+   208 000000D0 4189F3                  mov r11d, esi
+   209 000000D3 49FFCB                  dec r11
+   210                                  listSum:
+   211 000000D6 4983FB00                cmp r11, 0
+   212 000000DA 7C07                    jl sumExit
+   213 000000DC 4603149F                add r10d, dword[rdi+r11*4]
+   214 000000E0 49FFCB                  dec r11
+   215 000000E3 EBEF                    jmp listSum
+   216                                  sumExit:
+   217 000000E5 458911                  mov dword[r9], r10d
+   218 000000E8 4189F3                  mov r11d, esi
+   219 000000EB 4C89D0                  mov rax, r10
+   220 000000EE 48C7C200000000          mov rdx, 0
+   221 000000F5 41F7F3                  div r11d
+   222 000000F8 4C8B5D10                mov r11, qword[rbp+16]
+   223 000000FC 418903                  mov dword[r11], eax
+   224                                 
+   225 000000FF 5D                      pop rbp
+   226 00000100 C3                      ret
+   227                                 
+   228                                 
+   229                                 
+   230                                 
+   231                                 
+   232                                 
+   233                                 
+   234                                 
+   235                                 
+   236                                 
+   237                                 
+   238                                 
+   239                                 
+   240                                 
+   241                                 
+   242                                 
+   243                                 
+   244                                 
+   245                                 
+   246                                 
+   247                                 [global estimatedMedian]
+   248                                 estimatedMedian:
+   249                                 
+   250                                 
+   251                                 
+   252 00000101 48C7C000000000          mov rax, 0
+   253 00000108 49C7C200000000          mov r10, 0
+   254 0000010F 89F0                    mov eax, esi
+   255 00000111 48C7C200000000          mov rdx, 0
+   256 00000118 49C7C202000000          mov r10, 2
+   257 0000011F 41F7F2                  div r10d
+   258 00000122 448B1487                mov r10d, dword[rdi+rax*4]
+   259 00000126 4883FA00                cmp rdx, 0
+   260 0000012A 751A                    jne medEvenSkip
+   261 0000012C 48FFC8                  dec rax
+   262 0000012F 44031487                add r10d, dword[rdi+rax*4]
+   263 00000133 49C7C302000000          mov r11, 2
+   264 0000013A 4489D0                  mov eax, r10d
+   265 0000013D 48C7C200000000          mov rdx, 0
+   266 00000144 41F7F3                  div r11d
+   267 00000147 C3                      ret
+   268                                  medEvenSkip:
+   269 00000148 4C89D0                  mov rax, r10
+   270                                 
+   271 0000014B C3                      ret
+   272                                 
+   273                                 
+   274                                 
+   275                                 
+   276                                 
+   277                                 
+   278                                 
+   279                                 
+   280                                 
+   281                                 
+   282                                 
+   283                                 
+   284                                 
+   285                                 
+   286                                 
+   287                                 
+   288                                 
+   289                                 
+   290                                 
+   291                                 
+   292                                 
+   293                                 
+   294                                 
+   295                                 
+   296                                 
+   297                                 
+   298                                 [global estimatedSkew]
+   299                                 estimatedSkew:
+   300                                 
+   301                                 
+   302                                 
+   303 0000014C 4989D1                  mov r9, rdx
+   304 0000014F 48C7C100000000          mov rcx, 0
+   305 00000156 4889F1                  mov rcx, rsi
+   306 00000159 48C7C000000000          mov rax, 0
+   307 00000160 49C7C200000000          mov r10, 0
+   308                                  skewLoop:
+   309 00000167 48FFC9                  dec rcx
+   310 0000016A 8B048F                  mov eax, dword[rdi+rcx*4]
+   311 0000016D 48C7C200000000          mov rdx, 0
+   312 00000174 4C29C8                  sub rax, r9
+   313 00000177 F7E8                    imul eax
+   314 00000179 4901C2                  add r10, rax
+   315 0000017C 4883F900                cmp rcx, 0
+   316 00000180 7FE3                    jg skewLoop
+   317 00000182 4889F0                  mov rax, rsi
+   318 00000185 48C7C103000000          mov rcx, 3
+   319 0000018C 48F7E9                  imul rcx
+   320 0000018F 4889C1                  mov rcx, rax
+   321 00000192 4C89D0                  mov rax, r10
+   322 00000195 48F7F9                  idiv rcx
+   323 00000198 C3                      ret
+   324                                 
+   325                                 

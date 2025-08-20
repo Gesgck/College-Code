@@ -1,0 +1,36 @@
+; *****************************************************************
+;  Name: Alec Zheng
+;  NSHE_ID: 2001982564
+;  Section: 1003
+;  Assignment: 11 B
+;  Description: Time difference between large and small buffers
+
+
+*****************************************************************
+
+Machine Description:
+--------------------
+<machine type (desktop/laptop/mini), processor speed, disk type (ssd, hard-drive, etc.) and memory>
+Laptop, 2,4GHz CPU, SSD, 8GB memory
+
+Timing:
+-------
+Large Buffer
+Average Real Time: 3.134 seconds
+
+Small Buffer
+Average Real Time: 1 minute 24.173 seconds
+
+
+Percentage Change: 296%
+
+
+
+
+Explanation:
+------------
+<not to exceed 200 words>
+
+the small buffer took 300 percent longer than the larger buffer. The larger buffer allowed for more information to be read at once, decreasing the amount of interupts that needed to happen saving time.
+
+

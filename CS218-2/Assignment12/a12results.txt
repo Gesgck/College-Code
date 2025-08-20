@@ -1,0 +1,79 @@
+##############################################
+
+-------------------
+Timed Test (1 thread)
+------------------------------------------------------------
+[1m[32mCS 218 - Assignment #12[0m
+
+[1mSmith Numbers Counting Program[0m
+
+Hardware Cores: 4
+Thread Count: 1
+Numbers Limit: 50000
+
+[1m   Start Counting...[0m
+ ...Thread starting...
+
+[1mResults:[0m
+--------
+Smith Number Count: 1605
+
+-------------------
+Timed Test (2 thread)
+------------------------------------------------------------
+[1m[32mCS 218 - Assignment #12[0m
+
+[1mSmith Numbers Counting Program[0m
+
+Hardware Cores: 4
+Thread Count: 2
+Numbers Limit: 50000
+
+[1m   Start Counting...[0m
+ ...Thread starting...
+ ...Thread starting...
+
+[1mResults:[0m
+--------
+Smith Number Count: 1605
+
+-------------------
+Timed Test (3 thread)
+------------------------------------------------------------
+[1m[32mCS 218 - Assignment #12[0m
+
+[1mSmith Numbers Counting Program[0m
+
+Hardware Cores: 4
+Thread Count: 3
+Numbers Limit: 50000
+
+[1m   Start Counting...[0m
+ ...Thread starting...
+ ...Thread starting...
+ ...Thread starting...
+
+[1mResults:[0m
+--------
+Smith Number Count: 1605
+
+-------------------
+Timed Test (4 thread)
+------------------------------------------------------------
+[1m[32mCS 218 - Assignment #12[0m
+
+[1mSmith Numbers Counting Program[0m
+
+Hardware Cores: 4
+Thread Count: 4
+Numbers Limit: 50000
+
+[1m   Start Counting...[0m
+ ...Thread starting...
+ ...Thread starting...
+ ...Thread starting...
+ ...Thread starting...
+
+[1mResults:[0m
+--------
+Smith Number Count: 1605
