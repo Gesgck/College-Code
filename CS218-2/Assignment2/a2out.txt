@@ -1,0 +1,107 @@
+
+------------------------------------ 
+display byte variables 
+bVar1: 	0x402000:	29
+bVar2: 	0x402001:	15
+bAns1: 	0x402002:	44
+bAns2: 	0x402003:	14
+
+display byte variables in hex 
+bVar1: 	0x402000:	0x1d
+bVar2: 	0x402001:	0x0f
+bAns1: 	0x402002:	0x2c
+bAns2: 	0x402003:	0x0e
+
+display byte variables in binary 
+bVar1: 	0x402000:	00011101
+bVar2: 	0x402001:	00001111
+bAns1: 	0x402002:	00101100
+bAns2: 	0x402003:	00001110
+
+------------------------------------ 
+display word variables 
+wVar1: 	0x402004:	2681
+wVar2: 	0x402006:	1432
+wAns1: 	0x402008:	4113
+wAns2: 	0x40200a:	1249
+
+display word variables in hex 
+wVar1: 	0x402004:	0x0a79
+wVar2: 	0x402006:	0x0598
+wAns1: 	0x402008:	0x1011
+wAns2: 	0x40200a:	0x04e1
+
+display word variables in binary 
+wVar1: 	0x402004:	0000101001111001
+wVar2: 	0x402006:	0000010110011000
+wAns1: 	0x402008:	0001000000010001
+wAns2: 	0x40200a:	0000010011100001
+
+------------------------------------ 
+display double word variables 
+dVar1: 	0x40200c:	174642532
+dVar2: 	0x402010:	112126739
+dVar3: 	0x402014:	-17239
+dAns1: 	0x402018:	286769271
+dAns2: 	0x40201c:	62515793
+
+display double word variables in hex
+dVar1: 	0x40200c:	0x0a68d564
+dVar2: 	0x402010:	0x06aeeb13
+dVar3: 	0x402014:	0xffffbca9
+dAns1: 	0x402018:	0x1117c077
+dAns2: 	0x40201c:	0x03b9ea51
+
+display double word variables in binary
+dVar1: 	0x40200c:	00001010011010001101010101100100
+dVar2: 	0x402010:	00000110101011101110101100010011
+dVar3: 	0x402014:	11111111111111111011110010101001
+dAns1: 	0x402018:	00010001000101111100000001110111
+dAns2: 	0x40201c:	00000011101110011110101001010001
+
+------------------------------------ 
+display quad word variable 
+qVar1: 	0x402020:	134287129615
+
+display quad word variable in hex
+qVar1: 	0x402020:	0x0000001f4422fc0f
+
+------------------------------------ 
+display real values in decimal 
+flt1: 	0x402028:	-13.125
+flt2: 	0x40202c:	7.25
+tao: 	0x402030:	6.28318024
+
+display real values in hex
+flt1: 	0x402028:	0xc1520000
+flt2: 	0x40202c:	0x40e80000
+tao: 	0x402030:	0x40c90fd0
+
+display real values in binary
+flt1: 	0x402028:	11000001010100100000000000000000
+flt2: 	0x40202c:	01000000111010000000000000000000
+tao: 	0x402030:	01000000110010010000111111010000
+
+------------------------------------ 
+display strings (first 6) as decimal / characters 
+myClass: 	0x402034:	67 'C'	83 'S'	45 '-'	50 '2'	49 '1'	56 '8'
+saying: 	0x40203b:	76 'L'	105 'i'	118 'v'	101 'e'	32 ' '	108 'l'
+myName: 	0x402052:	65 'A'	108 'l'	101 'e'	99 'c'	32 ' '	90 'Z'
+
+display strings (first 6) as hex 
+myClass: 	0x402034:	0x43	0x53	0x2d	0x32	0x31	0x38
+saying: 	0x40203b:	0x4c	0x69	0x76	0x65	0x20	0x6c
+myName: 	0x402052:	0x41	0x6c	0x65	0x63	0x20	0x5a
+
+display strings (first 6) as binary 
+myClass: 	0x402034:	0x43	0x53	0x2d	0x32	0x31	0x38
+saying: 	0x40203b:	0x4c	0x69	0x76	0x65	0x20	0x6c
+myName: 	0x402052:	0x41	0x6c	0x65	0x63	0x20	0x5a
+
+display strings as strings 
+myClass: 	0x402034:	"CS-218"
+saying: 	0x40203b:	"Live long and prosper."
+myName: 	0x402052:	"Alec Zheng"
+
+------------------------------------ 
+
