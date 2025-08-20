@@ -1,0 +1,21 @@
+#!/bin/bash
+
+if [ $# -eq 0 ] #usage
+    then
+    echo "Usage: show <program name>"
+    exit
+fi
+
+PID=$(pidof -s $1) #saves pid as a variable
+USRTIME=`echo "scale=2; $(cat /proc/$PID/stat | cut -d' ' -f14) / $(getconf CLK_TCK)" | bc`
+SYSTIME=`echo "scale=2; $(cat /proc/$PID/stat | cut -d' ' -f15) / $(getconf CLK_TCK)" | bc`
+
+START=$(ps -o start $PID | grep -v STARTED)
+
+printf "Process $PID Information\n"
+
+grep -F 'voluntary_ctxt_switches' /proc/$PID/status
+printf "User Time: $USRTIME\nSystem time: $SYSTIME\n"
+printf "Total Time: "
+echo $USRTIME $SYSTIME | awk '{print $1+$2}'
+printf "Start Time: $START\n"

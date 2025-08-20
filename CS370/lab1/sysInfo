@@ -1,0 +1,59 @@
+#!/bin/bash
+
+if [ $# -eq 0 ]
+    then
+    echo "Usage: sysInfo <sys|mem|disk>"
+    exit
+fi
+
+if [ "$1" == "sys" ]
+    then
+    echo "-------------------------------System Information----------------------------"
+    echo "Hostname:               ${HOSTNAME}" 
+    printf "uptime:                 "
+    uptime | awk '{print $3,$4}' | sed 's/,//'
+    printf "Manufacturer:           "
+    cat /sys/class/dmi/id/chassis_vendor
+    printf "Product Name:           "
+    cat /sys/class/dmi/id/product_name
+    printf "Version:                "
+    cat /sys/class/dmi/id/product_version
+    printf "Machine Type:           "
+    vserver=$(lscpu | grep Hypervisor | wc -l); if [ $vserver -gt 0 ]; then echo "VM"; else echo "Physical"; fi
+    printf "Operating System:       "
+    uname -o
+    printf "Kernel:                 "
+    uname -r
+    printf "Architecture:           "
+    uname  -p
+    printf "Processor Name:         "
+    awk -F':' '/^model name/ {print $2}' /proc/cpuinfo | uniq | sed -e 's/^[ \t]*//'
+    printf "Active User:            "
+    whoami
+    printf "Main System IP:         "
+    hostname -i
+
+
+elif [ "$1" == "mem" ]
+    then
+    echo "-------------------------------CPU/Memory Usage------------------------------"
+    free
+    echo
+    printf "Memory Usage:    "
+    free | awk '/Mem/{printf("%.2f%%"), $3/$2*100}'
+    echo
+    printf "Swap Usage:      "
+    free | awk '/Swap/{printf("%.2f%%"), $3/$2*100}'
+    echo
+    printf "CPU Usage:       "
+    cat /proc/stat | awk '/cpu/{printf("%.2f%%\n"), ($2+$4)*100/($2+$4+$5)}' | awk '{print $0}' | head -1
+elif [ "$1" == "disk" ]
+    then
+    echo "-------------------------------Disk Usage-------------------------------"
+    df -h | awk '$NF=="/"{printf "Disk Usage: %s\t\t\n\n", $5}'
+    df -h
+else
+    echo "Error, invalid parameter"
+    
+fi
+
